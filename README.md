@@ -16,13 +16,14 @@ inmunización, vacuna, vacunación:
 
 The entry listing is a comma-separated list of natural language terms, probably lemmas. The `notes` field can be long and multi-line, but it still needs to be [valid YAML](http://www.yamllint.com). The `status` is either `Approved`, `Rejected`, or `Candidate`.
 
-The `analyzed` field is a comma-separated list of the entry terms after they have been run through an analyzer and de-duped. The analysis chain comprises five filters:
+The `analyzed` field is a comma-separated list of the entry terms after they have been run through an analyzer and de-duped. The analysis chain comprises 6 filters:
 
 1. standard 
 2. asciifolding 
 3. lowercase 
-4. es_stop_filter 
-5. es_stem_filter
+4. es_stop_filter
+5. es_protected_filter
+6. es_stem_filter
 
 In the example entry above, `vacuna` becomes `vacun` because of the Spanish stemmer, and `vacunación` and `inmunización` become `vacunacion` and `inmunizacion`, respectively, because of ASCII folding.
 
@@ -79,47 +80,15 @@ The Elasticsearch index mapping used to transform entries into analyzed fields i
           }
         },
         "filter": {
+          "es_protected_filter": {
+            "type": "keyword_marker",
+            "keywords": [
+              "ronaldo"
+            ]
+          },
           "es_stem_filter": {
             "type": "stemmer",
             "name": "light_spanish"
-          },
-          "en_stop_filter": {
-            "type": "stop",
-            "stopwords": [
-              "a",
-              "an",
-              "and",
-              "are",
-              "as",
-              "at",
-              "be",
-              "but",
-              "by",
-              "for",
-              "if",
-              "in",
-              "into",
-              "is",
-              "no",
-              "not",
-              "of",
-              "on",
-              "or",
-              "s",
-              "such",
-              "t",
-              "that",
-              "the",
-              "their",
-              "then",
-              "there",
-              "these",
-              "they",
-              "this",
-              "to",
-              "was",
-              "with"
-            ]
           },
           "es_stop_filter": {
             "type": "stop",
@@ -204,9 +173,53 @@ The Elasticsearch index mapping used to transform entries into analyzed fields i
               "y"
             ]
           },
+          "en_protected_filter": {
+            "type": "keyword_marker",
+            "keywords": [
+              "irs"
+            ]
+          },
           "en_stem_filter": {
             "type": "stemmer",
             "name": "minimal_english"
+          },
+          "en_stop_filter": {
+            "type": "stop",
+            "stopwords": [
+              "a",
+              "an",
+              "and",
+              "are",
+              "as",
+              "at",
+              "be",
+              "but",
+              "by",
+              "for",
+              "if",
+              "in",
+              "into",
+              "is",
+              "no",
+              "not",
+              "of",
+              "on",
+              "or",
+              "s",
+              "such",
+              "t",
+              "that",
+              "the",
+              "their",
+              "then",
+              "there",
+              "these",
+              "they",
+              "this",
+              "to",
+              "was",
+              "with"
+            ]
           }
         },
         "analyzer": {
@@ -220,6 +233,7 @@ The Elasticsearch index mapping used to transform entries into analyzed fields i
               "asciifolding",
               "lowercase",
               "en_stop_filter",
+              "en_protected_filter",
               "en_stem_filter"
             ],
             "tokenizer": "standard"
@@ -234,6 +248,7 @@ The Elasticsearch index mapping used to transform entries into analyzed fields i
               "asciifolding",
               "lowercase",
               "es_stop_filter",
+              "es_protected_filter",
               "es_stem_filter"
             ],
             "tokenizer": "standard"
