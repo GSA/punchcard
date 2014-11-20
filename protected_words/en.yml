@@ -1,0 +1,25 @@
+---
+corrections:
+  :notes: corrections (criminal justice) vs. correction (a fix)
+  :status: Approved
+decs:
+  :notes: decs (decorations) vs. dec (dept of environmental conservation, december)
+  :status: Approved
+gas:
+  :notes: Stems to ga in minimal_english
+  :status: Approved
+irs:
+  :notes: Stems to ir in minimal_english
+  :status: Approved
+mars:
+  :notes: mars (planet) vs. mar (march)
+  :status: Candidate
+presidents:
+  :notes: presidents (all historical presidents) vs. president (current president)
+  :status: Approved
+records:
+  :notes: 
+  :status: Candidate
+turkeys:
+  :notes: turkeys (animals) vs. Turkey (country)
+  :status: Approved

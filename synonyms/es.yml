@@ -1,0 +1,21 @@
+---
+divorce, divorcio:
+  :notes: Approved (misspellings). AFF 2/10/14
+  :status: Approved
+  :analyzed: divorc, divorci
+importance, importante:
+  :notes: Approved (misspellings). AFF 11/19/14
+  :status: Approved
+  :analyzed: importanc, important
+inmunización, vacuna, vacunación:
+  :notes: Approved (synonyms) and (stemming). AFF 11/12/14
+  :status: Approved
+  :analyzed: inmunizacion, vacun, vacunacion
+pandemia, pandémico:
+  :notes: Approved (stemming). AFF 10/8/14
+  :status: Approved
+  :analyzed: pandemi, pandemic
+visa, visas:
+  :notes: Approved (irregular plurals). AFF 2/6/14
+  :status: Approved
+  :analyzed: visa, vis

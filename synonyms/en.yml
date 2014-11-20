@@ -1,0 +1,1725 @@
+---
+1, one:
+  :notes: Approved (cardinal numbers). Opted not to include i. AFF 10/7/14
+  :status: Approved
+  :analyzed: 1, one
+10, ten:
+  :notes: Approved (cardinal numbers). Opted not to include x. AFF 10/7/14
+  :status: Approved
+  :analyzed: 10, ten
+100, hundred:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 100, hundred
+1000, thousand:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 1000, thousand
+1000000, million:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 1000000, million
+1000000000, billion:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 1000000000, billion
+1000000000000, trillion:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 1000000000000, trillion
+1000000000000th, trillionth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 1000000000000th, trillionth
+1000000000th, billionth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 1000000000th, billionth
+1000000th, millionth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 1000000th, millionth
+1000th, thousandth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 1000th, thousandth
+100th, hundredth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 100th, hundredth
+10th, tenth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 10th, tenth
+11, eleven, xi:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 11, eleven, xi
+11th, eleventh:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 11th, eleventh
+12, dozen, twelve, xii:
+  :notes: Approved (cardinal numbers). Opted to include dozen, too (synonyms). AFF
+    10/7/14
+  :status: Approved
+  :analyzed: 12, twelve, xii, dozen
+12th, twelfth, twelth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 12th, twelfth, twelth
+13, thirteen, xiii:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 13, thirteen, xiii
+13th, thirteenth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 13th, thirteenth
+14, fourteen, xiv:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 14, fourteen, xiv
+14th, fourteenth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 14th, fourteenth
+15, fifteen, xv:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 15, fifteen, xv
+15th, fifteenth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 15th, fifteenth
+16, sixteen, xvi:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 16, sixteen, xvi
+16th, sixteenth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 16th, sixteenth
+17, seventeen, xvii:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 17, seventeen, xvii
+17th, seventeenth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 17th, seventeenth
+18, eighteen, xviii:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 18, eighteen, xviii
+18th, eighteenth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 18th, eighteenth
+19, nineteen, xix:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 19, nineteen, xix
+19th, nineteenth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 19th, nineteenth
+1st, first:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 1st, first
+2, ii, two:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 2, ii, two
+20, twenty, xx:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 20, twenty, xx
+20th, twentieth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 20th, twentieth
+2nd, second:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 2nd, second
+3, iii, three:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 3, iii, three
+30, thirty, xxx:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 30, thirty, xxx
+30th, thirtieth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 30th, thirtieth
+3rd, third:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 3rd, third
+4, four, iv:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 4, four, iv
+40, forty, xl:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 40, forty, xl
+40th, fortieth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 40th, fortieth
+4th, fourth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 4th, fourth
+5, five:
+  :notes: Approved (cardinal numbers). Opted not to include v. AFF 10/7/14
+  :status: Approved
+  :analyzed: 5, five
+50, fifty:
+  :notes: Approved (cardinal numbers). Opted not to include l. AFF 10/7/14
+  :status: Approved
+  :analyzed: 50, fifty
+50th, fiftieth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 50th, fiftieth
+5th, fifth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 5th, fifth
+6, six, vi:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 6, six, vi
+60, sixty:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 60, sixty
+60th, sixtieth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 60th, sixtieth
+6th, sixth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 6th, sixth
+7, seven, vii:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 7, seven, vii
+70, seventy:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 70, seventy
+70th, seventieth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 70th, seventieth
+7th, seventh:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 7th, seventh
+8, eight, viii:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 8, eight, viii
+80, eighty:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 80, eighty
+80th, eightieth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 80th, eightieth
+8th, eighth, eigth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 8th, eighth, eigth
+9, ix, nine:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 9, ix, nine
+90, ninety:
+  :notes: Approved (cardinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 90, ninety
+90th, ninetieth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 90th, ninetieth
+9th, ninth:
+  :notes: Approved (ordinal numbers). AFF 10/7/14
+  :status: Approved
+  :analyzed: 9th, ninth
+accredit, accreditation, accredited, accrediting:
+  :notes: Approved (stemming). AFF 2/6/14
+  :status: Approved
+  :analyzed: accreditation, accredited, accredit, accrediting
+acoustic, acoustical, acoustically:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: acoustic, acoustical, acoustically
+addenda, addendum:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: addenda, addendum
+address, addresses:
+  :notes: Approved (irregular plurals). AFF 2/6/14
+  :status: Approved
+  :analyzed: address, addresse
+adopt, adopted, adopting:
+  :notes: Approved (stemming). Opted to approve adoption/ive as a separate set. AFF
+    2/13/14
+  :status: Approved
+  :analyzed: adopt, adopted, adopting
+adoption, adoptive:
+  :notes: Approved (stemming) as a separate set from the approved set for adopt/ed/ing
+    (verb form). Consider equating the two sets as a one-way relationship. AFF 2/13/14
+  :status: Approved
+  :analyzed: adoption, adoptive
+african, afro:
+  :notes: Approved synonym set. AFF 10/8/14
+  :status: Approved
+  :analyzed: afro, african
+agricultural, agriculture:
+  :notes: Approved (stemming). AFF 2/6/14
+  :status: Approved
+  :analyzed: agricultural, agriculture
+airplane, plane:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: plane, airplane
+ak, alaska:
+  :notes: 
+  :status: Candidate
+  :analyzed: alaska, ak
+al, ala, alabama:
+  :notes: 
+  :status: Candidate
+  :analyzed: alabama, ala, al
+alcohol, alcoholic, alcoholically:
+  :notes: Approved (stemming). Consider adding alcoholism as a one-way relationship
+    later. AFF 2/11/14
+  :status: Approved
+  :analyzed: alcohol, alcoholic, alcoholically
+alligator, gator:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: alligator, gator
+alumna, alumnae, alumni, alumnus:
+  :notes: Approved (irregular plurals). Opted to combine masculine & feminine forms.
+    AFF 10/6/14
+  :status: Approved
+  :analyzed: alumna, alumnae, alumnus, alumni
+analyses, analysis:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: analysi, analyse
+antenna, antennae:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: antenna, antennae
+antitheses, antithesis:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: antithesi, antithese
+appendices, appendix, appendixes:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: appendix, appendice, appendixe
+apr, april:
+  :notes: Rejected months (clipped words). APR(s) more commonly used in our corpous
+    for sense of the acronym annual percentage rate. Consider adding one-way relationship
+    from apr to april later. AFF 10/8/14
+  :status: Rejected
+  :analyzed: apr, april
+ar, ark, arkansas:
+  :notes: 
+  :status: Candidate
+  :analyzed: arkansa, ark, ar
+arch, arches:
+  :notes: Approved (irregular plurals) AFF 2/10/14. Opted not to include arched or
+    arching as the verb has a slightly different sense than the noun. AFF 2/10/14
+  :status: Approved
+  :analyzed: arch, arche
+ariz, arizona, az:
+  :notes: Approved state set. AFF 10/8/14
+  :status: Approved
+  :analyzed: arizona, ariz, az
+asian, asiatic, oriental:
+  :notes: Approved synonym set. AFF 10/8/14
+  :status: Approved
+  :analyzed: asiatic, asian, oriental
+assn, association:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: assn, association
+aug, august:
+  :notes: Approved months (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: aug, august
+avian => bird:
+  :notes: Approved (synomyns) one-way set. Avian is used almost exclusively in sense
+    of avian/bird flu while bird is used in various senses. AFF 10/8/14
+  :status: Approved
+  :analyzed: avian => bird
+award, awarded, awarding:
+  :notes: Approved (stemming). AFF 2/6/14
+  :status: Approved
+  :analyzed: award, awarded, awarding
+bacilli, bacillus:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: bacillus, bacilli
+backpack, backpacked, backpacker, backpacking:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: backpacker, backpacking, backpack, backpacked
+bacteria, bacterium:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: bacterium, bacteria
+bee, bees:
+  :notes: 
+  :status: Approved (irregular plurals). AFF 7/11/14
+  :analyzed: bee, bees
+bicycle, bike:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: bicycle, bike
+bill, billing:
+  :notes: Rejected (stemming). Bill has too many senses (dollar, legislation, duck's
+    beak) across corpus. AFF 2/13/14
+  :status: Rejected
+  :analyzed: bill, billing
+birth, birthing:
+  :notes: Rejected (stemming). Birth has broader sense than birthing (act of childbirth)
+    across the corpus. Consider adding later as a one-way relationship. 2/11/14
+  :status: Rejected
+  :analyzed: birth, birthing
+biz, business:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: biz, business
+bomb, bombed, bomber, bombing:
+  :notes: Approved (stemming). AFF 2/6/14
+  :status: Approved
+  :analyzed: bomb, bombed, bomber, bombing
+bot, robot, robotic:
+  :notes: 
+  :status: Candidate
+  :analyzed: robot, robotic, bot
+boxer, boxing:
+  :notes: Rejected (stemming). Boxer has many senses (Senator Barbara Boxer, dog breed,
+    person who fights) across corpus. Consider add as a one-way relationship. AFF
+    2/10/14
+  :status: Rejected
+  :analyzed: boxer, boxing
+burger, hamburger:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: burger, hamburger
+burro, donkey:
+  :notes: 
+  :status: Candidate
+  :analyzed: donkey, burro
+business, businesses:
+  :notes: Approved (irregular plurals). AFF 2/6/14
+  :status: Approved
+  :analyzed: business, businesse
+ca, calif, california:
+  :notes: Approved state set. AFF 10/8/14
+  :status: Approved
+  :analyzed: california, calif, ca
+cacti, cactus:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: cactus, cacti
+calculate, calculating, calculation, calculator:
+  :notes: 
+  :status: Candidate
+  :analyzed: calculate, calculating, calculation, calculator
+camp, camped, camping:
+  :notes: Approved (stemming). Consider adding camper (person) later as a one-way
+    relationship. AFF 2/13/14
+  :status: Approved
+  :analyzed: camp, camping, camped
+cancellation, cancelled:
+  :notes: 
+  :status: Candidate
+  :analyzed: cancellation, cancelled
+canine, dog, doggy:
+  :notes: Approved synonym set. AFF 10/8/14
+  :status: Approved
+  :analyzed: dog, doggy, canine
+cat, feline:
+  :notes: Approved synonym set. Opted not to include kitty as it is more commonly
+    used within our corpus for Kitty Hawk, NC. AFF 10/8/14
+  :status: Approved
+  :analyzed: cat, feline
+cell, cellular:
+  :notes: Approved. AFF 10/3/14
+  :status: Approved
+  :analyzed: cell, cellular
+center, centre:
+  :notes: Approved spelling variant set. AFF 10/7/14
+  :status: Approved
+  :analyzed: center, centre
+certificate, certification:
+  :notes: 
+  :status: Candidate
+  :analyzed: certificate, certification
+charge, charged, charging:
+  :notes: 
+  :status: Candidate
+  :analyzed: charge, charged, charging
+chart, charted, charting:
+  :notes: Approved (stemming). AFF 10/22/14
+  :status: Approved
+  :analyzed: chart, charted, charting
+child, children:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: child, children
+chimp, chimpanzee, chimpanzees:
+  :notes: Approved (clipped words). AFF 10/8/14. Approved (irregular plurals). AFF
+    11/19/14
+  :status: Approved
+  :analyzed: chimp, chimpanzee, chimpanzees
+chlamydia, chlamydial:
+  :notes: Approved (stemming). AFF 10/30/14
+  :status: Approved
+  :analyzed: chlamydia, chlamydial
+clothes, clothing:
+  :notes: Approved (gerunds). AFF 2/10/14
+  :status: Approved
+  :analyzed: clothe, clothing
+co, colo, colorado:
+  :notes: 
+  :status: Candidate
+  :analyzed: colorado, colo, co
+comm, communication:
+  :notes: Approved (clipped words). Opted not to include com as its used for .com
+    TLDs. AFF 10/9/14
+  :status: Approved
+  :analyzed: comm, communication
+confidential, confidentiality, confidentially:
+  :notes: Approved (stemming). AFF 2/6/14
+  :status: Approved
+  :analyzed: confidential, confidentiality, confidentially
+conn, connecticut, ct:
+  :notes: 
+  :status: Candidate
+  :analyzed: connecticut, conn, ct
+connect, connected, connecting, connection:
+  :notes: 
+  :status: Candidate
+  :analyzed: connect, connected, connecting, connection
+connect, connected, connecting, connection, connectivity:
+  :notes: 
+  :status: Candidate
+  :analyzed: connect, connected, connecting, connection, connectivity
+consolidate, consolidated, consolidating, consolidation, consolidator:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: consolidating, consolidation, consolidate, consolidated, consolidator
+constitution, constitutional:
+  :notes: Approved (stemming). Consider adding constitutionality as a one-way relationship
+    later. Opted not to include for now as it is a more specific concept and could
+    be overwhelmed by results for the more general term constitution. AFF 2/10/14
+  :status: Approved
+  :analyzed: constitution, constitutional
+contact, contacting:
+  :notes: 
+  :status: Candidate
+  :analyzed: contact, contacting
+contract, contracted, contracting:
+  :notes: Approved (stemming). AFF 2/6/14
+  :status: Approved
+  :analyzed: contract, contracting, contracted
+coon, raccoon:
+  :notes: Approved (clipped words). AFF 10/9/14
+  :status: Approved
+  :analyzed: coon, raccoon
+corporate, corporation:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: corporate, corporation
+correctional, corrections:
+  :notes: Approved (stemming). Also created a corresponding entry in the protected
+    words to not stem correction/s. AFF 2/11/14
+  :status: Approved
+  :analyzed: correctional, corrections
+cosmetologist, cosmetology:
+  :notes: 
+  :status: Candidate
+  :analyzed: cosmetologist, cosmetology
+crush, crushable, crushed, crusher, crushing:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: crush, crusher, crushing, crushed, crushable
+dad, daddy, father:
+  :notes: Approved (synonyms). AFF 10/28/14
+  :status: Approved
+  :analyzed: dad, daddy, father
+de, del, delaware:
+  :notes: 
+  :status: Candidate
+  :analyzed: delaware, del, de
+dec, december:
+  :notes: Rejected months (clipped words). Decs means decorations in military. Dec
+    can mean either December or Dept. of Environmental Conservation. AFF 10/8/14
+  :status: Rejected
+  :analyzed: dec, december
+decon, decontaminate, decontaminated, decontaminating, decontamination:
+  :notes: Approved (clipped words) and (stemming). AFF 10/17/14
+  :status: Approved
+  :analyzed: decon, decontaminate, decontaminated, decontaminating, decontamination
+delay, delayed:
+  :notes: 
+  :status: Candidate
+  :analyzed: delay, delayed
+deport, deportable, deportation, deported, deporting:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: deportation, deported, deport, deporting, deportable
+deposit, deposited, depositing:
+  :notes: Approved (stemming). Consider adding depositary, depositor, depository,
+    deposition, and depositional later. Various senses of deposit (banking, legal,
+    and geological) exist across corpus. AFF 2/10/14
+  :status: Approved
+  :analyzed: deposit, deposited, depositing
+diabetes, diabetic:
+  :notes: Approved (stemming). AFF 10/30/14
+  :status: Approved
+  :analyzed: diabetic, diabete
+divorce, divorced, divorcing:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: divorce, divorced, divorcing
+dorm, dormitory:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: dorm, dormitory
+education, educational, educator:
+  :notes: 
+  :status: Candidate
+  :analyzed: education, educational, educator
+electric, electrical, electricity:
+  :notes: 
+  :status: Candidate
+  :analyzed: electric, electrical, electricity
+eligibility, eligible, eligibly:
+  :notes: Approved (stemming). AFF 2/21/14
+  :status: Approved
+  :analyzed: eligibility, eligible, eligibly
+emerge, emerging:
+  :notes: 
+  :status: Candidate
+  :analyzed: emerge, emerging
+employee, employees:
+  :notes: Approved (irregular plurals). AFF 2/6/14
+  :status: Approved
+  :analyzed: employee, employees
+enrol, enroll, enrolled, enrolling, enrollment, enrolment:
+  :notes: Approved (stemming). Approved (spelling variants). AFF 2/24/14
+  :status: Approved
+  :analyzed: enroll, enrol, enrolled, enrolling, enrollment, enrolment
+errata, erratum:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: erratum, errata
+estimate, estimated, estimating, estimation, estimator:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: estimate, estimated, estimator, estimating, estimation
+ethic, ethical, ethically:
+  :notes: Approved (stemming). AFF 10/7/14
+  :status: Approved
+  :analyzed: ethic, ethically, ethical
+exam, examination:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: exam, examination
+exempt, exempted, exemption:
+  :notes: Approved (stemming). Consider adding exempting later. AFF 2/6/14
+  :status: Approved
+  :analyzed: exempt, exempted, exemption
+expedite, expedited, expediting:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: expedite, expedited, expediting
+export, exported, exporter, exporting:
+  :notes: 
+  :status: Candidate
+  :analyzed: export, exported, exporter, exporting
+facsimile, fax, faxed, faxing:
+  :notes: Approved (stemming). Approved (clipped words). AFF 2/6/14
+  :status: Approved
+  :analyzed: fax, faxing, facsimile, faxed
+feb, february:
+  :notes: Approved months (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: feb, february
+fed, federal:
+  :notes: 
+  :status: Candidate
+  :analyzed: fed, federal
+fee, fees:
+  :notes: Approved (irregular plurals). Opted not to include past tense for feed because
+    its more commonly used in sense of giving food to someone. AFF 2/6/14
+  :status: Approved
+  :analyzed: fee, fees
+feet, foot:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: foot, feet
+feral, wild:
+  :notes: Approved synonym set. AFF 10/8/14
+  :status: Approved
+  :analyzed: feral, wild
+ffel, ffelp:
+  :notes: Approved (acronyms) for Federal Family Education Loan (FFEL) Program. AFF
+    10/8/14
+  :status: Approved
+  :analyzed: ffel, ffelp
+file, filing:
+  :notes: Approved (stemming). Consider adding filed later. AFF 2/11/14
+  :status: Approved
+  :analyzed: file, filing
+fish, fished, fishes, fishing:
+  :notes: Approved (stemming). Approved (irregular plurals). AFF 2/10/14
+  :status: Approved
+  :analyzed: fish, fishe, fishing, fished
+fl, fla, florida:
+  :notes: Approved state set. AFF 10/8/14
+  :status: Approved
+  :analyzed: florida, fla, fl
+flood, flooding:
+  :notes: Approved (stemming). AFF 2/6/14
+  :status: Approved
+  :analyzed: flood, flooding
+flu, influenza:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: flu, influenza
+fm, micronesia:
+  :notes: 
+  :status: Candidate
+  :analyzed: micronesia, fm
+forecast, forecastable, forecasted, forecasting:
+  :notes: Approved (stemming). Consider adding forecaster later. AFF 2/6/14
+  :status: Approved
+  :analyzed: forecast, forecasting, forecasted, forecastable
+fort, ft:
+  :notes: Approved (clipped words). Ft can also be used for foot, feet, and full-time,
+    but fort is the overwhelming sense in our corpus. AFF 10/3/14
+  :status: Approved
+  :analyzed: ft, fort
+frac, frack, fracking, fracturing, hydrofrac, hydrofrack, hydrofracking, hydrofracturing:
+  :notes: Approved (stemming). Approved (clipped word). AFF 11/19/14
+  :status: Approved
+  :analyzed: frac, frack, fracking, fracturing, hydrofrac, hydrofrack, hydrofracking,
+    hydrofracturing
+fridge, refrig, refrigerator:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: refrig, refrigerator, fridge
+fuel, fueling:
+  :notes: 
+  :status: Candidate
+  :analyzed: fuel, fueling
+fy00, fy2000:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2000, fy00
+fy01, fy2001:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2001, fy01
+fy02, fy2002:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2002, fy02
+fy03, fy2003:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2003, fy03
+fy04, fy2004:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2004, fy04
+fy05, fy2005:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2005, fy05
+fy06, fy2006:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2006, fy06
+fy07, fy2007:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2007, fy07
+fy08, fy2008:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2008, fy08
+fy09, fy2009:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2009, fy09
+fy10, fy2010:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2010, fy10
+fy11, fy2011:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2011, fy11
+fy12, fy2012:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2012, fy12
+fy13, fy2013:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2013, fy13
+fy14, fy2014:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2014, fy14
+fy15, fy2015:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2015, fy15
+fy16, fy2016:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2016, fy16
+fy17, fy2017:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2017, fy17
+fy18, fy2018:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2018, fy18
+fy19, fy2019:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2019, fy19
+fy20, fy2020:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2020, fy20
+fy2021, fy21:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2021, fy21
+fy2022, fy22:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2022, fy22
+fy2023, fy23:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2023, fy23
+fy2024, fy24:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2024, fy24
+fy2025, fy25:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2025, fy25
+fy2026, fy26:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2026, fy26
+fy2027, fy27:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2027, fy27
+fy2028, fy28:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2028, fy28
+fy2029, fy29:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2029, fy29
+fy2030, fy30:
+  :notes: Approved fiscal year set. AFF 10/8/14
+  :status: Approved
+  :analyzed: fy2030, fy30
+ga, georgia:
+  :notes: Consider interaction with gas/oline synonym set and gas protected words
+    entry. AFF 11/19/14
+  :status: Candidate
+  :analyzed: georgia, ga
+garden, gardener, gardening:
+  :notes: 
+  :status: Candidate
+  :analyzed: garden, gardener, gardening
+garnish, garnished, garnishing, garnishment:
+  :notes: Approved (stemming). AFF 7/11/14
+  :status: Approved
+  :analyzed: garnished, garnishing, garnishment, garnish
+gas, gasoline:
+  :notes: Approved (clipped words). Also added gas as a protected word so it doesn't
+    stem to ga. AFF 10/3/14
+  :status: Approved
+  :analyzed: gas, gasoline
+geese, goose:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: goose, geese
+gestation, gestational:
+  :notes: Approved (stemming). AFF 10/30/14
+  :status: Approved
+  :analyzed: gestation, gestational
+glacial, glaciation:
+  :notes: Approved (stemming). Consider adding glacier later. AFF 2/6/14
+  :status: Approved
+  :analyzed: glacial, glaciation
+glassmaker, glassmaking:
+  :notes: Approved (stemming). Opted to associate noun and person as it is a specific
+    enough concept. AFF 2/10/14
+  :status: Approved
+  :analyzed: glassmaker, glassmaking
+gonococcal, gonococci, gonococcus, gonorrhea, gonorrhoeae:
+  :notes: Approved (stemming). AFF 10/30/14
+  :status: Approved
+  :analyzed: gonococcal, gonococcus, gonococci, gonorrhea, gonorrhoeae
+government, govt:
+  :notes: 
+  :status: Candidate
+  :analyzed: govt, government
+grantee, grantees:
+  :notes: Approved (irregular plurals). AFF 2/10/14
+  :status: Approved
+  :analyzed: grantee, grantees
+greetings, greets:
+  :notes: 
+  :status: Candidate
+  :analyzed: greeting, greet
+gu, guam:
+  :notes: 
+  :status: Candidate
+  :analyzed: guam, gu
+gym, gymnasium:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: gym, gymnasium
+harass, harassed, harasses, harassing, harassment:
+  :notes: Approved (irregular plurals). Approved (stemming). AFF 2/24/14
+  :status: Approved
+  :analyzed: harass, harasse, harassed, harassing, harassment
+hawaii, hi:
+  :notes: 
+  :status: Candidate
+  :analyzed: hawaii, hi
+haz, hazard, hazardous:
+  :notes: Approved (clipped words). AFF 10/9/14
+  :status: Approved
+  :analyzed: haz, hazardous, hazard
+heat, heated:
+  :notes: 
+  :status: Candidate
+  :analyzed: heat, heated
+hike, hiking:
+  :notes: 
+  :status: Candidate
+  :analyzed: hike, hiking
+hipaa, hippa:
+  :notes: Approved (misspellings). AFF 2/6/14
+  :status: Approved
+  :analyzed: hipaa, hippa
+hippo, hippopotamus:
+  :notes: Approved (clipped words). AFF 10/9/14
+  :status: Approved
+  :analyzed: hippo, hippopotamus
+hire, hired, hiring:
+  :notes: 
+  :status: Candidate
+  :analyzed: hire, hired, hiring
+hispanic, latina, latino:
+  :notes: Approved synonym set. AFF 10/8/14
+  :status: Approved
+  :analyzed: hispanic, latino, latina
+hog, pig, swine:
+  :notes: Approved synonym set. Opted not to include piggy as it is more commonly
+    used within our corpus for piggy back (sic) and piggy bank. AFF 10/8/14
+  :status: Approved
+  :analyzed: pig, swine, hog
+homosexual, homosexuality:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: homosexual, homosexuality
+house, housing:
+  :notes: Rejected based on House (a legislative body) vs. housing concepts. AFF 2/6/14
+  :status: Rejected
+  :analyzed: house, housing
+housed, housing:
+  :notes: Approved (stemming) for verb tenses only. Created a separate, rejected entry
+    for hous(e/ing). AFF 2/6/14
+  :status: Approved
+  :analyzed: housed, housing
+hunt, hunted, hunter, hunting:
+  :notes: 
+  :status: Candidate
+  :analyzed: hunt, hunted, hunter, hunting
+ia, iowa:
+  :notes: 
+  :status: Candidate
+  :analyzed: iowa, ia
+id, idaho:
+  :notes: 
+  :status: Candidate
+  :analyzed: idaho, id
+il, ill, illinois:
+  :notes: 
+  :status: Candidate
+  :analyzed: illinoi, ill, il
+image, imaging:
+  :notes: 
+  :status: Candidate
+  :analyzed: image, imaging
+immunization, immunize, immunized, inoculate, vaccinate, vaccinated, vaccination, vaccine:
+  :notes: Approved (stemming). Approved (synonyms). AFF 2/6/14
+  :status: Approved
+  :analyzed: vaccination, vaccine, immunization, immunize, vaccinate, vaccinated,
+    immunized, inoculate
+inaugural, inauguration:
+  :notes: Approved (stemming). AFF 10/28/14
+  :status: Approved
+  :analyzed: inauguration, inaugural
+incorporate, incorporated, incorporating, incorporation:
+  :notes: Approved (stemming). Consider combining with separate corporate set later.  AFF
+    2/10/14
+  :status: Approved
+  :analyzed: incorporate, incorporated, incorporating, incorporation
+ind, indiana:
+  :notes: Opted not to include in because it is an English stopword. AFF 11/19/14
+  :status: Candidate
+  :analyzed: indiana, ind
+innovation, innovative:
+  :notes: 
+  :status: Candidate
+  :analyzed: innovation, innovative
+intersecting, intersection:
+  :notes: 
+  :status: Candidate
+  :analyzed: intersecting, intersection
+island, islander:
+  :notes: Rejected (stemming). Opted not to create broad association between noun
+    and person. AFF 7/11/14
+  :status: Rejected
+  :analyzed: island, islander
+jammies, pajama:
+  :notes: Rejected (synonyms) as jammies and jammy is more commonly used in our corpus
+    as a name, not pajamas. Opted not to include pj as it is more commonly used in
+    our corpus for HUD's participating jurisdiction (acronym). AFF 10/22/14
+  :status: Rejected
+  :analyzed: jammy, pajama
+jan, january:
+  :notes: Approved months (clipped words). Jan can also as a female name, but the
+    month is most common in our corpus. AFF 10/8/14
+  :status: Approved
+  :analyzed: jan, january
+jul, july:
+  :notes: Approved months (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: jul, july
+jun, june:
+  :notes: Rejected months (clipped words). Jun used equally for the month and people's
+    names in our corpus. AFF 10/8/14
+  :status: Rejected
+  :analyzed: jun, june
+kans, kansas, ks:
+  :notes: 
+  :status: Candidate
+  :analyzed: kansa, kan, ks
+kentucky, ky:
+  :notes: 
+  :status: Candidate
+  :analyzed: kentucky, ky
+la, louisiana:
+  :notes: 
+  :status: Candidate
+  :analyzed: louisiana, la
+lab, labratory:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: lab, labratory
+launch, launched, launches, launching:
+  :notes: Approved (stemming). Approved (irregular plurals). AFF 2/10/14
+  :status: Approved
+  :analyzed: launch, launche, launched, launching
+levee, leveed, leveeing, levees:
+  :notes: Approved (irregular plurals). Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: levee, levees, leveed, leveeing
+leverage, leveraged, leveraging:
+  :notes: Approved (stemming). AFF 2/11/14
+  :status: Approved
+  :analyzed: leverage, leveraged, leveraging
+lice, louse:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: louse, lice
+license, licensed, licensing:
+  :notes: 
+  :status: Candidate
+  :analyzed: license, licensed, licensing
+lift, lifted, lifting:
+  :notes: Approved (stemming). Okay for both OSHA (heavy lifting) & NASA (list off,
+    list coefficient) senses, which are the two most common in corpus. AFF 2/10/14
+  :status: Approved
+  :analyzed: lift, lifting, lifted
+limo, limousine:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: limo, limousine
+list, listing:
+  :notes: 
+  :status: Candidate
+  :analyzed: list, listing
+load, loaded:
+  :notes: 
+  :status: Candidate
+  :analyzed: load, loaded
+locate, located, location, locator:
+  :notes: Approved (stemming). All 4 variants are used within our corpus to search
+    for locations of xyz. Consider adding 'locating' later. AFF 10/22/14
+  :status: Approved
+  :analyzed: location, locator, locate, located
+located, locating, location:
+  :notes: 
+  :status: Candidate
+  :analyzed: located, locating, location
+lodge, lodging:
+  :notes: 
+  :status: Candidate
+  :analyzed: lodge, lodging
+logic, logical:
+  :notes: 
+  :status: Candidate
+  :analyzed: logic, logical
+lottery, lotto:
+  :notes: Approved (clipped words). AFF 10/9/14
+  :status: Approved
+  :analyzed: lotto, lottery
+lube, lubricant, lubricator:
+  :notes: 
+  :status: Candidate
+  :analyzed: lube, lubricant, lubricator
+lunch, luncheon:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: lunch, luncheon
+ma, mass, massachusetts:
+  :notes: 
+  :status: Candidate
+  :analyzed: massachusett, mass, ma
+maam, madam:
+  :notes: 
+  :status: Candidate
+  :analyzed: maam, madam
+maine, me:
+  :notes: Rejected state set based on other sense of me (self). Consider adding one-way
+    relationship from me to maine later. AFF 10/8/14
+  :status: Rejected
+  :analyzed: maine, me
+man, men:
+  :notes: Approved (irregular plurals). Opted not to include manned (stemming variant)
+    as it has a specific sense of manned space flights. AFF 10/6/14
+  :status: Approved
+  :analyzed: man, men
+management, mgmt:
+  :notes: 
+  :status: Candidate
+  :analyzed: mgmt, management
+map, mapping:
+  :notes: Mapping has a very specific use. Consider adding one-way relationship later.
+    AFF 2/11/14
+  :status: Candidate
+  :analyzed: map, mapping
+mar, march:
+  :notes: Rejected months (clipped words). Mar(s) more commonly used in our corpus
+    for sense of the planet Mars. Consider adding Mars to protected words list and
+    then approving this clipped words set. AFF 11/19/14
+  :status: Rejected
+  :analyzed: mar, march
+maryland, md:
+  :notes: 
+  :status: Candidate
+  :analyzed: maryland, md
+math, mathematical, mathematics:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: math, mathematic, mathematical
+media, medium:
+  :notes: 
+  :status: Candidate
+  :analyzed: media, medium
+medical, medication:
+  :notes: Rejected (stemming). Consider adding medicinal and medicine as one-way relationship
+    later. AFF 2/24/14
+  :status: Rejected
+  :analyzed: medical, medication
+meeting, mtg:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: mtg, meeting
+memo, memoranda, memorandum:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: memo, memoranda, memorandum
+meth, methamphetamine:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: meth, methamphetamine
+mi, mich, michigan:
+  :notes: Approved state set. AFF 10/8/14
+  :status: Approved
+  :analyzed: michigan, mich, mi
+mice, mouse:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: mouse, mice
+midwife, midwives:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: midwife, midwive
+minn, minnesota, mn:
+  :notes: 
+  :status: Candidate
+  :analyzed: minnesota, minn, mn
+miss, mississippi, ms:
+  :notes: 
+  :status: Candidate
+  :analyzed: mississippi, miss, ms
+missouri, mo:
+  :notes: 
+  :status: Candidate
+  :analyzed: missouri, mo
+mom, mommy, mother:
+  :notes: Approved (synonyms). Note that MOM is also a NASA acronym for Mars Orbiter
+    Mission. AFF 10/28/14
+  :status: Approved
+  :analyzed: mom, mommy, mother
+mont, montana, mt:
+  :notes: Consider potential conflict with mount. LS 10/20/14
+  :status: Candidate
+  :analyzed: montana, mont, mt
+naturalization, naturalize:
+  :notes: 
+  :status: Candidate
+  :analyzed: naturalization, naturalize
+naval, navy:
+  :notes: 
+  :status: Candidate
+  :analyzed: navy, naval
+ne, nebr, nebraska:
+  :notes: Approved state set. AFF 10/8/14
+  :status: Approved
+  :analyzed: nebraska, nebr, ne
+nev, nevada, nv:
+  :notes: 
+  :status: Candidate
+  :analyzed: nevada, nev, nv
+nov, november:
+  :notes: Approved months (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: nov, november
+obese, obesely, obeseness, obesity:
+  :notes: Approved (stemming). AFF 2/19/14
+  :status: Approved
+  :analyzed: obese, obesity, obeseness, obesely
+oct, october:
+  :notes: Approved months (clipped words). Oct also finds Michigan's Office of Career
+    and Technical Education (OCTE), but it isn't common. AFF 10/8/14
+  :status: Approved
+  :analyzed: oct, october
+office, officer:
+  :notes: Rejected (stemming). Opted not to create broad association between noun
+    and person. AFF 2/10/14
+  :status: Rejected
+  :analyzed: office, officer
+offset, offsetting:
+  :notes: Approved (stemming). AFF 2/6/14
+  :status: Approved
+  :analyzed: offset, offsetting
+oh, ohio:
+  :notes: 
+  :status: Candidate
+  :analyzed: ohio, oh
+ok, okla, oklahoma:
+  :notes: 
+  :status: Candidate
+  :analyzed: oklahoma, okla, ok
+op, operation:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: op, operation
+opossum, possum:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: possum, opossum
+opp, opportunity:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: opp, opportunity
+ore, oregon:
+  :notes: Opted not to include or as it is a boolean keyword (LS 10/20/14). Consider
+    potential conflict with ore in sense of minerals. AFF 11/19/14
+  :status: Candidate
+  :analyzed: oregon, ore
+org, organization, organizational:
+  :notes: Approved (clipped words) and (stemming). AFF 10/22/14
+  :status: Approved
+  :analyzed: org, organization, organizational
+ova, ovum:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: ova, ovum
+ox, oxen:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: ox, oxen
+pa, penna, pennsylvania:
+  :notes: Approved state set. AFF 10/8/14
+  :status: Approved
+  :analyzed: pennsylvania, penna, pa
+palau, pw:
+  :notes: 
+  :status: Candidate
+  :analyzed: palau, pw
+parachute, parachuted, parachuting:
+  :notes: Approved (stemming). AFF 10/8/14
+  :status: Approved
+  :analyzed: parachute, parachuted, parachuting
+parked, parking:
+  :notes: Approved (stemming). Opted not to include park because it has two senses
+    as a noun (piece of land and leaving a car in a place). Consider adding as a one-way
+    relationship later. AFF 2/10/14
+  :status: Approved
+  :analyzed: parked, parking
+payee, payees:
+  :notes: Approved (irregular plurals). Opted not to include payeeship, which has
+    a specific meaning for the phrase representative payee (Social Security). Consider
+    adding as a one-way relationship. AFF 2/10/14
+  :status: Approved
+  :analyzed: payee, payees
+perc, percolation:
+  :notes: Approved. AFF 10/3/14
+  :status: Approved
+  :analyzed: perc, percolation
+percent, percentage:
+  :notes: Approved (stemming). AFF 10/7/14
+  :status: Approved
+  :analyzed: percent, percentage
+petrol, petroleum:
+  :notes: Approved (stemming). AFF 10/7/14
+  :status: Approved
+  :analyzed: petrol, petroleum
+phone, telephone:
+  :notes: Approved (clipped words). AFF 10/1/14
+  :status: Approved
+  :analyzed: phone, telephone
+photo, photograph:
+  :notes: Approved (clipped words). Consider adding picture and image as synonyms
+    later. AFF 10/3/14
+  :status: Approved
+  :analyzed: photo, photograph
+phys, physical:
+  :notes: Approved (clipped words). AFF 10/9/14
+  :status: Approved
+  :analyzed: phy, physical
+pic, picture:
+  :notes: Rejected (clipped words) as PIC is more commonly used in our corpus as an
+    acronym for HUD's PIH infomation Center. Consider adding as one-way relationship
+    from pic to picture later. AFF 11/19/14
+  :status: Rejected
+  :analyzed: pic, picture
+pike, turnpike:
+  :notes: 
+  :status: Candidate
+  :analyzed: pike, turnpike
+plan, planning:
+  :notes: 
+  :status: Candidate
+  :analyzed: plan, planning
+porn, pornography:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: porn, pornography
+position, positioning:
+  :notes: 
+  :status: Candidate
+  :analyzed: position, positioning
+possess, possessed, possesses, possessing, possession:
+  :notes: Approved (stemming). Revisit possessed later as it can mean spiritual possession
+    in addition to physical sense of having. AFF 2/24/14
+  :status: Approved
+  :analyzed: possess, possesse, possessing, possession, possessed
+post, postal, posted, poster:
+  :notes: Rejected based on different senses of post across the corpus (military post,
+    post as in display, post office, etc.). AFF 2/6/14
+  :status: Rejected
+  :analyzed: post, posted, postal, poster
+posted, posting:
+  :notes: Approved (stemming) for verb tenses only. Created a separate, rejected entry
+    for post/ed/al/er. AFF 2/6/14
+  :status: Approved
+  :analyzed: posted, posting
+presidency, president, presidential:
+  :notes: Approved (stemming). AFF 2/6/14
+  :status: Approved
+  :analyzed: presidency, president, presidential
+pro, professional:
+  :notes: Rejected (clipped words). Pro more typically used in our corpus in the legal
+    sense such as in phrases like pro bono, pro se, etc. AFF 10/3/14
+  :status: Rejected
+  :analyzed: pro, professional
+product, productivity:
+  :notes: Rejected (stemming). These are unique concepts across our corpus. AFF 7/11/14
+  :status: Rejected
+  :analyzed: productivity, product
+prognoses, prognosis:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: prognosi, prognose
+protect, protected, protection:
+  :notes: Rejected based on slightly different senses across corpus. AFF 2/24/14
+  :status: Rejected
+  :analyzed: protect, protected, protection
+quiz, quizzes:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: quiz, quizze
+rattler, rattlesnake:
+  :notes: Approved (clipped words). AFF 10/9/14
+  :status: Approved
+  :analyzed: rattler, rattlesnake
+recyclable, recycle, recycled, recycling:
+  :notes: Approved (stemming). AFF 7/11/14
+  :status: Approved
+  :analyzed: recycle, recycled, recycling, recyclable
+referenda, referendum:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: referendum, referenda
+refugee, refugees:
+  :notes: Approved (irregular plurals). Consider adding refugeeism later. AFF 2/10/14
+  :status: Approved
+  :analyzed: refugee, refugees
+reg, regulation:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: reg, regulation
+rehab, rehabilitation:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: rehab, rehabilitation
+reinforced, reinforcement, reinforcing:
+  :notes: 
+  :status: Candidate
+  :analyzed: reinforced, reinforcement, reinforcing
+render, rendered:
+  :notes: 
+  :status: Candidate
+  :analyzed: render, rendered
+renovation, renovator:
+  :notes: 
+  :status: Candidate
+  :analyzed: renovation, renovator
+replace, replacement:
+  :notes: 
+  :status: Candidate
+  :analyzed: replace, replacement
+report, reported, reporter, reporting:
+  :notes: 
+  :status: Candidate
+  :analyzed: report, reported, reporter, reporting
+repossess, repossessed, repossesses, repossessing, repossession:
+  :notes: Approved (stemming). Approved (irregular plurals). Consider adding repossessor
+    later. AFF 2/24/14
+  :status: Approved
+  :analyzed: repossess, repossesse, repossessed, repossessing, repossession
+research, researcher:
+  :notes: Rejected (stemming). Opted not to create broad association between verb
+    and person. AFF 7/11/14
+  :status: Rejected
+  :analyzed: research, researcher
+residence, residency, resident:
+  :notes: 
+  :status: Candidate
+  :analyzed: residence, residency, resident
+restricted, restrictions:
+  :notes: 
+  :status: Candidate
+  :analyzed: restricted, restriction
+retire, retired, retiring:
+  :notes: Approved (stemming). Opted not to include retirement as it is the most used
+    sense and has slightly different as a noun. AFF 2/24/14
+  :status: Approved
+  :analyzed: retire, retired, retiring
+retiree, retirees:
+  :notes: Approved (irregular plurals). AFF 2/24/14
+  :status: Approved
+  :analyzed: retiree, retirees
+rig, rigging:
+  :notes: Approved (gerunds). Consider adding rigged and rigger later. Approved AFF
+    2/10/14
+  :status: Approved
+  :analyzed: rig, rigging
+roof, roofing:
+  :notes: Approved (gerunds). AFF 2/10/14
+  :status: Approved
+  :analyzed: roof, roofing
+sandbag, sandbagging:
+  :notes: Approved (stemming). AFF 7/11/14
+  :status: Approved
+  :analyzed: sandbag, sandbagging
+scaffold, scaffolded, scaffolding:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: scaffold, scaffolding, scaffolded
+screen, screening:
+  :notes: 
+  :status: Candidate
+  :analyzed: screen, screening
+senate => senator:
+  :notes: Approved (stemming) one-way set. Senate (legislative body) is broader than
+    senators (individuals). AFF 11/19/14
+  :status: Approved
+  :analyzed: senate => senator
+sept, september:
+  :notes: Approved months (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: sept, september
+sequester, sequestered, sequestration:
+  :notes: Approved (stemming). AFF 2/6/14
+  :status: Approved
+  :analyzed: sequester, sequestered, sequestration
+set, setting:
+  :notes: Rejected (stemming). Opted not to approve based on many senses across corpus.
+    AFF 2/19/14
+  :status: Rejected
+  :analyzed: set, setting
+sexual, sexuality:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: sexual, sexuality
+shoot, shooter, shooting:
+  :notes: Approved (stemming). Consider adding shot later. AFF 2/24/14
+  :status: Approved
+  :analyzed: shoot, shooter, shooting
+sketch, sketches, sketching:
+  :notes: Approved (stemming). Approved (irregular plurals). AFF 8/8/14
+  :status: Approved
+  :analyzed: sketch, sketche, sketching
+ski, skiing:
+  :notes: Approved (stemming). Consider adding skied later (but it can mean both sky
+    and ski). AFF 2/6/14
+  :status: Approved
+  :analyzed: ski, skiing
+spec, specification:
+  :notes: Approved (clipped words). AFF 10/9/14
+  :status: Approved
+  :analyzed: spec, specification
+spiritual, spirituality:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: spiritual, spirituality
+st, street:
+  :notes: Approved (clipped words). St can also be used for street, state, and standard
+    time, but st/saint is the overwhelming sense in our corpus. AFF 10/3/14
+  :status: Approved
+  :analyzed: st, street
+standard, standardization:
+  :notes: 
+  :status: Candidate
+  :analyzed: standardization, standard
+stat, statistical, statistics:
+  :notes: Approved (clipped words). Approved (stemming). Statistical is used as a
+    query phrase (such as statistical abstract or statistical area) so including it
+    here. Consider adding statistically later. AFF 10/6/14
+  :status: Approved
+  :analyzed: stat, statistical, statistic
+stimuli, stimulus:
+  :notes: Approved (irregular plurals). AFF 10/7/14
+  :status: Approved
+  :analyzed: stimulus, stimuli
+supplier, supplies:
+  :notes: 
+  :status: Candidate
+  :analyzed: supplier, supply
+swim, swimming:
+  :notes: Approved (stemming). Opted not to include swam as it is more often searched
+    as a typo for swan. Also considered swum, but it's never been searched. AFF 10/28/14
+  :status: Approved
+  :analyzed: swim, swimming
+sync, synchronize:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: synchronize, sync
+tattoo, tattooed, tattooing:
+  :notes: Approved (stemming). Approved AFF 2/6/14
+  :status: Approved
+  :analyzed: tattoo, tattooing, tattooed
+tax, taxable, taxation, taxes:
+  :notes: Approved (stemming). Approved (irregular plurals). Consider adding taxed
+    and taxing later. AFF 2/6/14
+  :status: Approved
+  :analyzed: tax, taxable, taxation, taxe
+taxi, taxicab:
+  :notes: Approved (clipped words). AFF 10/6/14
+  :status: Approved
+  :analyzed: taxi, taxicab
+tb, tuberculosis:
+  :notes: Approved (abbreviations). AFF 10/30/14
+  :status: Approved
+  :analyzed: tb, tuberculosi
+tech, technical, technician, technology:
+  :notes: 
+  :status: Candidate
+  :analyzed: tech, technology, technician, technical
+teen, teenage, teenager:
+  :notes: Approved (clipped words). AFF 10/3/14
+  :status: Approved
+  :analyzed: teen, teenage, teenager
+teeth, tooth:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: tooth, teeth
+television, tv:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: tv, television
+tenn, tennessee, tn:
+  :notes: 
+  :status: Candidate
+  :analyzed: tennessee, tenn, tn
+tex, texas, tx:
+  :notes: 
+  :status: Candidate
+  :analyzed: texa, tex, tx
+theses, thesis:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: thesi, these
+ticket, tix:
+  :notes: 
+  :status: Candidate
+  :analyzed: tix, ticket
+tour, touring:
+  :notes: Approved (gerunds). Consider adding toured (verb) and maybe tourist. AFF
+    2/10/14
+  :status: Approved
+  :analyzed: tour, touring
+translate, translated, translating, translator:
+  :notes: 
+  :status: Candidate
+  :analyzed: translate, translated, translating, translator
+travel, traveling:
+  :notes: Approved (stemming). AFF 2/6/14
+  :status: Approved
+  :analyzed: travel, traveling
+underwrite, underwriter, underwriting, underwritten, underwrote:
+  :notes: Approved (stemming). AFF 2/24/14
+  :status: Approved
+  :analyzed: underwrite, underwrote, underwriting, underwritten, underwriter
+ut, utah:
+  :notes: Approved state set. AFF 10/8/14
+  :status: Approved
+  :analyzed: utah, ut
+va, virginia:
+  :notes: 
+  :status: Candidate
+  :analyzed: virginia, va
+vermont, vt:
+  :notes: Approved state set. AFF 10/8/14
+  :status: Approved
+  :analyzed: vermont, vt
+vet, veteran:
+  :notes: Vet has 2 distinct senses in our corpus, veterinarian and veteran. Veteran
+    is most common across all sites, but veterinarian is common on sites like Kids.gov.
+    AFF 10/6/14
+  :status: Candidate
+  :analyzed: vet, veteran
+voc, vocational:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: voc, vocational
+vocab, vocabulary:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: vocab, vocabulary
+volunteer, volunteered, volunteering:
+  :notes: Approved (stemming). Consider adding voluntary later. AFF 2/6/14
+  :status: Approved
+  :analyzed: volunteer, volunteered, volunteering
+vote, voted, voting:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: vote, voting, voted
+wa, wash, washington:
+  :notes: 
+  :status: Candidate
+  :analyzed: washington, wash, wa
+waive, waived, waiver, waiving:
+  :notes: Approved (stemming). AFF 2/10/14
+  :status: Approved
+  :analyzed: waive, waiver, waived, waiving
+well, wellness:
+  :notes: Rejected (stemming). Well has 2 distinct and separate senses (reservoir
+    for water, better/best) across corpus. Consider later as a one-way relationship.
+    AFF 2/10/14
+  :status: Rejected
+  :analyzed: well, wellness
+wharf, wharves:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: wharf, wharve
+wi, wisconsin:
+  :notes: Wi is the token for both Wis and Wi so only Wi listed above. AFF 11/19/14
+  :status: Candidate
+  :analyzed: wisconsin, wi
+wife, wives:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: wife, wive
+wolf, wolves:
+  :notes: Approved (irregular plurals). AFF 10/9/14
+  :status: Approved
+  :analyzed: wolf, wolve
+woman, women:
+  :notes: Approved (irregular plurals). AFF 10/6/14
+  :status: Approved
+  :analyzed: woman, women
+work, workers, working:
+  :notes: 
+  :status: Candidate
+  :analyzed: work, worker, working
+write, writing, written, wrote:
+  :notes: Rejected (stemming). Consider adding later as two-word phrases when feasible
+    (such as writing test = written test, but not writing = written). AFF 2/24/14
+  :status: Rejected
+  :analyzed: write, writing, written, wrote
+wy, wyo, wyoming:
+  :notes: 
+  :status: Candidate
+  :analyzed: wyoming, wyo, wy
+zip, zipcode:
+  :notes: Approved (clipped words). AFF 10/8/14
+  :status: Approved
+  :analyzed: zip, zipcode
