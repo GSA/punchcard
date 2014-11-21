@@ -1,25 +1,70 @@
 ---
+arms:
+  :notes: arm (limb) vs. arms (weapons, ammunition)
+  :status: Candidate
+clothes:
+  :notes: cloth (fabric) vs. clothes (clothing)
+  :status: Candidate
+communications:
+  :notes: 
+  :status: Candidate
 corrections:
-  :notes: corrections (criminal justice) vs. correction (a fix)
+  :notes: correction (a fix) vs. corrections (criminal justice)
+  :status: Approved
+credentials:
+  :notes: 
+  :status: Candidate
+customs:
+  :notes: custom (tradition) vs. customs (govt agency that collects duties)
   :status: Approved
 decs:
-  :notes: decs (decorations) vs. dec (dept of environmental conservation, december)
+  :notes: dec (dept of environmental conservation, december) vs. decs (decorations)
   :status: Approved
-gas:
-  :notes: Stems to ga in minimal_english
-  :status: Approved
-irs:
-  :notes: Stems to ir in minimal_english
-  :status: Approved
-mars:
-  :notes: mars (planet) vs. mar (march)
+funds:
+  :notes: 
   :status: Candidate
-presidents:
-  :notes: presidents (all historical presidents) vs. president (current president)
+gas:
+  :notes: Protecting from being stemmed to ga in minimal_english
   :status: Approved
+goods:
+  :notes: good (healthy, well, right) vs. goods (merchandise)
+  :status: Candidate
+guts:
+  :notes: gut (intestine) vs. guts (courage)
+  :status: Candidate
+humanities:
+  :notes: 
+  :status: Candidate
+irs:
+  :notes: Protecting from being stemmed to ir in minimal_english
+  :status: Approved
+letters:
+  :notes: 
+  :status: Candidate
+mars:
+  :notes: mars (planet) vs. mar (march, disfigure)
+  :status: Approved
+minutes:
+  :notes: 
+  :status: Candidate
+news:
+  :notes: new (not existing before) vs. news (broadcast or published news)
+  :status: Approved
+presidents:
+  :notes: president (current president) vs. presidents (all historical presidents)
+  :status: Approved
+quarters:
+  :notes: quarter (coin, one-fourth) vs. quarters (lodging)
+  :status: Candidate
 records:
   :notes: 
   :status: Candidate
+shingles:
+  :notes: shingle (roofing material) vs. shingles (viral infection)
+  :status: Approved
+troops:
+  :notes: 
+  :status: Candidate
 turkeys:
-  :notes: turkeys (animals) vs. Turkey (country)
+  :notes: Turkey (country) vs. turkeys (animals)
   :status: Approved
