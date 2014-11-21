@@ -33,19 +33,19 @@ guts:
   :notes: gut (intestine) vs. guts (courage)
   :status: Candidate
 humanities:
-  :notes: 
+  :notes: humanity (mankind) vs. humanities (liberal arts education)
   :status: Candidate
 irs:
   :notes: Protecting from being stemmed to ir in minimal_english
   :status: Approved
 letters:
-  :notes: 
+  :notes: letter (alphabetical character, note) vs. letters (arts education)
   :status: Candidate
 mars:
   :notes: mars (planet) vs. mar (march, disfigure)
   :status: Approved
 minutes:
-  :notes: 
+  :notes: minute (60 seconds) vs. minutes (meeting summary)
   :status: Candidate
 news:
   :notes: new (not existing before) vs. news (broadcast or published news)
@@ -59,6 +59,9 @@ quarters:
 records:
   :notes: 
   :status: Candidate
+securities:
+  :notes: security (safety, free from danger) vs. securities (investments)
+  :status: Approved
 shingles:
   :notes: shingle (roofing material) vs. shingles (viral infection)
   :status: Approved
