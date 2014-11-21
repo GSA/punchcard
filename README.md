@@ -60,6 +60,28 @@ Generate the text file of *approved* protected words for each locale, like this:
 
 You can then reference these files when you define your per-locale keyword marker filters.
 
+# Stop words
+
+Each locale's stop words are in a separate YAML file (e.g., `es.yml`, `en.yml`). Here is a sample entry:
+
+```yaml
+they:
+  :notes: 
+  :status: Approved
+```
+
+The entry listing is the token *after* ASCII folding and lowercasing.
+
+## Extracting approved stop words to Solr/Elasticsearch format
+
+Generate the text file of *approved* stop words for each locale, like this:
+
+    cd stop_words
+    ./lib/yaml_to_solr.rb es.yml > es.txt
+    ./lib/yaml_to_solr.rb en.yml > en.txt
+
+You can then reference these files when you define your per-locale stop word filters.
+
 # Analysis
 
 The Elasticsearch index mapping used to transform entries into analyzed fields is here:
