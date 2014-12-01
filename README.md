@@ -1,7 +1,7 @@
 punchcard
 =========
 
-Repository of vocabularies, synonyms, protected words, dictionaries, etc.
+Repository of synonyms, protected words, and stop words.
 
 # Synonyms
 
