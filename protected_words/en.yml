@@ -2,6 +2,9 @@
 arms:
   :notes: arm (limb) vs. arms (weapons, ammunition)
   :status: Candidate
+brains:
+  :notes: 
+  :status: Candidate
 clothes:
   :notes: cloth (fabric) vs. clothes (clothing)
   :status: Candidate
@@ -26,6 +29,9 @@ funds:
 gas:
   :notes: Protecting from being stemmed to ga in minimal_english
   :status: Approved
+glasses:
+  :notes: 
+  :status: Candidate
 goods:
   :notes: good (healthy, well, right) vs. goods (merchandise)
   :status: Candidate

@@ -436,6 +436,10 @@ ca, calif, california:
   :notes: Approved state set. AFF 10/8/14
   :status: Approved
   :analyzed: california, calif, ca
+cacao, chocolate, cocoa:
+  :notes: Approved (synonyms). AFF 1/7/15
+  :status: Approved
+  :analyzed: cacao, chocolate, cocoa
 cacti, cactus:
   :notes: Approved (irregular plurals). AFF 10/6/14
   :status: Approved
@@ -921,6 +925,10 @@ harass, harassed, harasses, harassing, harassment:
   :notes: Approved (irregular plurals). Approved (stemming). AFF 2/24/14
   :status: Approved
   :analyzed: harass, harasse, harassed, harassing, harassment
+hack, hacked, hacking:
+  :notes: Approved (stemming). AFF 1/13/15
+  :status: Approved
+  :analyzed: hack, hacked, hacking
 hawaii, hi:
   :notes: 
   :status: Candidate
