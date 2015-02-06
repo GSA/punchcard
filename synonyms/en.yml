@@ -1017,10 +1017,14 @@ ind, indiana:
   :notes: Opted not to include in because it is an English stopword. AFF 11/19/14
   :status: Candidate
   :analyzed: indiana, ind
-innovation, innovative:
+innovative, innovation, innovating, innovated:
+  :notes: Approved (stemming). AFF 2/6/15.
+  :status: Approved
+  :analyzed: innovative, innovation, innovating, innovated
+integrate, integrated, integration, integrative:
   :notes: 
   :status: Candidate
-  :analyzed: innovation, innovative
+  :analyzed: integrate, integrated, integration, integrative
 intersecting, intersection:
   :notes: 
   :status: Candidate
