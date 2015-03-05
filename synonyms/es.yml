@@ -1,10 +1,14 @@
 ---
+chlamydia, chlamydial, chlamidia, clamidia, clamydia:
+  :notes: Approved (stemming) AFF 10/30/14. Added and approved (misspellings) and (language variants). AFF 3/4/15
+  :status: Approved
+  :analyzed: chlamydi, chlamydial, chlamidi, clamidi, clamydi
 divorce, divorcio:
-  :notes: Approved (misspellings). AFF 2/10/14
+  :notes: Approved (language variants). AFF 2/10/14
   :status: Approved
   :analyzed: divorc, divorci
 importance, importante:
-  :notes: Approved (misspellings). AFF 11/19/14
+  :notes: Approved (language variants). AFF 11/19/14
   :status: Approved
   :analyzed: importanc, important
 inmunización, vacuna, vacunación:
@@ -15,6 +19,14 @@ pandemia, pandémico:
   :notes: Approved (stemming). AFF 10/8/14
   :status: Approved
   :analyzed: pandemi, pandemic
+satern, saturno:
+  :notes: Approved (misspellings). Correct spelling of Saturn (English) isn't needed as it is coverage by Spanish analysis chain. AFF 3/4/15
+  :status: Approved
+  :analyzed: satern, saturn
+sífilis, syphilis:
+  :notes: Approved (language variants). AFF 3/4/15
+  :status: Approved
+  :analyzed: sifilis, syphilis
 visa, visas:
   :notes: Approved (irregular plurals). AFF 2/6/14
   :status: Approved

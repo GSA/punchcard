@@ -41,8 +41,11 @@ guts:
 humanities:
   :notes: humanity (mankind) vs. humanities (liberal arts education)
   :status: Candidate
+ihs:
+  :notes: Protecting IHS (federal agency) from being stemmed to ih in minimal_english
+  :status: Approved
 irs:
-  :notes: Protecting from being stemmed to ir in minimal_english
+  :notes: Protecting IRS (federal agency) from being stemmed to ir in minimal_english
   :status: Approved
 letters:
   :notes: letter (alphabetical character, note) vs. letters (arts education)
@@ -55,6 +58,9 @@ minutes:
   :status: Candidate
 news:
   :notes: new (not existing before) vs. news (broadcast or published news)
+  :status: Approved
+nhis:
+  :notes: Protecting NHIS (CDC's National Health Interview Survey) from being stemmed to nhi in minimal_english
   :status: Approved
 presidents:
   :notes: president (current president) vs. presidents (all historical presidents)
@@ -76,4 +82,10 @@ troops:
   :status: Candidate
 turkeys:
   :notes: Turkey (country) vs. turkeys (animals)
+  :status: Approved
+usgs:
+  :notes: Protecting USGS (federal agency) from being stemmed to usg in minimal_english
+  :status: Approved
+usps:
+  :notes: Protecting USPS (federal agency) from being stemmed to usp in minimal_english
   :status: Approved

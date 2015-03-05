@@ -260,6 +260,10 @@ accredit, accreditation, accredited, accrediting:
   :notes: Approved (stemming). AFF 2/6/14
   :status: Approved
   :analyzed: accreditation, accredited, accredit, accrediting
+accupuncture, acupuncture, acupunture:
+  :notes: Approved (misspellings). AFF 3/4/15
+  :status: Approved
+  :analyzed: accupuncture, acupuncture, acupunture
 acoustic, acoustical, acoustically:
   :notes: Approved (stemming). AFF 2/10/14
   :status: Approved
@@ -286,6 +290,10 @@ african, afro:
   :notes: Approved synonym set. AFF 10/8/14
   :status: Approved
   :analyzed: afro, african
+ageing, aging:
+  :notes: Approved (spelling variants). AFF 3/4/15
+  :status: Approved
+  :analyzed: ageing, aging
 agricultural, agriculture:
   :notes: Approved (stemming). AFF 2/6/14
   :status: Approved
@@ -302,11 +310,15 @@ al, ala, alabama:
   :notes: 
   :status: Candidate
   :analyzed: alabama, ala, al
-alcohol, alcoholic, alcoholically:
+alchol, alcohol, alcoholic, alcoholically:
   :notes: Approved (stemming). Consider adding alcoholism as a one-way relationship
-    later. AFF 2/11/14
+    later. AFF 2/11/14. Added and approved alchol (misspellings). AFF 3/4/15
   :status: Approved
-  :analyzed: alcohol, alcoholic, alcoholically
+  :analyzed: alchol, alcohol, alcoholic, alcoholically
+aliaen, alien:
+  :notes: Approved (misspellings). AFF 3/4/15
+  :status: Approved
+  :analyzed: aliaen, alien
 alligator, gator:
   :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
@@ -316,6 +328,10 @@ alumna, alumnae, alumni, alumnus:
     AFF 10/6/14
   :status: Approved
   :analyzed: alumna, alumnae, alumnus, alumni
+amazon, amzn:
+  :notes: Approved (tickers). AFF 3/3/15
+  :status: Approved
+  :analyzed: amazon, amzn
 analyses, analysis:
   :notes: Approved (irregular plurals). AFF 10/6/14
   :status: Approved
@@ -328,10 +344,18 @@ antitheses, antithesis:
   :notes: Approved (irregular plurals). AFF 10/6/14
   :status: Approved
   :analyzed: antithesi, antithese
+apollo, apolo, appollo:
+  :notes: Approved (misspellings). AFF 3/3/15
+  :status: Approved
+  :analyzed: apollo, apolo, appollo
 appendices, appendix, appendixes:
   :notes: Approved (irregular plurals). AFF 10/6/14
   :status: Approved
   :analyzed: appendix, appendice, appendixe
+apointment, appoinment, appoitment, appointment:
+  :notes: Approved (misspellings). AFF 3/3/15
+  :status: Approved
+  :analyzed: apointment, appoinment, appoitment, appointment
 apr, april:
   :notes: Rejected months (clipped words). APR(s) more commonly used in our corpous
     for sense of the acronym annual percentage rate. Consider adding one-way relationship
@@ -351,6 +375,10 @@ ariz, arizona, az:
   :notes: Approved state set. AFF 10/8/14
   :status: Approved
   :analyzed: arizona, ariz, az
+armor, armour:
+  :notes: Approved (spelling variants). AFF 3/4/15
+  :status: Approved
+  :analyzed: armor, armour
 asian, asiatic, oriental:
   :notes: Approved synonym set. AFF 10/8/14
   :status: Approved
@@ -359,6 +387,10 @@ assn, association:
   :notes: Approved (clipped words). AFF 10/8/14
   :status: Approved
   :analyzed: assn, association
+astronaught, astronaut:
+  :notes: Approved months (missepellings). AFF 3/4/15
+  :status: Approved
+  :analyzed: astronaught, astronaut
 aug, august:
   :notes: Approved months (clipped words). AFF 10/8/14
   :status: Approved
@@ -372,6 +404,10 @@ award, awarded, awarding:
   :notes: Approved (stemming). AFF 2/6/14
   :status: Approved
   :analyzed: award, awarded, awarding
+babesia, babesiosis:
+  :notes: Approved (stemming). AFF 3/4/15
+  :status: Approved
+  :analyzed: babesia, babesiosi
 bacilli, bacillus:
   :notes: Approved (irregular plurals). AFF 10/6/14
   :status: Approved
@@ -384,10 +420,18 @@ bacteria, bacterium:
   :notes: Approved (irregular plurals). AFF 10/6/14
   :status: Approved
   :analyzed: bacterium, bacteria
+baidu, bidu:
+  :notes: Approved (tickers). AFF 3/4/15
+  :status: Approved
+  :analyzed: baidu, bidu
 bee, bees:
   :notes: 
   :status: Approved (irregular plurals). AFF 7/11/14
   :analyzed: bee, bees
+benefit, benifit:
+  :notes: Approved (misspellings). AFF 3/4/15
+  :status: Approved
+  :analyzed: benefit, benifit
 bicycle, bike:
   :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
@@ -420,10 +464,18 @@ boxer, boxing:
     2/10/14
   :status: Rejected
   :analyzed: boxer, boxing
+buletin, bulletin, bullitin:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: buletin, bulletin, bullitin
 burger, hamburger:
   :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
   :analyzed: burger, hamburger
+burma, burmese, myanmar:
+  :notes: Approved (stemming, synonyms). AFF 3/3/15
+  :status: Approved
+  :analyzed: burma, burmese, myanmar
 burro, donkey:
   :notes: 
   :status: Candidate
@@ -461,6 +513,10 @@ canine, dog, doggy:
   :notes: Approved synonym set. AFF 10/8/14
   :status: Approved
   :analyzed: dog, doggy, canine
+career, carrer:
+  :notes: Approved (misspellings). AFF 3/3/15
+  :status: Approved
+  :analyzed: career, carrer
 cat, feline:
   :notes: Approved synonym set. Opted not to include kitty as it is more commonly
     used within our corpus for Kitty Hawk, NC. AFF 10/8/14
@@ -495,10 +551,14 @@ chimp, chimpanzee, chimpanzees:
     11/19/14
   :status: Approved
   :analyzed: chimp, chimpanzee, chimpanzees
-chlamydia, chlamydial:
-  :notes: Approved (stemming). AFF 10/30/14
+chlamydia, chlamydial, chlamidia, clamidia, clamydia:
+  :notes: Approved (stemming) AFF 10/30/14. Added and approved (misspellings) and (language variants). AFF 3/4/15
   :status: Approved
-  :analyzed: chlamydia, chlamydial
+  :analyzed: chlamydia, chlamydial, chlamidia, clamidia, clamydia 
+chronolgy, chronology:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: chronolgy, chronology
 clothes, clothing:
   :notes: Approved (gerunds). AFF 2/10/14
   :status: Approved
@@ -563,10 +623,26 @@ cosmetologist, cosmetology:
   :notes: 
   :status: Candidate
   :analyzed: cosmetologist, cosmetology
+coxsackie, coxsackievirus:
+  :notes: Approved (clipped words). AFF 3/4/15
+  :status: Approved
+  :analyzed: coxsackie, coxsackievirus
 crush, crushable, crushed, crusher, crushing:
   :notes: Approved (stemming). AFF 2/10/14
   :status: Approved
   :analyzed: crush, crusher, crushing, crushed, crushable
+cryptosporidium, cryptosporidiosis: 
+  :notes: Approved (stemming). Consider also including clipped form for crypto. AFF 3/3/15
+  :status: Approved
+  :analyzed: cryptosporidium, cryptosporidiosi
+cybr, cyberark:
+  :notes: Approved (tickers). AFF 3/4/15
+  :status: Approved
+  :analyzed: cybr, cyberark
+cyclospora, cyclosporiasis:
+  :notes: Approved (stemming). AFF 3/4/15
+  :status: Approved
+  :analyzed: cyclospora, cyclosporiasi
 dad, daddy, father:
   :notes: Approved (synonyms). AFF 10/28/14
   :status: Approved
@@ -588,6 +664,10 @@ delay, delayed:
   :notes: 
   :status: Candidate
   :analyzed: delay, delayed
+department, dept:
+  :notes: 
+  :status: Candidate
+  :analyzed: department, dept
 deport, deportable, deportation, deported, deporting:
   :notes: Approved (stemming). AFF 2/10/14
   :status: Approved
@@ -602,18 +682,46 @@ diabetes, diabetic:
   :notes: Approved (stemming). AFF 10/30/14
   :status: Approved
   :analyzed: diabetic, diabete
+difficle, difficile:
+  :notes: Approved (misspellings). Clostridium difficile infection (c. diff). AFF 3/5/15
+  :status: Approved
+  :analyzed: difficle, difficile
+diptheria, diphtheria:
+  :notes: Approved (misspellings). AFF 3/3/15
+  :status: Approved
+  :analyzed: diptheria, diphtheria
+disabilty, disability:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: disabilty, disability
 divorce, divorced, divorcing:
   :notes: Approved (stemming). AFF 2/10/14
   :status: Approved
   :analyzed: divorce, divorced, divorcing
+docter, doctor:
+  :notes: Approved (misspellings). AFF 3/4/15
+  :status: Approved
+  :analyzed: docter, doctor
 dorm, dormitory:
   :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
   :analyzed: dorm, dormitory
+earhquake, earthqake, earthquake, eathquake:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: earhquake, earthqake, earthquake, eathquake
+eaton, etn:
+  :notes: Approved (tickers). AFF 3/4/15
+  :status: Approved
+  :analyzed: eaton, etn
 education, educational, educator:
   :notes: 
   :status: Candidate
   :analyzed: education, educational, educator
+ehrlichia, ehrlichial, ehrlichiosis:
+  :notes: Approved (stemming). AFF 3/5/15
+  :status: Approved
+  :analyzed: ehrlichia, ehrlichial, ehrlichiosi
 electric, electrical, electricity:
   :notes: 
   :status: Candidate
@@ -630,10 +738,18 @@ employee, employees:
   :notes: Approved (irregular plurals). AFF 2/6/14
   :status: Approved
   :analyzed: employee, employees
+employement, employment:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: employement, employment
 enrol, enroll, enrolled, enrolling, enrollment, enrolment:
   :notes: Approved (stemming). Approved (spelling variants). AFF 2/24/14
   :status: Approved
   :analyzed: enroll, enrol, enrolled, enrolling, enrollment, enrolment
+enterobiasis, enterobius, pinworm:
+  :notes: Approved (stemming and synonyms). AFF 3/5/15
+  :status: Approved
+  :analyzed: enterobiasi, enterobius, pinworm
 errata, erratum:
   :notes: Approved (irregular plurals). AFF 10/6/14
   :status: Approved
@@ -666,6 +782,10 @@ facsimile, fax, faxed, faxing:
   :notes: Approved (stemming). Approved (clipped words). AFF 2/6/14
   :status: Approved
   :analyzed: fax, faxing, facsimile, faxed
+fasciitis, fascitis:
+  :notes: Approved (misspellings). Necrotizing fasciitis ("flesh-eating" bacteria). AFF 3/5/15
+  :status: Approved
+  :analyzed: fasciiti, fasciti
 feb, february:
   :notes: Approved months (clipped words). AFF 10/8/14
   :status: Approved
@@ -708,10 +828,10 @@ flood, flooding:
   :notes: Approved (stemming). AFF 2/6/14
   :status: Approved
   :analyzed: flood, flooding
-flu, influenza:
-  :notes: Approved (clipped words). AFF 10/3/14
+flu, influenza, influenzae:
+  :notes: Approved (clipped words). AFF 10/3/14. Added and approved influenzae (synonyms). AFF 3/3/15
   :status: Approved
-  :analyzed: flu, influenza
+  :analyzed: flu, influenza, influenzae
 fm, micronesia:
   :notes: 
   :status: Candidate
@@ -888,6 +1008,10 @@ gestation, gestational:
   :notes: Approved (stemming). AFF 10/30/14
   :status: Approved
   :analyzed: gestation, gestational
+giardia, giardiasis:
+  :notes: Approved (stemming). AFF 3/3/15
+  :status: Approved
+  :analyzed: giardia, giardiasi 
 glacial, glaciation:
   :notes: Approved (stemming). Consider adding glacier later. AFF 2/6/14
   :status: Approved
@@ -897,14 +1021,14 @@ glassmaker, glassmaking:
     enough concept. AFF 2/10/14
   :status: Approved
   :analyzed: glassmaker, glassmaking
-gonococcal, gonococci, gonococcus, gonorrhea, gonorrhoeae:
-  :notes: Approved (stemming). AFF 10/30/14
+gonococcal, gonococci, gonococcus, gonorrhea, gonorrhoeae, gonnorhea, gonorhea, gonorrhoea:
+  :notes: Approved (stemming) and (misspellings). Updated AFF 3/4/15
   :status: Approved
-  :analyzed: gonococcal, gonococcus, gonococci, gonorrhea, gonorrhoeae
-government, govt:
-  :notes: 
-  :status: Candidate
-  :analyzed: govt, government
+  :analyzed: gonococcal, gonococcus, gonococci, gonorrhea, gonorrhoeae, gonnorhea, gonorhea, gonorrhoea
+goverment, government, govt:
+  :notes: Approved (clipped words and misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: goverment, govt, government
 grantee, grantees:
   :notes: Approved (irregular plurals). AFF 2/10/14
   :status: Approved
@@ -941,6 +1065,14 @@ heat, heated:
   :notes: 
   :status: Candidate
   :analyzed: heat, heated
+hepatitus, hepatitis:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: hepatitus, hepatiti
+herpes, herpies:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: herpe, herpy
 hike, hiking:
   :notes: 
   :status: Candidate
@@ -970,6 +1102,10 @@ homosexual, homosexuality:
   :notes: Approved (stemming). AFF 2/10/14
   :status: Approved
   :analyzed: homosexual, homosexuality
+horizon, horrizon:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: horizon, horrizon
 house, housing:
   :notes: Rejected based on House (a legislative body) vs. housing concepts. AFF 2/6/14
   :status: Rejected
@@ -999,11 +1135,14 @@ image, imaging:
   :notes: 
   :status: Candidate
   :analyzed: image, imaging
-immunization, immunize, immunized, inoculate, vaccinate, vaccinated, vaccination, vaccine:
-  :notes: Approved (stemming). Approved (synonyms). AFF 2/6/14
+imigration, immigration, immagration:
+  :notes: Approved (misspellings). AFF 3/4/15
   :status: Approved
-  :analyzed: vaccination, vaccine, immunization, immunize, vaccinate, vaccinated,
-    immunized, inoculate
+  :analyzed: imigration, immigration, immagration
+immunization, immunize, immunized, inoculate, vacination, vaccinate, vaccinated, vaccination, vaccine:
+  :notes: Approved (stemming) and (synonyms) AFF 2/6/14. Added and approved vacination (misspellings). AFF 3/4/15
+  :status: Approved
+  :analyzed: immunization, immunize, immunized, inoculate, vacination, vaccinate, vaccinated, vaccination, vaccine 
 inaugural, inauguration:
   :notes: Approved (stemming). AFF 10/28/14
   :status: Approved
@@ -1017,6 +1156,10 @@ ind, indiana:
   :notes: Opted not to include in because it is an English stopword. AFF 11/19/14
   :status: Candidate
   :analyzed: indiana, ind
+infopass, inforpass:
+  :notes: Approved (misspellings). AFF 3/3/15
+  :status: Approved
+  :analyzed: infopass, inforpass
 innovative, innovation, innovating, innovated:
   :notes: Approved (stemming). AFF 2/6/15.
   :status: Approved
@@ -1029,6 +1172,10 @@ intersecting, intersection:
   :notes: 
   :status: Candidate
   :analyzed: intersecting, intersection
+isil, isis:
+  :notes: Approved (synonyms). See http://www.washingtonpost.com/blogs/worldviews/wp/2014/06/18/isis-or-isil-the-debate-over-what-to-call-iraqs-terror-group/ for information on name variants. AFF 3/3/15
+  :status: Approved
+  :analyzed: isil, isi
 island, islander:
   :notes: Rejected (stemming). Opted not to create broad association between noun
     and person. AFF 7/11/14
@@ -1054,6 +1201,10 @@ jun, june:
     names in our corpus. AFF 10/8/14
   :status: Rejected
   :analyzed: jun, june
+jupitar, jupiter, jupitor, jupter:
+  :notes: Approved (misspellings). AFF 3/4/15
+  :status: Approved
+  :analyzed: jupitar, jupiter, jupitor, jupter
 kans, kansas, ks:
   :notes: 
   :status: Candidate
@@ -1062,6 +1213,10 @@ kentucky, ky:
   :notes: 
   :status: Candidate
   :analyzed: kentucky, ky
+keplar, kepler, keppler:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: keplar, kepler, keppler
 la, louisiana:
   :notes: 
   :status: Candidate
@@ -1074,6 +1229,10 @@ launch, launched, launches, launching:
   :notes: Approved (stemming). Approved (irregular plurals). AFF 2/10/14
   :status: Approved
   :analyzed: launch, launche, launched, launching
+legionella, legionellosis, legionnaires:
+  :notes: Approved (stemming). AFF 3/5/15
+  :status: Approved
+  :analyzed: legionella, legionellosi, legionnaire
 levee, leveed, leveeing, levees:
   :notes: Approved (irregular plurals). Approved (stemming). AFF 2/10/14
   :status: Approved
@@ -1086,10 +1245,10 @@ lice, louse:
   :notes: Approved (irregular plurals). AFF 10/9/14
   :status: Approved
   :analyzed: louse, lice
-license, licensed, licensing:
-  :notes: 
-  :status: Candidate
-  :analyzed: license, licensed, licensing
+license, licensed, licensing, liscense, liscensed, liscensing:
+  :notes: Approved (stemming and misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: license, licensed, licensing, liscense, liscensed, liscensing
 lift, lifted, lifting:
   :notes: Approved (stemming). Okay for both OSHA (heavy lifting) & NASA (list off,
     list coefficient) senses, which are the two most common in corpus. AFF 2/10/14
@@ -1116,6 +1275,10 @@ located, locating, location:
   :notes: 
   :status: Candidate
   :analyzed: located, locating, location
+lockjaw, tetanus, tetnus:
+  :notes: Approved (synonyms & misspellings). AFF 3/3/15
+  :status: Approved
+  :analyzed: lockjaw, tetanus, tetnus
 lodge, lodging:
   :notes: 
   :status: Candidate
@@ -1149,6 +1312,10 @@ maine, me:
     relationship from me to maine later. AFF 10/8/14
   :status: Rejected
   :analyzed: maine, me
+malaria, maleria:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: malaria, maleria
 man, men:
   :notes: Approved (irregular plurals). Opted not to include manned (stemming variant)
     as it has a specific sense of manned space flights. AFF 10/6/14
@@ -1177,10 +1344,22 @@ math, mathematical, mathematics:
   :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
   :analyzed: math, mathematic, mathematical
+measels, measeles, measles, rubeola:
+  :notes: Approved (misspellings) and (synonyms). AFF 3/3/15
+  :status: Approved
+  :analyzed: measel, measele, measle, rubeola
+mecury, mercury, murcury:
+  :notes: Approved (misspellings). AFF 3/3/15
+  :status: Approved
+  :analyzed: mecury, mercury, murcury
 media, medium:
   :notes: 
   :status: Candidate
   :analyzed: media, medium
+medicade, medicaid:
+  :notes: Approved (misspellings). AFF 3/4/15
+  :status: Approved
+  :analyzed: medicade, medicaid
 medical, medication:
   :notes: Rejected (stemming). Consider adding medicinal and medicine as one-way relationship
     later. AFF 2/24/14
@@ -1194,6 +1373,10 @@ memo, memoranda, memorandum:
   :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
   :analyzed: memo, memoranda, memorandum
+menengitis, menigitis, meningitis:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: menengiti, menigiti, meningiti 
 meth, methamphetamine:
   :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
@@ -1206,6 +1389,14 @@ mice, mouse:
   :notes: Approved (irregular plurals). AFF 10/9/14
   :status: Approved
   :analyzed: mouse, mice
+microcredit, microloan:
+  :notes: Approved (synonyms). AFF 3/4/15
+  :status: Approved
+  :analyzed: microcredit, microloan
+microsoft, msft:
+  :notes: Approved (tickers). AFF 3/3/15
+  :status: Approved
+  :analyzed: microsoft, msft
 midwife, midwives:
   :notes: Approved (irregular plurals). AFF 10/9/14
   :status: Approved
@@ -1231,6 +1422,10 @@ mont, montana, mt:
   :notes: Consider potential conflict with mount. LS 10/20/14
   :status: Candidate
   :analyzed: montana, mont, mt
+mucormycosis, mucoromycotina, zygomycota, zygomycosis:
+  :notes: Approved (stemming and synonyms). AFF 3/5/15
+  :status: Approved
+  :analyzed: mucormycosi, mucoromycotina, zygomycota, zygomycosi
 naturalization, naturalize:
   :notes: 
   :status: Candidate
@@ -1243,10 +1438,18 @@ ne, nebr, nebraska:
   :notes: Approved state set. AFF 10/8/14
   :status: Approved
   :analyzed: nebraska, nebr, ne
+netflix, nflx:
+  :notes: Approved (tickers). AFF 3/4/15
+  :status: Approved
+  :analyzed: netflix, nflx
 nev, nevada, nv:
   :notes: 
   :status: Candidate
   :analyzed: nevada, nev, nv
+nike, nke:
+  :notes: Approved (tickers). AFF 3/3/15
+  :status: Approved
+  :analyzed: nike, nke
 nov, november:
   :notes: Approved months (clipped words). AFF 10/8/14
   :status: Approved
@@ -1318,12 +1521,20 @@ parachute, parachuted, parachuting:
   :notes: Approved (stemming). AFF 10/8/14
   :status: Approved
   :analyzed: parachute, parachuted, parachuting
+paragonimus, paragonimiasis:
+  :notes: Approved (stemming). AFF 3/5/15
+  :status: Approved
+  :analyzed: paragonimus, paragonimiasi
 parked, parking:
   :notes: Approved (stemming). Opted not to include park because it has two senses
     as a noun (piece of land and leaving a car in a place). Consider adding as a one-way
     relationship later. AFF 2/10/14
   :status: Approved
   :analyzed: parked, parking
+paycheck, paystub:
+  :notes: Approved (synonyms). AFF 3/4/15
+  :status: Approved
+  :analyzed: paycheck, paystub
 payee, payees:
   :notes: Approved (irregular plurals). Opted not to include payeeship, which has
     a specific meaning for the phrase representative payee (Social Security). Consider
@@ -1331,13 +1542,17 @@ payee, payees:
   :status: Approved
   :analyzed: payee, payees
 perc, percolation:
-  :notes: Approved. AFF 10/3/14
+  :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
   :analyzed: perc, percolation
 percent, percentage:
   :notes: Approved (stemming). AFF 10/7/14
   :status: Approved
   :analyzed: percent, percentage
+pertusis, pertussis:
+  :notes: Approved (misspellings). AFF 3/3/15
+  :status: Approved
+  :analyzed: pertusi, pertussi
 petrol, petroleum:
   :notes: Approved (stemming). AFF 10/7/14
   :status: Approved
@@ -1369,6 +1584,14 @@ plan, planning:
   :notes: 
   :status: Candidate
   :analyzed: plan, planning
+planet, planit:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: planet, planit
+pnemonia, pneumonia, pnuemonia:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: pnemonia, pneumonia, pnuemonia
 porn, pornography:
   :notes: Approved (clipped words). AFF 10/8/14
   :status: Approved
@@ -1392,10 +1615,14 @@ posted, posting:
     for post/ed/al/er. AFF 2/6/14
   :status: Approved
   :analyzed: posted, posting
-presidency, president, presidential:
-  :notes: Approved (stemming). AFF 2/6/14
+prescirption, prescription:
+  :notes: Approved (misspellings). AFF 3/5/15
   :status: Approved
-  :analyzed: presidency, president, presidential
+  :analyzed: prescirption, prescription
+presidency, presedent, president, presidential:
+  :notes: Approved (stemming and misspellings). Updated AFF 3/5/15
+  :status: Approved
+  :analyzed: presidency, presedent, president, presidential
 pro, professional:
   :notes: Rejected (clipped words). Pro more typically used in our corpus in the legal
     sense such as in phrases like pro bono, pro se, etc. AFF 10/3/14
@@ -1413,6 +1640,10 @@ protect, protected, protection:
   :notes: Rejected based on slightly different senses across corpus. AFF 2/24/14
   :status: Rejected
   :analyzed: protect, protected, protection
+qtf, quantiferon:
+  :notes: Approved (acronyms). AFF 3/3/15
+  :status: Approved
+  :analyzed: qtf, quantiferon
 quiz, quizzes:
   :notes: Approved (irregular plurals). AFF 10/9/14
   :status: Approved
@@ -1453,10 +1684,10 @@ renovation, renovator:
   :notes: 
   :status: Candidate
   :analyzed: renovation, renovator
-replace, replacement:
-  :notes: 
-  :status: Candidate
-  :analyzed: replace, replacement
+replace, replaced, replacement, replacment:
+  :notes: Approved (stemming and misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: replace, replaced, replacement, replacment
 report, reported, reporter, reporting:
   :notes: 
   :status: Candidate
@@ -1488,6 +1719,10 @@ retiree, retirees:
   :notes: Approved (irregular plurals). AFF 2/24/14
   :status: Approved
   :analyzed: retiree, retirees
+retirement, retirment:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: retirement, retirment
 rig, rigging:
   :notes: Approved (gerunds). Consider adding rigged and rigger later. Approved AFF
     2/10/14
@@ -1497,14 +1732,34 @@ roof, roofing:
   :notes: Approved (gerunds). AFF 2/10/14
   :status: Approved
   :analyzed: roof, roofing
+salmonella, samonella:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: salmonella, samonella
 sandbag, sandbagging:
   :notes: Approved (stemming). AFF 7/11/14
   :status: Approved
   :analyzed: sandbag, sandbagging
+satern, saturn, saturno:
+  :notes: Approved (misspellings) and (language variants). AFF 3/4/15
+  :status: Approved
+  :analyzed: satern, saturn, saturno
+sbux, starbucks:
+  :notes: Approved (tickers). AFF 3/3/15
+  :status: Approved
+  :analyzed: sbux, starbuck
+scabbies, scabies:
+  :notes: Approved (misspellings). AFF 3/4/15
+  :status: Approved
+  :analyzed: scabby, scaby
 scaffold, scaffolded, scaffolding:
   :notes: Approved (stemming). AFF 2/10/14
   :status: Approved
   :analyzed: scaffold, scaffolding, scaffolded
+scarlett, scarlet:
+  :notes: Approved (misspellings). AFF 3/4/15
+  :status: Approved
+  :analyzed: scarlett, scarlet
 screen, screening:
   :notes: 
   :status: Candidate
@@ -1531,10 +1786,18 @@ sexual, sexuality:
   :notes: Approved (stemming). AFF 2/10/14
   :status: Approved
   :analyzed: sexual, sexuality
+shigella, shigellosis:
+  :notes: Approved (stemming). AFF 3/3/15
+  :status: Approved
+  :analyzed: shigella, shigellosi
 shoot, shooter, shooting:
   :notes: Approved (stemming). Consider adding shot later. AFF 2/24/14
   :status: Approved
   :analyzed: shoot, shooter, shooting
+sífilis, syphilis:
+  :notes: Approved (language variants). AFF 3/4/15
+  :status: Approved
+  :analyzed: sifili, syphili
 sketch, sketches, sketching:
   :notes: Approved (stemming). Approved (irregular plurals). AFF 8/8/14
   :status: Approved
@@ -1552,6 +1815,10 @@ spiritual, spirituality:
   :notes: Approved (stemming). AFF 2/10/14
   :status: Approved
   :analyzed: spiritual, spirituality
+spouce, spouse, spoucal, spousal: 
+  :notes: Approved (stemming and misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: spouce, spouse, spoucal, spousal
 st, street:
   :notes: Approved (clipped words). St can also be used for street, state, and standard
     time, but st/saint is the overwhelming sense in our corpus. AFF 10/3/14
@@ -1575,6 +1842,10 @@ supplier, supplies:
   :notes: 
   :status: Candidate
   :analyzed: supplier, supply
+survivor, survior, suvivor:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: survivor, survior, suvivor
 swim, swimming:
   :notes: Approved (stemming). Opted not to include swam as it is more often searched
     as a typo for swan. Also considered swum, but it's never been searched. AFF 10/28/14
@@ -1584,6 +1855,10 @@ sync, synchronize:
   :notes: Approved (clipped words). AFF 10/8/14
   :status: Approved
   :analyzed: synchronize, sync
+syphillis, syphilis, syphyllis:
+  :notes: Approved (misspellings). AFF 3/3/15
+  :status: Approved
+  :analyzed: syphilli, syphili, syphylli
 tattoo, tattooed, tattooing:
   :notes: Approved (stemming). Approved AFF 2/6/14
   :status: Approved
@@ -1638,6 +1913,10 @@ tour, touring:
     2/10/14
   :status: Approved
   :analyzed: tour, touring
+training, traning:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: training, traning
 translate, translated, translating, translator:
   :notes: 
   :status: Candidate
@@ -1646,6 +1925,18 @@ travel, traveling:
   :notes: Approved (stemming). AFF 2/6/14
   :status: Approved
   :analyzed: travel, traveling
+trich, trichomoniasis:
+  :notes: Approved (clipped words). AFF 3/3/15
+  :status: Approved
+  :analyzed: trich, trichomoniasi
+trichuriasis, trichuris, whipworm:
+  :notes: Approved (synonyms). AFF 3/3/15
+  :status: Approved
+  :analyzed: trichuriasi, trichuri, whipworm
+tumeric, turmeric:
+  :notes: Approved (misspellings). AFF 3/3/15
+  :status: Approved
+  :analyzed: tumeric, turmeric
 underwrite, underwriter, underwriting, underwritten, underwrote:
   :notes: Approved (stemming). AFF 2/24/14
   :status: Approved
@@ -1668,6 +1959,10 @@ vet, veteran:
     AFF 10/6/14
   :status: Candidate
   :analyzed: vet, veteran
+veterinarian, veternarian:
+  :notes: Approved (misspellings). AFF 3/3/15
+  :status: Approved
+  :analyzed: veterinarian, veternarian
 voc, vocational:
   :notes: Approved (clipped words). AFF 10/8/14
   :status: Approved
@@ -1692,6 +1987,10 @@ waive, waived, waiver, waiving:
   :notes: Approved (stemming). AFF 2/10/14
   :status: Approved
   :analyzed: waive, waiver, waived, waiving
+warrant, warrent:
+  :notes: Approved (misspellings). AFF 3/4/15
+  :status: Approved
+  :analyzed: warrant, warrent
 well, wellness:
   :notes: Rejected (stemming). Well has 2 distinct and separate senses (reservoir
     for water, better/best) across corpus. Consider later as a one-way relationship.
@@ -1731,6 +2030,10 @@ wy, wyo, wyoming:
   :notes: 
   :status: Candidate
   :analyzed: wyoming, wyo, wy
+yahoo, yhoo:
+  :notes: Approved (tickers). AFF 3/3/15
+  :status: Approved
+  :analyzed: yahoo, yhoo
 zip, zipcode:
   :notes: Approved (clipped words). AFF 10/8/14
   :status: Approved
