@@ -272,10 +272,10 @@ addenda, addendum:
   :notes: Approved (irregular plurals). AFF 10/6/14
   :status: Approved
   :analyzed: addenda, addendum
-address, addresses:
-  :notes: Approved (irregular plurals). AFF 2/6/14
+address, addresses, adress, adresses:
+  :notes: Approved (irregular plurals and misspellings). Updated AFF 3/5/15
   :status: Approved
-  :analyzed: address, addresse
+  :analyzed: address, addresse, adress, adresse
 adopt, adopted, adopting:
   :notes: Approved (stemming). Opted to approve adoption/ive as a separate set. AFF
     2/13/14
@@ -286,6 +286,10 @@ adoption, adoptive:
     (verb form). Consider equating the two sets as a one-way relationship. AFF 2/13/14
   :status: Approved
   :analyzed: adoption, adoptive
+affordable, afordable:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: affordable, afordable
 african, afro:
   :notes: Approved synonym set. AFF 10/8/14
   :status: Approved
@@ -496,6 +500,10 @@ cacti, cactus:
   :notes: Approved (irregular plurals). AFF 10/6/14
   :status: Approved
   :analyzed: cactus, cacti
+calendar, calender:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: calendar, calender
 calculate, calculating, calculation, calculator:
   :notes: 
   :status: Candidate
@@ -572,6 +580,10 @@ comm, communication:
     TLDs. AFF 10/9/14
   :status: Approved
   :analyzed: comm, communication
+commisary, commissary:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: commisary, commissary
 confidential, confidentiality, confidentially:
   :notes: Approved (stemming). AFF 2/6/14
   :status: Approved
@@ -660,6 +672,10 @@ decon, decontaminate, decontaminated, decontaminating, decontamination:
   :notes: Approved (clipped words) and (stemming). AFF 10/17/14
   :status: Approved
   :analyzed: decon, decontaminate, decontaminated, decontaminating, decontamination
+defered, deferred, defferd, defferred:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: defered, deferred, defferd, defferred
 delay, delayed:
   :notes: 
   :status: Candidate
@@ -714,6 +730,10 @@ eaton, etn:
   :notes: Approved (tickers). AFF 3/4/15
   :status: Approved
   :analyzed: eaton, etn
+ecstacy, ecstasy, mdma:
+  :notes: Approved (misspellings) and (synonyms). Consider also adding 'molly'. AFF 3/5/15
+  :status: Approved
+  :analyzed: ecstacy, ecstasy, mdma
 education, educational, educator:
   :notes: 
   :status: Candidate
@@ -782,6 +802,10 @@ facsimile, fax, faxed, faxing:
   :notes: Approved (stemming). Approved (clipped words). AFF 2/6/14
   :status: Approved
   :analyzed: fax, faxing, facsimile, faxed
+fafsa, fasfa:
+  :notes: Approved (misspellings). Free Application for Federal Student Aid (FAFSA). AFF 3/5/15
+  :status: Approved
+  :analyzed: fafsa, fasfa
 fasciitis, fascitis:
   :notes: Approved (misspellings). Necrotizing fasciitis ("flesh-eating" bacteria). AFF 3/5/15
   :status: Approved
@@ -836,10 +860,10 @@ fm, micronesia:
   :notes: 
   :status: Candidate
   :analyzed: micronesia, fm
-forecast, forecastable, forecasted, forecasting:
-  :notes: Approved (stemming). Consider adding forecaster later. AFF 2/6/14
+forcast, forecast, forecastable, forecasted, forecasting:
+  :notes: Approved (stemming) and (misspellings). Consider adding forecaster later. Upldated AFF 3/5/15
   :status: Approved
-  :analyzed: forecast, forecasting, forecasted, forecastable
+  :analyzed: forcast, forecast, forecasting, forecasted, forecastable
 fort, ft:
   :notes: Approved (clipped words). Ft can also be used for foot, feet, and full-time,
     but fort is the overwhelming sense in our corpus. AFF 10/3/14
@@ -1053,6 +1077,10 @@ hack, hacked, hacking:
   :notes: Approved (stemming). AFF 1/13/15
   :status: Approved
   :analyzed: hack, hacked, hacking
+harassment, harrassment:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: harassment, harrassment
 hawaii, hi:
   :notes: 
   :status: Candidate
@@ -1069,6 +1097,10 @@ hepatitus, hepatitis:
   :notes: Approved (misspellings). AFF 3/5/15
   :status: Approved
   :analyzed: hepatitus, hepatiti
+herion, heroin:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: herion, heroin
 herpes, herpies:
   :notes: Approved (misspellings). AFF 3/5/15
   :status: Approved
@@ -1245,10 +1277,10 @@ lice, louse:
   :notes: Approved (irregular plurals). AFF 10/9/14
   :status: Approved
   :analyzed: louse, lice
-license, licensed, licensing, liscense, liscensed, liscensing:
+licence, license, licensed, licensing, licnese, liscense, liscensed, liscensing, lisence, lisense:
   :notes: Approved (stemming and misspellings). AFF 3/5/15
   :status: Approved
-  :analyzed: license, licensed, licensing, liscense, liscensed, liscensing
+  :analyzed: licence, license, licensed, licensing, licnese, liscense, liscensed, liscensing, lisence, lisense
 lift, lifted, lifting:
   :notes: Approved (stemming). Okay for both OSHA (heavy lifting) & NASA (list off,
     list coefficient) senses, which are the two most common in corpus. AFF 2/10/14
@@ -1336,6 +1368,10 @@ mar, march:
     then approving this clipped words set. AFF 11/19/14
   :status: Rejected
   :analyzed: mar, march
+marijuana, marijuanna:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: marijuana, marijuanna
 maryland, md:
   :notes: 
   :status: Candidate
@@ -1644,6 +1680,10 @@ qtf, quantiferon:
   :notes: Approved (acronyms). AFF 3/3/15
   :status: Approved
   :analyzed: qtf, quantiferon
+questionaire, questionnaire:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: questionaire, questionnaire
 quiz, quizzes:
   :notes: Approved (irregular plurals). AFF 10/9/14
   :status: Approved
@@ -1652,6 +1692,10 @@ rattler, rattlesnake:
   :notes: Approved (clipped words). AFF 10/9/14
   :status: Approved
   :analyzed: rattler, rattlesnake
+recepient, reciepent, reciepient, recipiant, recipiant, recipient:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: recepient, reciepent, reciepient, recipiant, recipiant, recipient
 recyclable, recycle, recycled, recycling:
   :notes: Approved (stemming). AFF 7/11/14
   :status: Approved
@@ -1786,6 +1830,10 @@ sexual, sexuality:
   :notes: Approved (stemming). AFF 2/10/14
   :status: Approved
   :analyzed: sexual, sexuality
+sherif, sheriff, sherrif:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: sherif, sheriff, sherrif
 shigella, shigellosis:
   :notes: Approved (stemming). AFF 3/3/15
   :status: Approved
@@ -1908,6 +1956,10 @@ ticket, tix:
   :notes: 
   :status: Candidate
   :analyzed: tix, ticket
+tornado, tornadoes:
+  :notes: Approved (irregular plurals). AFF 3/5/15
+  :status: Approved
+  :analyzed: tornado, tornadoes
 tour, touring:
   :notes: Approved (gerunds). Consider adding toured (verb) and maybe tourist. AFF
     2/10/14
@@ -1971,6 +2023,10 @@ vocab, vocabulary:
   :notes: Approved (clipped words). AFF 10/8/14
   :status: Approved
   :analyzed: vocab, vocabulary
+volcano, volcanoes:
+  :notes: Approved (irregular plurals). AFF 3/5/15
+  :status: Approved
+  :analyzed: volcano, volcanoes
 volunteer, volunteered, volunteering:
   :notes: Approved (stemming). Consider adding voluntary later. AFF 2/6/14
   :status: Approved
@@ -1979,6 +2035,10 @@ vote, voted, voting:
   :notes: Approved (stemming). AFF 2/10/14
   :status: Approved
   :analyzed: vote, voting, voted
+vulnerabilies, vulnerabilities:
+  :notes: Approved (misspellings). AFF 3/5/15
+  :status: Approved
+  :analyzed: vulnerabily, vulnerability
 wa, wash, washington:
   :notes: 
   :status: Candidate
