@@ -14,7 +14,25 @@ inmunización, vacuna, vacunación:
   :analyzed: inmunizacion, vacun, vacunacion
 ```
 
-The entry listing is a comma-separated list of natural language terms, probably lemmas. The `notes` field can be long and multi-line, but it still needs to be [valid YAML](http://www.yamllint.com). The `status` is either `Approved`, `Rejected`, or `Candidate`.
+The entry listing is a comma-separated list of natural language terms, probably lemmas. 
+
+The `notes` field can be long and multi-line, but it still needs to be [valid YAML](http://www.yamllint.com). Notes include information on the type of synonym:
+
+1. Abbreviations
+1. Acronyms
+1. Clipped words
+1. Gerunds
+1. Irregular plurals
+1. Language variants
+1. Misspellings
+1. Numbers
+1. Spelling variants
+1. Stemming
+1. Synonyms
+1. Tickers (stock ticker symbols)
+1. Verbs
+
+The `status` is either `Approved`, `Rejected`, or `Candidate`.
 
 The `analyzed` field is a comma-separated list of the entry terms after they have been run through an analyzer and de-duped. The analysis chain comprises 6 filters:
 
