@@ -256,6 +256,10 @@
   :notes: Approved (numbers). AFF 10/7/14
   :status: Approved
   :analyzed: 9th, ninth
+aapl, apple:
+  :notes: Approved (tickers). AFF 3/9/15
+  :status: Approved
+  :analyzed: aapl, apple
 accredit, accreditation, accredited, accrediting:
   :notes: Approved (stemming). AFF 2/6/14
   :status: Approved
@@ -276,6 +280,10 @@ address, addresses, adress, adresses:
   :notes: Approved (irregular plurals) and (misspellings). Updated AFF 3/5/15
   :status: Approved
   :analyzed: address, addresse, adress, adresse
+adolescence, adolescent, teen, teenage, teenager:
+  :notes: Approved (clipped words) and (synonyms). Updated AFF 3/9/15
+  :status: Approved
+  :analyzed: adolescence, adolescent, teen, teenage, teenager
 adopt, adopted, adopting:
   :notes: Approved (stemming). Opted to approve adoption/ive as a separate set. AFF
     2/13/14
@@ -323,6 +331,10 @@ aliaen, alien:
   :notes: Approved (misspellings). AFF 3/4/15
   :status: Approved
   :analyzed: aliaen, alien
+alibaba, baba:
+  :notes: Approved (tickers). AFF 3/9/15
+  :status: Approved
+  :analyzed: alibaba, baba
 alligator, gator:
   :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
@@ -383,6 +395,10 @@ armor, armour:
   :notes: Approved (spelling variants). AFF 3/4/15
   :status: Approved
   :analyzed: armor, armour
+asd => autism:
+  :notes: Approved (acronyms) one-way set. ASD is Autism Spectrum Disorder, shortened here as autism. See autism set below for other, two-way variants. ASD can also mean Acceptable Separation Distance on HUD.gov. AFF 3/9/15
+  :status: Approved
+  :analyzed: asd => autism
 asian, asiatic, oriental:
   :notes: Approved synonym set. AFF 10/8/14
   :status: Approved
@@ -399,6 +415,10 @@ aug, august:
   :notes: Approved months (clipped words). AFF 10/8/14
   :status: Approved
   :analyzed: aug, august
+autistic, autism, autismo:
+  :notes: Approved (stemming) and (language variants). AFF 3/9/15
+  :status: Approved
+  :analyzed: autistic, autism, autismo
 avian => bird:
   :notes: Approved (synonyms) one-way set. Avian is used almost exclusively in sense
     of avian/bird flu while bird is used in various senses. AFF 10/8/14
@@ -472,6 +492,10 @@ buletin, bulletin, bullitin:
   :notes: Approved (misspellings). AFF 3/5/15
   :status: Approved
   :analyzed: buletin, bulletin, bullitin
+bully, bullying:
+  :notes: Approved (stemming). See also related entry for cyberbully/ing. AFF 3/9/15
+  :status: Approved
+  :analyzed: bully, bullying
 burger, hamburger:
   :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
@@ -526,22 +550,26 @@ career, carrer:
   :status: Approved
   :analyzed: career, carrer
 cat, feline:
-  :notes: Approved synonym set. Opted not to include kitty as it is more commonly
+  :notes: Approved (synonyms). Opted not to include kitty as it is more commonly
     used within our corpus for Kitty Hawk, NC. AFF 10/8/14
   :status: Approved
   :analyzed: cat, feline
 cell, cellular:
-  :notes: Approved. AFF 10/3/14
+  :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
   :analyzed: cell, cellular
 center, centre:
-  :notes: Approved spelling variant set. AFF 10/7/14
+  :notes: Approved (spelling variants). AFF 10/7/14
   :status: Approved
   :analyzed: center, centre
 certificate, certification:
   :notes: 
   :status: Candidate
   :analyzed: certificate, certification
+cervical, cervix:
+  :notes: Approved (stemming). AFF 10/7/14
+  :status: Approved
+  :analyzed: cervical, cervix
 charge, charged, charging:
   :notes: 
   :status: Candidate
@@ -647,6 +675,10 @@ cryptosporidium, cryptosporidiosis:
   :notes: Approved (stemming). Consider also including clipped form for crypto. AFF 3/3/15
   :status: Approved
   :analyzed: cryptosporidium, cryptosporidiosi
+cyberbully, cyberbullying:
+  :notes: Approved (stemming). See also related entry for bully/ing. Consider adding compound word variants later. AFF 3/9/15
+  :status: Approved
+  :analyzed: cyberbully, cyberbullying
 cybr, cyberark:
   :notes: Approved (tickers). AFF 3/4/15
   :status: Approved
@@ -1045,6 +1077,10 @@ glassmaker, glassmaking:
     enough concept. AFF 2/10/14
   :status: Approved
   :analyzed: glassmaker, glassmaking
+goog, googl, google:
+  :notes: Approved (tickers) and (misspellings). AFF 3/9/15
+  :status: Approved
+  :analyzed: goog, googl, google
 gonococcal, gonococci, gonococcus, gonorrhea, gonorrhoeae, gonnorhea, gonorhea, gonorrhoea:
   :notes: Approved (stemming) and (misspellings). Updated AFF 3/4/15
   :status: Approved
@@ -1093,10 +1129,10 @@ heat, heated:
   :notes: 
   :status: Candidate
   :analyzed: heat, heated
-hepatitus, hepatitis:
-  :notes: Approved (misspellings). AFF 3/5/15
+hep, hepatitus, hepatitis:
+  :notes: Approved (misspellings) and (clipped words). Updated AFF 3/9/15
   :status: Approved
-  :analyzed: hepatitus, hepatiti
+  :analyzed: hep, hepatitus, hepatiti
 herion, heroin:
   :notes: Approved (misspellings). AFF 3/5/15
   :status: Approved
@@ -1380,6 +1416,10 @@ math, mathematical, mathematics:
   :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
   :analyzed: math, mathematic, mathematical
+mcd, mcdonalds:
+  :notes: Approved (tickers). AFF 3/9/15
+  :status: Approved
+  :analyzed: mcd, mcdonald
 measels, measeles, measles, rubeola:
   :notes: Approved (misspellings) and (synonyms). AFF 3/3/15
   :status: Approved
@@ -1454,6 +1494,10 @@ mom, mommy, mother:
     Mission. AFF 10/28/14
   :status: Approved
   :analyzed: mom, mommy, mother
+mono, mononucleosis:
+  :notes: Approved (clipped words). Consider also adding Epstein-Barr virus and EBV to this set. AFF 3/9/15
+  :status: Approved
+  :analyzed: mono, mononucleosi
 mont, montana, mt:
   :notes: Consider potential conflict with mount. LS 10/20/14
   :status: Candidate
@@ -1541,6 +1585,10 @@ ova, ovum:
   :notes: Approved (irregular plurals). AFF 10/9/14
   :status: Approved
   :analyzed: ova, ovum
+ovarian, ovary:
+  :notes: 
+  :status: Candidate
+  :analyzed: 
 ox, oxen:
   :notes: Approved (irregular plurals). AFF 10/9/14
   :status: Approved
@@ -1572,11 +1620,13 @@ paycheck, paystub:
   :status: Approved
   :analyzed: paycheck, paystub
 payee, payees:
-  :notes: Approved (irregular plurals). Opted not to include payeeship, which has
-    a specific meaning for the phrase representative payee (Social Security). Consider
-    adding as a one-way relationship. AFF 2/10/14
+  :notes: Approved (irregular plurals). Opted not to include payeeship, which has a specific meaning for the phrase representative payee (Social Security). Consider adding as a one-way relationship. AFF 2/10/14
   :status: Approved
   :analyzed: payee, payees
+pepsi, pepsico:
+  :notes: Approved (synonyms). PepsiCo is the parent company of Pepsi and other brands. The two variants are sometimes used interchangeably so included here as synonyms. AFF 3/9/15.
+  :status: Approved
+  :analyzed: pepsi, pepsico
 perc, percolation:
   :notes: Approved (clipped words). AFF 10/3/14
   :status: Approved
@@ -1598,8 +1648,7 @@ phone, telephone:
   :status: Approved
   :analyzed: phone, telephone
 photo, photograph:
-  :notes: Approved (clipped words). Consider adding picture and image as synonyms
-    later. AFF 10/3/14
+  :notes: Approved (clipped words). Consider adding picture and image as synonyms later. AFF 10/3/14
   :status: Approved
   :analyzed: photo, photograph
 phys, physical:
@@ -1855,6 +1904,14 @@ ski, skiing:
     and ski). AFF 2/6/14
   :status: Approved
   :analyzed: ski, skiing
+smoke, smoking:
+  :notes: Approved (stemming). Consider combining with tobacco set. AFF 3/9/15
+  :status: Approved
+  :analyzed: smoke, smoking
+smokey, smoky:
+  :notes: Approved (spelling variants). Smokey is a proper noun and first name for things such as Smokey the Bear, whereas smoky is an adjective for a smoke-filled or -like object such as the Great Smoky Mountains. AFF 3/9/15
+  :status: Approved
+  :analyzed: smokey, smoky
 spec, specification:
   :notes: Approved (clipped words). AFF 10/9/14
   :status: Approved
@@ -1882,10 +1939,18 @@ stat, statistical, statistics:
     here. Consider adding statistically later. AFF 10/6/14
   :status: Approved
   :analyzed: stat, statistical, statistic
+std, sti:
+  :notes: Approved (acronyms). Variants for sexually transmitted disease/infection. Consider also including less common VD, venereal disease. AFF 3/9/15
+  :status: Approved
+  :analyzed: std, sti
 stimuli, stimulus:
   :notes: Approved (irregular plurals). AFF 10/7/14
   :status: Approved
   :analyzed: stimulus, stimuli
+suicidal, suicidality, suicide:
+  :notes: Approved (stemming). AFF 3/9/15
+  :status: Approved
+  :analyzed: suicidal, suicidality, suicide
 supplier, supplies:
   :notes: 
   :status: Candidate
@@ -1907,6 +1972,10 @@ syphillis, syphilis, syphyllis:
   :notes: Approved (misspellings). AFF 3/3/15
   :status: Approved
   :analyzed: syphilli, syphili, syphylli
+tabac, tabaco, tabaccco, tabacco, tabacoo, tobac, tobaco, tobaccco, tobacco, tobacoo:
+  :notes: Approved (misspellings) and (language variants). Consider combining with smoke/ing set. Approved AFF 3/9/15
+  :status: Approved
+  :analyzed: tabac, tabaco, tabaccco, tabacco, tabacoo, tobac, tobaco, tobaccco, tobacco, tobacoo
 tattoo, tattooed, tattooing:
   :notes: Approved (stemming). Approved AFF 2/6/14
   :status: Approved
@@ -1928,10 +1997,6 @@ tech, technical, technician, technology:
   :notes: 
   :status: Candidate
   :analyzed: tech, technology, technician, technical
-teen, teenage, teenager:
-  :notes: Approved (clipped words). AFF 10/3/14
-  :status: Approved
-  :analyzed: teen, teenage, teenager
 teeth, tooth:
   :notes: Approved (irregular plurals). AFF 10/9/14
   :status: Approved
@@ -1944,6 +2009,10 @@ tenn, tennessee, tn:
   :notes: 
   :status: Candidate
   :analyzed: tennessee, tenn, tn
+tesla, tsla:
+  :notes: Approved (tickers). AFF 3/9/15
+  :status: Approved
+  :analyzed: tesla, tsla
 tex, texas, tx:
   :notes: 
   :status: Candidate
@@ -2047,6 +2116,10 @@ waive, waived, waiver, waiving:
   :notes: Approved (stemming). AFF 2/10/14
   :status: Approved
   :analyzed: waive, waiver, waived, waiving
+walmart, wmt:
+  :notes: Approved (tickers). AFF 3/9/15
+  :status: Approved
+  :analyzed: walmart, wmt
 warrant, warrent:
   :notes: Approved (misspellings). AFF 3/4/15
   :status: Approved

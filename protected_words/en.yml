@@ -89,3 +89,6 @@ usgs:
 usps:
   :notes: Protecting USPS (federal agency) from being stemmed to usp in minimal_english
   :status: Approved
+vis:
+  :notes: Protecting VIS (CDC's Vaccine Information Statements) from being stemmed to vi in minimal_english
+  :status: Approved
