@@ -1,0 +1,169 @@
+en:
+  usa_gov: USA.gov
+  search: "Search"
+  search_label: 'Enter your search term'
+  everything: "Everything"
+  all_time: "All time"
+  last_hour: "Last hour"
+  last_day: "Last day"
+  last_week: "Last week"
+  last_month: "Last month"
+  last_year: "Last year"
+  did_you_mean: "We're including results for %{assumed_term}. Do you want results only for %{term_as_typed}?"
+  approximate: 'About '
+  result: 'result'
+  results_summary: 'Page %{page} of %{approximate}%{total}'
+  default_rss_govbox_label: 'News'
+  news_results: "%{rss_govbox_label} for '%{query}'"
+  video_news_results: "Videos of '%{query}'"
+  related_searches: "Related Searches"
+  related_topics_prefix: "Related Searches for"
+  recent_tweet_for: "Recent tweet for '%{query}'"
+  recent_tweets_for: "Recent tweets for '%{query}'"
+  recommended: "Recommended"
+  by: "by"
+  by_site: "by"
+  prev_label: "Previous"
+  next_label: "Next"
+  no_results_for_query: "Sorry, no results found for '%{query}'"
+  the_last_hour: "in the last hour"
+  the_last_day: "in the last day"
+  the_last_week: "in the last week"
+  the_last_month: "in the last month"
+  the_last_year: "in the last year"
+  remove_all_filters: "Remove all filters"
+  or_try_broader: "or try entering fewer or broader query terms."
+  no_results_for_and_try: "Sorry, no results found for '%{query}'. Try entering fewer or broader query terms."
+  too_long: "Your search term is too long. Try again using a shorter word or phrase."
+  empty_query: "Please enter a search term in the box above."
+  advanced_search: "Advanced Search"
+  images: "Images"
+  by_date: 'Most recent'
+  by_relevance: 'Best match'
+  advanced_search_instruction: "Use the options on this page to create a very specific search."
+  advanced_search_show_results_header: "Show results with"
+  advanced_search_query_label: "All of these words"
+  advanced_search_query_quote_label: "This exact phrase"
+  advanced_search_query_or_label: "Any of these words"
+  advanced_search_query_not_label: "None of these words"
+  advanced_search_adult_filter_label: "Safe Search"
+  advanced_search_adult_filter_strict_label: "Strict"
+  advanced_search_adult_filter_moderate_label: "Moderate"
+  advanced_search_adult_filter_off_label: "Off"
+  advanced_search_file_type_label: "File Type"
+  advanced_search_file_type_all_format_label: "All"
+  advanced_search_file_type_txt_format_label: "Text"
+  advanced_search_operator_link: 'advanced search operators'
+  advanced_search_operator_url_on_bing: 'http://onlinehelp.microsoft.com/en-us/bing/ff808421.aspx'
+  advanced_search_operator_url_on_google: 'https://support.google.com/websearch/answer/136861?hl=en'
+  advanced_search_operator: 'You can also use %{link} to help limit and focus your searches.'
+
+  job_openings: "Job Openings"
+  at_agency: "at %{agency}"
+  federal_job_openings: "Federal Job Openings"
+
+  searches:
+    by: by
+    browse_site: Browse site
+    commercial_results:
+      see_more_web_results: "%{link} to see more results. (You may see some results that you've already seen.)"
+      see_more_image_results: "The above results are from our social media accounts and galleries. %{link} to see results from our website. (You may see some results that you've already seen.)"
+      search_again: Try your search again
+    med_topic:
+      homepage_url: http://www.nlm.nih.gov/medlineplus/
+      related_topics: Related topics
+    menu: Menu
+    more_agency_job_openings: More %{agency} job openings
+    more_federal_job_openings: More federal job openings on USAJobs.gov
+    more_news_about_query: 'More %{news_label} about %{query}'
+    news_about_query: '%{news_label} about %{query}'
+    news_search_options:
+      date_format: 'm/d/yyyy'
+    on_usajobs: 'on USAJobs.gov'
+    related_sites: View topic
+    search_results: Search results
+    site_limits:
+      including_results_for_query_from_matching_sites: We're including results for %{query} from %{matching_sites} only.
+      do_you_want_to_see_results_for: Do you want to see results for %{query_from_all_sites}?
+      query_from_all_sites: '%{query} from all sites'
+    skip_to_main_content: Skip to main content
+
+  medline_official_result: Official result from MedlinePlus
+  medline_related_topics: Related MedlinePlus Topics
+
+  default_serp_title: '%{query} - %{site_name} Search Results'
+
+  showing_results_for: Showing results for %{corrected_query}
+  search_instead_for: Search instead for %{original_query}
+
+  results_by_bing: 'Results by Bing'
+  results_by_usasearch: 'Results by USASearch'
+  results_by_google: 'Results by Google'
+
+  page: 'Page'
+  powered_by: 'Powered by'
+
+  recommended_pages: 'Recommended Pages'
+
+  show_options: 'Show Options'
+  hide_options: 'Hide Options'
+  show_more: 'More'
+  show_less: 'Less'
+  show_more_label: 'Show more'
+  show_less_label: 'Show less'
+
+  custom_range: 'Custom range'
+  from: 'From'
+  to: 'To'
+  cdr_format: '%m/%d/%Y'
+  before: 'Before'
+  clear: 'Clear'
+
+  show_footer: 'Show footer'
+  hide_footer: 'Hide footer'
+
+  facet:
+    all_contributors: 'All contributors'
+    all_subjects: 'All subjects'
+    all_publishers: 'All publishers'
+
+  date:
+    formats:
+      slashes: "%-m/%-d/%Y"
+
+  datetime:
+    time_ago_in_words:
+      half_a_minute: "half a minute ago"
+      less_than_x_seconds:
+        one:   "less than 1 second ago"
+        other: "less than %{count} seconds ago"
+      x_seconds:
+        one:   "1 second ago"
+        other: "%{count} seconds ago"
+      less_than_x_minutes:
+        one:   "less than a minute ago"
+        other: "less than %{count} minutes ago"
+      x_minutes:
+        one:   "1 minute ago"
+        other: "%{count} minutes ago"
+      about_x_hours:
+        one:   "about 1 hour ago"
+        other: "about %{count} hours ago"
+      x_days:
+        one:   "1 day ago"
+        other: "%{count} days ago"
+      about_x_months:
+        one:   "about 1 month ago"
+        other: "about %{count} months ago"
+      x_months:
+        one:   "1 month ago"
+        other: "%{count} months ago"
+      about_x_years:
+        one:   "about 1 year ago"
+        other: "about %{count} years ago"
+      over_x_years:
+        one:   "over 1 year ago"
+        other: "over %{count} years ago"
+      almost_x_years:
+        one:   "almost 1 year ago"
+        other: "almost %{count} years ago"

@@ -1,0 +1,181 @@
+es:
+  usa_gov: GobiernoUSA.gov
+  search: "Buscar"
+  search_label: 'Ingrese su búsqueda'
+  everything: "Todo"
+  all_time: "Cualquier fecha"
+  last_hour: "Última hora"
+  last_day: "Último día"
+  last_week: "Última semana"
+  last_month: "Último mes"
+  last_year: "Último año"
+  did_you_mean: "Se incluyen resultados para %{assumed_term}. ¿Desea mostrar solo los resultados para %{term_as_typed}?"
+  approximate: 'Aproximadamente '
+  result: 'resultado'
+  results_summary: 'Página %{page} de %{approximate}%{total}'
+  default_rss_govbox_label: 'Noticias'
+  news_results: "%{rss_govbox_label} sobre de '%{query}'"
+  video_news_results: "Videos de '%{query}'"
+  related_searches: "Búsquedas relacionadas"
+  related_topics_prefix: "Búsquedas relacionadas a"
+  recent_tweet_for: "Tweet más reciente para '%{query}'"
+  recent_tweets_for: "Tweets más recientes para '%{query}'"
+  recommended: "Recomendación"
+  by: "de"
+  by_site: "página destacada por"
+  prev_label: "Anterior"
+  next_label: "Siguiente"
+  no_results_for_query: "No hemos encontrado ningún resultado que contenga '%{query}'"
+  the_last_hour: "hace una hora"
+  the_last_day: "en el último día"
+  the_last_week: "en la última semana"
+  the_last_month: "en el último mes"
+  the_last_year: "en el último año"
+  remove_all_filters: "Elimine los filtros"
+  or_try_broader: "de su búsqueda, use otras palabras clave o intente usando sinónimos."
+  no_results_for_and_try: "No hemos encontrado ningún resultado que contenga '%{query}'. Intente usar otras palabras clave o sinónimos."
+  too_long: "Las palabras o frases que ha usado para su búsqueda son muy largas. Intente otra vez con un texto más corto."
+  empty_query: "Ingrese los términos de búsqueda en la caja que aparece arriba."
+  images: "Imágenes"
+  by_date: 'Más recientes'
+  by_relevance: 'Más relevantes'
+  advanced_search: "Búsqueda avanzada"
+  advanced_search_instruction: "Use las siguientes opciones para hacer una búsqueda específica."
+  advanced_search_show_results_header: "Buscar resultados con"
+  advanced_search_query_label: "Todas estas palabras"
+  advanced_search_query_quote_label: "La frase exacta"
+  advanced_search_query_or_label: "Cualquiera de estas palabras"
+  advanced_search_query_not_label: "Ninguna de estas palabras"
+  advanced_search_adult_filter_label: "Búsqueda segura"
+  advanced_search_adult_filter_strict_label: "Estricta"
+  advanced_search_adult_filter_moderate_label: "Moderada"
+  advanced_search_adult_filter_off_label: "Desactivada"
+  advanced_search_file_type_label: "Formato"
+  advanced_search_file_type_all_format_label: "cualquier formato"
+  advanced_search_file_type_txt_format_label: 'formato de texto'
+  advanced_search_operator_link: 'opciones de búsqueda avanzada'
+  advanced_search_operator_url_on_bing: 'http://onlinehelp.microsoft.com/es-us/bing/ff808421.aspx'
+  advanced_search_operator_url_on_google: 'https://support.google.com/websearch/answer/136861?hl=es'
+  advanced_search_operator: 'Usted también puede usar las %{link} para limitar sus búsquedas y hacerlas más específicas.'
+
+  job_openings: "Trabajos"
+  at_agency: "en %{agency} (en inglés)"
+  federal_job_openings: "Trabajos en el Gobierno (en inglés)"
+
+  searches:
+    by: de
+    browse_site: Navegar el sitio
+    commercial_results:
+      see_more_web_results: "%{link} para ver más resultados (es posible que encuentre resultados que ya ha visto)."
+      see_more_image_results: "Estos resultados son de nuestras cuentas en las redes sociales y galerías de imágenes. %{link} para ver resultados de nuestro sitio web (es posible que encuentre resultados que ya ha visto)."
+      search_again: Intente su búsqueda otra vez
+    med_topic:
+      homepage_url: http://www.nlm.nih.gov/medlineplus/spanish/
+      related_topics: Temas relacionados
+    menu: Menú
+    more_agency_job_openings: Más trabajos en %{agency}
+    more_federal_job_openings: ​Más trabajos en el gobierno federal en USAJobs.gov
+    more_news_about_query: 'Más %{news_label} sobre de %{query}'
+    news_about_query: '%{news_label} sobre de %{query}'
+    news_search_options:
+      date_format: 'd/m/yyyy'
+    on_usajobs: 'en USAJobs.gov'
+    related_sites: Ver tema
+    search_results: Buscar resultados
+    site_limits:
+      including_results_for_query_from_matching_sites: Los resultados para %{query} son solo de %{matching_sites}.
+      do_you_want_to_see_results_for: ¿Quiere ver resultados para %{query_from_all_sites}?
+      query_from_all_sites: '%{query} de todos los sitios'
+    skip_to_main_content: Ir al contenido principal
+
+  medline_official_result: Resultado oficial de MedlinePlus
+  medline_related_topics: Temas relacionados de MedlinePlus
+
+  default_serp_title: '%{query} - %{site_name} resultados de la búsqueda'
+
+  showing_results_for: Se muestran resultados para %{corrected_query}
+  search_instead_for: Mostrar solo resultados para %{original_query}
+
+  results_by_bing: 'Resultados por Bing'
+  results_by_usasearch: 'Resultados por USASearch'
+  results_by_google: 'Resultados por Google'
+
+  powered_by: 'Generado por'
+  page: 'Página'
+
+  recommended_pages: 'Páginas recomendadas'
+
+  show_options: 'Mostrar opciones'
+  hide_options: 'Ocultar opciones'
+  show_more: 'Más'
+  show_less: 'Menos'
+  show_more_label: 'Mostrar más'
+  show_less_label: 'Mostrar menos'
+
+  custom_range: 'Elija las fechas'
+  from: 'Desde'
+  to: 'Hasta'
+  cdr_format: '%d/%m/%Y'
+  before: 'Antes de'
+  clear: 'Borrar'
+
+  show_footer: 'Mostrar pie de página'
+  hide_footer: 'Esconder pie de página'
+
+  facet:
+    all_contributors: 'Cualquier colaborador'
+    all_subjects: 'Cualquier tema'
+    all_publishers: 'Cualquier editor'
+
+  date:
+    formats:
+      slashes: "%-d/%-m/%Y"
+
+    day_names: [domingo, lunes, martes, miércoles, jueves, viernes, sábado]
+    abbr_day_names: [do, lu, ma, mi, ju, vi, sa]
+
+    # Don't forget the nil at the beginning; there's no such thing as a 0th month
+    month_names: [~, enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre]
+    abbr_month_names: [~, ene, feb, mar, abr, may, jun, jul, ago, sep, oct, nov, dic]
+    # Used in date_select and datime_select.
+    order:
+      - :day
+      - :month
+      - :year
+
+  datetime:
+    time_ago_in_words:
+      half_a_minute: "Medio minuto"
+      less_than_x_seconds:
+        one:  "Menos de un segundo"
+        other: "Menos de %{count} segundos"
+      x_seconds:
+        one:  "Hace un segundo"
+        other: "Hace %{count} segundos"
+      less_than_x_minutes:
+        one:  "Menos de un minuto"
+        other: "Menos de %{count} minutos"
+      x_minutes:
+        one:  "Hace un minuto"
+        other: "Hace %{count} minutos"
+      about_x_hours:
+        one:  "Hace una hora"
+        other: "Hace %{count} horas"
+      x_days:
+        one:  "Ayer"
+        other: "Hace %{count} días"
+      about_x_months:
+        one:  "Hace un mes"
+        other: "Hace %{count} meses"
+      x_months:
+        one:  "Hace un mes"
+        other: "Hace %{count} meses"
+      about_x_years:
+        one:  " Hace un año"
+        other: "Hace %{count} años"
+      over_x_years:
+        one:  "Más de un año"
+        other: "Más de %{count} años"
+      almost_x_years:
+        one:   "Hace casi un año"
+        other: "Casi %{count} años atrás"

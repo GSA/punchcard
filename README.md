@@ -1,7 +1,7 @@
 punchcard
 =========
 
-Repository of synonyms, protected words, stop words, and other vocabularies to improve the precision and recall of search results.
+Repository of synonyms, protected words, stop words, localizations, and other vocabularies to improve the precision, recall, and usability of search results.
 
 # Synonyms
 
@@ -299,3 +299,8 @@ The Elasticsearch index mapping used to transform entries into analyzed fields i
   }
 }
 ```
+
+# Localizations (l10n)
+
+The DigitalGov Search application uses these files to provide localized translations of text strings based on the
+locale set for the user.
