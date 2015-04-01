@@ -43,7 +43,6 @@ en:
 # Labels for inline best bets, news, and related searches modules
   recommended: "Recommended"
   by: "by"
-  by_site: "by"
   default_rss_govbox_label: 'News'
   related_searches: "Related Searches"
 
@@ -93,7 +92,7 @@ en:
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Powered by'
 
-# Prompts for searchers to expand/collapse the number of best betS visible on the results page
+# Prompts for searchers to expand/collapse the number of best bets visible on the results page
   show_more_label: 'Show more'
   show_less_label: 'Show less'
 
@@ -153,7 +152,8 @@ en:
   result: 'result'
   results_summary: 'Page %{page} of %{approximate}%{total}'
   
-# Labels for inline GovBoxes (legacy results page only)
+# Labels for inline best bets and GovBoxes (legacy results page only)
+  by_site: "by"
   recent_tweet_for: "Recent tweet for '%{query}'"
   recent_tweets_for: "Recent tweets for '%{query}'"
   video_news_results: "Videos of '%{query}'"
