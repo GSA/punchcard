@@ -38,7 +38,7 @@ es:
 # Prompts for searchers to revise or refine search
   no_results_for_and_try: "No hemos encontrado ningún resultado que contenga '%{query}'. Intente usar otras palabras clave o sinónimos."
   too_long: "Las palabras o frases que ha usado para su búsqueda son muy largas. Intente otra vez con un texto más corto."
-  empty_query: "Ingrese los términos de búsqueda en la caja que aparece arriba."
+  empty_query: "Ingrese las palabras de su búsqueda en la casilla de arriba."
 
 # Labels for inline best bets, news, and related searches modules
   recommended: "Recomendación"
@@ -142,14 +142,14 @@ es:
         one:  "Hace un mes"
         other: "Hace %{count} meses"
       about_x_years:
-        one:  " Hace un año"
+        one:  "Hace un año"
         other: "Hace %{count} años"
       over_x_years:
         one:  "Más de un año"
         other: "Más de %{count} años"
       almost_x_years:
         one:   "Hace casi un año"
-        other: "Casi %{count} años atrás"
+        other: "Hace casi %{count} años atrás"
         
 # Label for USA.gov (used on USA.gov only)
   usa_gov: GobiernoUSA.gov
