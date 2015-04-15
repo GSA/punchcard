@@ -26,7 +26,8 @@
   custom_range: 'Կամայական ժամանակահատված'
   from: 'Ումից'
   to: 'Ում'
-  cdr_format: '%Ա/%Օ/%Տ'
+# It's safe to modify the order of these (e.g., '%m/%d/%Y'), but do not localize the Latin letters 'd', 'm', or 'Y'.
+  cdr_format: '%d/%m/%Y'
   before: 'Մինչև'
   clear: 'Մաքրել'
 
@@ -74,11 +75,8 @@
     more_news_about_query: 'Ավելին %{news_label} Մասին %{query}'
     news_about_query: '%{news_label} Մասին %{query}'
     news_search_options:
-      date_format: 'ա/օ/տտտտ'
-# Labels for inline health topics module
-    med_topic:
-      homepage_url: http://www.nlm.nih.gov/medlineplus/
-      related_topics: Առնչվող թեմաներ
+# It's safe to modify the order of these (e.g., 'm/d/yyyy'), but do not localize 'd', 'm', or 'yyyy'.
+      date_format: 'd/m/yyyy'
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Գործարկվել է շնորհիվ'
@@ -90,6 +88,7 @@
 # Date format used in custom date range picker and other places
   date:
     formats:
+# It's safe to modify the order of these (e.g., '%-d/%-m/%Y'), but do not localize 'd', 'm', or 'Y' or remove the dashes.
       slashes: "%-m/%-d/%Y"
 
 # Labels for news-based results indicating how long ago they were published
