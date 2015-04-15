@@ -70,10 +70,6 @@
       including_results_for_query_from_matching_sites: Ներառված են որոնման արդյունքներ %{query} Ումից %{matching_sites} Միայն.
       do_you_want_to_see_results_for: Տեսնել որոնման արդյունքներ %{query_from_all_sites}?
       query_from_all_sites: '%{query} Բոլոր կայքէջերից'
-# Prompts for searchers to see more jobs from the inline jobs module
-    more_agency_job_openings: More %{agency} job openings
-    more_federal_job_openings: More federal job openings on USAJobs.gov
-    on_usajobs: 'on USAJobs.gov'
 # Label for inline news module and prompt to see more news on news vertical
     more_news_about_query: 'Ավելին %{news_label} Մասին %{query}'
     news_about_query: '%{news_label} Մասին %{query}'
