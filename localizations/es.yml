@@ -10,7 +10,7 @@ es:
 # Labels for the navigation bar
   everything: "Todo"
   images: "Imágenes"
-  videos: "Vídeos"
+  videos: "Videos"
   show_more: 'Más'
 
 # Labels to change the sort order by date or relevance
