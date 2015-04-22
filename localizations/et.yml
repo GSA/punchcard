@@ -89,6 +89,7 @@ et:
 # Date format used in custom date range picker and other places
   date:
     formats:
+# It's safe to modify the order of these (e.g., '%-d/%-m/%Y'), but do not localize 'd', 'm', or 'Y' or remove the dashes. Do not change the case of the letters.
       slashes: "%-m/%-d/%Y"
 
 # Labels for news-based results indicating how long ago they were published

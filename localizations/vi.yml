@@ -89,6 +89,7 @@ vi:
 # Date format used in custom date range picker and other places
   date:
     formats:
+# It's safe to modify the order of these (e.g., '%-d/%-m/%Y'), but do not localize 'd', 'm', or 'Y' or remove the dashes. Do not change the case of the letters.
       slashes: "%-Y/%-m/%d"
 
 # Labels for news-based results indicating how long ago they were published
@@ -115,14 +116,14 @@ vi:
         other: "%{count} vài ngày trước"
       about_x_months:
         one:   "khoảng một tháng trước"
-        other: "vài tháng trước %{count} "
+        other: "vài tháng trước %{count}"
       x_months:
         one:   "1 một tháng trước"
       about_x_years:
         one:   "khoảng một năm trước"
-        other: "vài năm trước %{count} "
+        other: "vài năm trước %{count}"
       over_x_years:
-        one:   một năm trước"
-        other: "vài năm trước %{count} "
+        one:   "một năm trước"
+        other: "vài năm trước %{count}"
       almost_x_years:
-        one:   "Tgần một năm trước 1 "
+        one:   "Tgần một năm trước 1"
