@@ -64,7 +64,7 @@ tr:
     search_results: Arama Sonuçları
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
-      see_more_web_results: "%{link} daha fazla sonuç görmek için" (Zaten görmüş olduğunuz bazı sonuçları da görebilirsiniz)
+      see_more_web_results: "%{link} daha fazla sonuç görmek için (Zaten görmüş olduğunuz bazı sonuçları da görebilirsiniz)"
       see_more_image_results: "Yukarıdaki sonuçlar, sosyal medya hesaplarımızdan ve galerilerden alındı.  websitemizden sonuçları görmek için) Zaten görmüş olduğunuz bazı sonuçları da görebilirsiniz"
       search_again: Tekrar arama yapmayı deneyin
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
