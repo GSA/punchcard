@@ -10,8 +10,7 @@ tg:
 # Labels for the navigation bar
   everything: "Ҷавоби сомона"
   images: "Аксҳо"
-          
-  video: "Видеоҳо"
+  videos: "Видеоҳо"
   show_more: 'Бештар'
 
 # Labels to change the sort order by date or relevance
@@ -28,7 +27,8 @@ tg:
   custom_range: 'Доираи одатӣ'
   from: 'Аз ҷониби'
   to: 'Ба'
-  cdr_format: '%D/%M/%Ý'
+# It's safe to modify the order of these (e.g., '%m/%d/%Y'), but do not localize the Latin letters 'd', 'm', or 'Y'. Do not change the case of the letters.
+  cdr_format: '%m/%d/%Y'
   before: 'Пеш аз'
   clear: 'Пок кардан'
 
@@ -76,6 +76,7 @@ tg:
     more_news_about_query: 'Бештар %{news_label} Дар бораи %{query}'
     news_about_query: '%{news_label} Дар бораи %{query}'
     news_search_options:
+# It's safe to modify the order of these (e.g., 'm/d/yyyy'), but do not localize 'd', 'm', or 'yyyy' or change the case of the letters.
       date_format: 'd/m/yyyy'
 # Labels for inline health topics module
     med_topic:

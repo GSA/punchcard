@@ -27,7 +27,8 @@ lv:
   custom_range: 'Ar atlasi'
   from: 'No'
   to: 'Līdz'
-  cdr_format: '%M/%D/%G'
+# It's safe to modify the order of these (e.g., '%m/%d/%Y'), but do not localize the Latin letters 'd', 'm', or 'Y'. Do not change the case of the letters.
+  cdr_format: '%m/%d/%Y'
   before: 'Pirms'
   clear: 'TDzēst'
 
@@ -75,7 +76,8 @@ lv:
     more_news_about_query: 'Vairāk %{news_label} Par %{query}'
     news_about_query: '%{news_label} Par %{query}'
     news_search_options:
-      date_format: 'm/d/gggg'
+# It's safe to modify the order of these (e.g., 'm/d/yyyy'), but do not localize 'd', 'm', or 'yyyy' or change the case of the letters.
+      date_format: 'm/d/yyyy'
 # Labels for inline health topics module
     med_topic:
       homepage_url: http://www.nlm.nih.gov/medlineplus/      related_topics: Saistītās tēmas

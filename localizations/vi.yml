@@ -12,7 +12,6 @@ vi:
   images: "Hình ảnh"
   videos: "videos"
   show_more: 'Thêm'
-          
 
 # Labels to change the sort order by date or relevance
   by_date: 'Mới nhất'
@@ -28,7 +27,8 @@ vi:
   custom_range: 'Tùy chọn '
   from: 'Từ'
   to: 'Đến'
-  cdr_format: '%y/%m/%d
+# It's safe to modify the order of these (e.g., '%m/%d/%Y'), but do not localize the Latin letters 'd', 'm', or 'Y'. Do not change the case of the letters.
+  cdr_format: '%Y/%m/%d'
   before: 'Trước'
   clear: 'Xóa'
 
@@ -67,7 +67,6 @@ vi:
       see_more_web_results: "%{link} xem thêm kết quả"
       see_more_image_results: "Bạn có thể thấy một số kết quả mà bạn đã thấy. %{link}"
       search_again: Hãy thử tìm kiếm một lần nữa
-             
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
     site_limits:
       including_results_for_query_from_matching_sites: Chúng tôi đang thêm một số kết quả cho %{query} từ %{matching_sites} chỉ.
@@ -77,7 +76,8 @@ vi:
     more_news_about_query: 'Thêm %{news_label} về %{query}'
     news_about_query: '%{news_label} TRANSLATION %{query}'
     news_search_options:
-      date_format: 't/nn/nnnn'
+# It's safe to modify the order of these (e.g., 'm/d/yyyy'), but do not localize 'd', 'm', or 'yyyy' or change the case of the letters.
+      date_format: 'yyyy/m/d'
 # Labels for inline topics module
       related_topics: Chủ đề có liên quan
 

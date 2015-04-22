@@ -27,7 +27,8 @@ hi:
   custom_range: 'कस्टम रेंज'
   from: 'से'
   to: 'के लिए'
-  cdr_format: '%M/%D/%Y
+# It's safe to modify the order of these (e.g., '%m/%d/%Y'), but do not localize the Latin letters 'd', 'm', or 'Y'. Do not change the case of the letters.
+  cdr_format: '%m/%d/%Y'
   before: 'पहले'
   clear: 'स्पष्ट'
 
@@ -75,6 +76,7 @@ hi:
     more_news_about_query: 'और अधिक %{news_label} के बारे में %{query}'
     news_about_query: '%{news_label} के बारे में %{query}'
     news_search_options:
+# It's safe to modify the order of these (e.g., 'm/d/yyyy'), but do not localize 'd', 'm', or 'yyyy' or change the case of the letters.
       date_format: 'm/d/yyyy'
 # Labels for inline health topics module
     med_topic:

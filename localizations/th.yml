@@ -10,7 +10,6 @@ th:
 # Labels for the navigation bar
   everything: "ผลการค้นหาภายในเว็บไซต์"
   images: "ภาพ"
-        
   videos: "วิดีโอ"
   show_more: 'เพิ่มเติม'
 
@@ -28,7 +27,8 @@ th:
   custom_range: 'ระบุวันที่'
   from: 'ตั้งแต่'
   to: 'ถึง'
-  cdr_format: '%M/%D/%Y'
+# It's safe to modify the order of these (e.g., '%m/%d/%Y'), but do not localize the Latin letters 'd', 'm', or 'Y'. Do not change the case of the letters.
+  cdr_format: '%m/%d/%Y'
   before: 'ก่อน'
   clear: 'ลบทั้งหมด'
 
@@ -75,6 +75,7 @@ th:
 # Label for inline news module and prompt to see more news on news vertical
     more_news_about_query: 'เพิ่มเติม %{news_label} เกี่ยวกับ %{query}'
     news_about_query: '%{news_label} เกี่ยวกับ %{query}'
+# It's safe to modify the order of these (e.g., 'm/d/yyyy'), but do not localize 'd', 'm', or 'yyyy' or change the case of the letters.
     news_search_options:
       date_format: 'd/m/yyyy'
 # Labels for inline health topics module

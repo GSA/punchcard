@@ -27,7 +27,8 @@ tk:
   custom_range: 'Saýlanan aralyk'
   from: 'Şu wagtdan başlap'
   to: 'çenli'
-  cdr_format: '%M/%D/%Y'
+# It's safe to modify the order of these (e.g., '%m/%d/%Y'), but do not localize the Latin letters 'd', 'm', or 'Y'. Do not change the case of the letters.
+  cdr_format: '%m/%d/%Y'
   before: 'öň'
   clear: 'Arassala'
 
@@ -75,6 +76,7 @@ tk:
     more_news_about_query: 'Başga-da %{news_label} hakynda %{query}'
     news_about_query: '%{news_label} hakynda %{query}'
     news_search_options:
+# It's safe to modify the order of these (e.g., 'm/d/yyyy'), but do not localize 'd', 'm', or 'yyyy' or change the case of the letters.
       date_format: 'd/m/yyyy'
 # Labels for inline health topics module
     med_topic:
