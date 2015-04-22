@@ -78,8 +78,6 @@ vi:
     news_search_options:
 # It's safe to modify the order of these (e.g., 'm/d/yyyy'), but do not localize 'd', 'm', or 'yyyy' or change the case of the letters.
       date_format: 'yyyy/m/d'
-# Labels for inline topics module
-      related_topics: Chủ đề có liên quan
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Được tạo bởi'

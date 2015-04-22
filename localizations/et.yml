@@ -78,9 +78,6 @@ et:
     news_search_options:
 # It's safe to modify the order of these (e.g., 'm/d/yyyy'), but do not localize 'd', 'm', or 'yyyy' or change the case of the letters.
       date_format: 'm/d/yyyy'
-# Labels for inline health topics module
-    med_topic:
-      homepage_url: http://www.nlm.nih.gov/medlineplus/      related_topics: Seotud teemad
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Tootja'
