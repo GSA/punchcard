@@ -305,6 +305,12 @@ The Elasticsearch index mapping used to transform entries into analyzed fields i
 The DigitalGov Search application uses these YAML files to provide localized translations of text strings 
 based on the locale set for the user.
 
+You can use Ruby to quickly verify that all the YAML files can be parsed:
+```ruby
+require 'yaml'
+Dir["*.yml"].each {|f| YAML.load_file f }
+```
+
 ## Contributing
 
 You're encouraged to submit changes via pull requests, propose features and discuss issues.
