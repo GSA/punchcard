@@ -34,7 +34,7 @@ tg:
 
 # Prompts for spelling, spelling overrides, and did you mean suggestions
   showing_results_for: Натоиҷи ҷустуҷӯ барои  %{corrected_query}
-  search_instead_for:Ҷустуҷӯи ... Ба ҷои %{original_query}
+  search_instead_for: Ҷустуҷӯи ... Ба ҷои %{original_query}
   did_you_mean: "Иловаи натоиҷи ҷустуҷу барои  %{assumed_term} Ба Шумо танҳо натоиҷи ҷустуҷӯ барои … лозим аст? %{term_as_typed}?"
 
 # Prompts for searchers to revise or refine search
