@@ -1,6 +1,8 @@
 punchcard
 =========
 
+[![Build Status](https://travis-ci.org/GSA/punchcard.svg?branch=master)](https://travis-ci.org/GSA/punchcard)
+
 Repository of synonyms, protected words, stop words, localizations, and other vocabularies to improve the precision, recall, and usability of search results.
 
 # Synonyms
