@@ -10,7 +10,7 @@ el:
 # Labels for the navigation bar
   everything: "Αποτελέσματα Ιστότοπου"
   images: "Φωτογραφίες"
-  greek: "Βίντεο"
+  videos: "Βίντεο"
   show_more: 'Περισσότερα'
 
 # Labels to change the sort order by date or relevance
