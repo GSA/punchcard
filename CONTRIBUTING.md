@@ -6,17 +6,16 @@ Punchard is work of [multiple contributors](https://github.com/GSA/punchcard/gra
 
 #### Contributing to localization files
 
-These files are in the YAML format. Use a [YAML validator](http://www.yamllint.com) to ensure your edits
-are valid YAML.
+These files are in the YAML format.
 
 You can edit existing files or create new files directly via the [Github web interface](https://github.com/GSA/punchcard/tree/master/localizations). Or, you can use Git from the command line (see below). Either way, follow these steps to create a new localization file:
 
-1. Start with `hy.yml` and copy it into your new locale file. The reason you are using `hy.yml` and not `en.yml` is because the English and Spanish locale files contain many translations that are not used in other locales.
-1. Change the two letter locale in line 1 of your new file from `hy` to match the locale of the filename.
+1. Start with `non_es_en_template.yml` and copy it into your new locale file. The reason you are using `non_es_en_template.yml` and not `en.yml` or `es.yml` is because the English and Spanish locale files contain many translations that are not used in other locales.
+1. Change the two letter locale in line 1 of your new file from `non_es_en_template` to match the locale of the filename.
 1. Be sure to follow the instructions for date-related fields like `cdr_format`, `date_format`, and `slashes`. Case is important!
 1. Be careful with preserving any opening/closing quotes around strings.
 1. Once you have the file ready, copy/paste it into a [YAML validator](http://www.yamllint.com) to ensure what you have is valid YAML.
-1. Commit the change in Github 
+1. Commit the change in Github
 
 #### Fork the Project
 
@@ -47,7 +46,7 @@ git config --global user.name "Your Name"
 git config --global user.email "contributor@example.com"
 ```
 
-Writing good commit logs is important. A commit log should describe what changed and why.
+Writing good commit logs is important. A commit log should describe what changed and wnon_es_en_template.
 
 ```
 git add ...
