@@ -27,7 +27,8 @@ kl:
   custom_range: 'Akuttussuseq nammineq toqqagaq'
   from: '-miit'
   to: '-mut'
-  cdr_format: '%M/%D/%Y'
+# It's safe to modify the order of these (e.g., '%m/%d/%Y'), but do not localize the Latin letters 'd', 'm', or 'Y'.
+  cdr_format: '%m/%d/%Y'
   before: 'Sioqqullugu'
   clear: 'Piiakkit'
 
@@ -53,33 +54,30 @@ kl:
   next_label: "Tullia"
 
   searches:
-  by: -nnga
+    by: -nnga
 # Prompt for searchers to skip to main content (most easily seen by tabbing through results page)
-  skip_to_main_content: Imai pingaarnerit ornikkit
+    skip_to_main_content: Imai pingaarnerit ornikkit
 # Labels for navigation bar "sections" (most easily seen on mobile dimension)
-  menu: Qinigassiivik
-  browse_site: Quppernerit misissukkit
-  related_sites: Pineqartoq takuuk
-  search_results: Ujakkat inerneri
+    menu: Qinigassiivik
+    browse_site: Quppernerit misissukkit
+    related_sites: Pineqartoq takuuk
+    search_results: Ujakkat inerneri
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
-  commercial_results:
-  see_more_web_results: "%{link} Amerlanerit takuniarlugit"
-  see_more_image_results: "Qulaani nanisat inuit attaveqaqatigiiffiannit pisuupput %{link} Uagut quppernitsinnit nanisat takujumallugit (Inernerit takoriikkatit takkuteqqissinnaapput)"
-  search_again: Ujarlernerit misileqqiuk
+    commercial_results:
+      see_more_web_results: "%{link} Amerlanerit takuniarlugit"
+      see_more_image_results: "Qulaani nanisat inuit attaveqaqatigiiffiannit pisuupput %{link} Uagut quppernitsinnit nanisat takujumallugit (Inernerit takoriikkatit takkuteqqissinnaapput)"
+      search_again: Ujarlernerit misileqqiuk
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
-  site_limits:
+    site_limits:
       including_results_for_query_from_matching_sites: Inerneri uku ilannguppavut %{query} Uannga %{matching_sites} Taamaallaat.
       do_you_want_to_see_results_for: Uku nanisat takorusuppigit %{query_from_all_sites}?
       query_from_all_sites: '%{query} Quppernernit tamanit'
 # Label for inline news module and prompt to see more news on news vertical
-  more_news_about_query: 'Aammalu %{news_label} Pillugu %{query}'
-  news_about_query: '%{news_label} Pillugu %{query}'
-  news_search_options:
+    more_news_about_query: 'Aammalu %{news_label} Pillugu %{query}'
+    news_about_query: '%{news_label} Pillugu %{query}'
+    news_search_options:
+# It's safe to modify the order of these (e.g., 'm/d/yyyy'), but do not localize 'd', 'm', or 'yyyy'.
       date_format: 'm/d/yyyy'
-# Labels for inline health topics module
-  med_topic:
-  homepage_url: http://www.nlm.nih.gov/medlineplus/
-  related_topics: Pineqartut attuumassuteqartut
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Piviusunngortitsisoq'
