@@ -119,6 +119,7 @@ vi:
         other: "vài tháng trước %{count}"
       x_months:
         one:   "1 một tháng trước"
+        other: "%{count} months ago" #NOTE: translate me
       about_x_years:
         one:   "khoảng một năm trước"
         other: "vài năm trước %{count}"
@@ -127,3 +128,4 @@ vi:
         other: "vài năm trước %{count}"
       almost_x_years:
         one:   "Tgần một năm trước 1"
+        other: "almost %{count} years ago" #NOTE: translate me
