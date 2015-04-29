@@ -31,8 +31,8 @@ cdr_format: '%M/%D/%Y'
 before: 'مخکې'
 clear: 'پاک'
 # Prompts for spelling, spelling overrides, and did you mean suggestions
-showing_results_for: د پايلو ښودنه لپاره د %{corrected_query}
-search_instead_for: بديله پلټنه لپاره د %{original_query}
+showing_results_for: "د پايلو ښودنه لپاره د %{corrected_query}"
+search_instead_for: بديله پلټنه لپاره "د %{original_query}"
 did_you_mean: "مونږ پايلې شاملوو لپاره د %{assumed_term}. آیا تاسو يوازې د پایلو غوښتونکي ياست لپاره د %{term_as_typed}?"
 
 # Prompts for searchers to revise or refine search
@@ -106,8 +106,8 @@ less_than_x_minutes:
 one: "د يوې دقیقې څخه لږ مخکې"
 other: "لږ تر %{count} څو دقیقې مخکې"
 x_minutes:
-one: "يوه دقیقه مخکې
-other: "%{count} څو دقیقې مخکې"
+one: "يوه دقیقه مخکې"
+other: "%{count} څو دقیقې مخکې "
 about_x_hours:
 one: "نږدې يوه ګړۍ مخکې"
 other: "څو ګړۍ مخکې %{count} څو ګړۍ مخکې"
