@@ -11,7 +11,7 @@ sk:
   everything: "Výsledky zo stránok"
   images: "Obrázky"
 
-  video: "Video"
+  videos: "Video"
   show_more: 'Viac'
 
 # Labels to change the sort order by date or relevance
@@ -77,7 +77,7 @@ sk:
     more_news_about_query: 'Viac %{news_label} o %{query}'
     news_about_query: '%{news_label} o %{query}'
     news_search_options:
-      date_format: 'dd/mm/yyyy'
+      date_format: 'm/d/yyyy'
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Poháňaný'
 
