@@ -124,5 +124,5 @@ ru:
         one:   "более 1 года назад"
         other: "%{count} лет назад"
       almost_x_years:
-      one:   "почти 1 год назад"
-      other: "%{count} лет назад"
+        one:   "почти 1 год назад"
+        other: "%{count} лет назад"
