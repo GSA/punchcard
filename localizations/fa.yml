@@ -32,8 +32,8 @@ fa:
   clear: 'پاک کنید'
 
 # Prompts for spelling, spelling overrides, and did you mean suggestions
-  showing_results_for: نمایش نتایج برای %{corrected_query}
-  search_instead_for: جستجوی جایگزین برای %{original_query}
+  showing_results_for: "نمایش نتایج برای %{corrected_query}"
+  search_instead_for: "جستجوی جایگزین برای %{original_query}"
   did_you_mean: "نتایج جستجو برای %{assumed_term}. نتایج جستجو برای %{term_as_typed}?"
 
 # Prompts for searchers to revise or refine search
@@ -55,7 +55,7 @@ fa:
   searches:
     by: by
 # Prompt for searchers to skip to main content (most easily seen by tabbing through results page)
-    skip_to_main_content: مطلب اصلی
+    skip_to_main_content: " مطلب اصلی"
 # Labels for navigation bar "sections" (most easily seen on mobile dimension)
     menu: فهرست مطالب
     browse_site: کاوش سایت
@@ -65,7 +65,7 @@ fa:
     commercial_results:
       see_more_web_results: "%{link} دیدن نتایج بیشتر"
       see_more_image_results: "نتایج بالا از حسابهای کاربری رسانه های اجتماعی و گالری هایمان است %{link} دیدن نتایج جستجو در وب سایت مان. (دیدن نتایج جستجو در وب سایت مان)"
-    search_again: دوباره جستجو کنید
+      search_again: "دوباره جستجو کنید"
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
     site_limits:
       including_results_for_query_from_matching_sites: نتایج جستجو برای %{query} از %{matching_sites} فقط.
@@ -78,8 +78,8 @@ fa:
       date_format: 'TRANSLATION'
 # Labels for inline health topics module
     med_topic:
-      homepage_url: http://www.nlm.nih.gov/medlineplus/
-      related_topics: مطالب مرتبط
+      homepage_url: "http://www.nlm.nih.gov/medlineplus/"
+      related_topics: "مطالب مرتبط"
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'مجهز به'
