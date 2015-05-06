@@ -68,7 +68,7 @@ az:
     search_again: Yenidən axtarış edin
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
     site_limits:
-      including_results_for_query_from_matching_sites: %{query} nəticələri daxil olaraq Dən %{matching_sites} Yalnız.
+      including_results_for_query_from_matching_sites:  nəticələri %{query} daxil olaraq Dən %{matching_sites} Yalnız.
       do_you_want_to_see_results_for: Siz %{query_from_all_sites} nəticələri görmək istəyirsiniz?
       query_from_all_sites: '%{query} bütün saytlardan'
 # Label for inline news module and prompt to see more news on news vertical
