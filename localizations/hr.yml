@@ -27,7 +27,7 @@ hr:
   custom_range: 'Prilagođeni raspon'
   from: 'Оd'
   to: 'Do'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'Prije'
   clear: 'Očisti'
 
