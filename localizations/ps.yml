@@ -27,7 +27,7 @@ ps:
   custom_range: 'دوديزه محدوده'
   from: 'د '
   to: 'ته'
-  cdr_format: '%m/%d/%y'
+  cdr_format: '%m/%d/%Y'
   before: 'مخکې'
   clear: 'پاک'
 # Prompts for spelling, spelling overrides, and did you mean suggestions
@@ -77,9 +77,8 @@ ps:
     date_format: 'مياشت/ورځ/کال'
 # Labels for inline health topics module
    med_topic:
-    homepage_url: http://www.nlm.nih.gov/medlineplus/
-    related_topics: اړونده موضوع ګانې
-
+     homepage_url: http://www.nlm.nih.gov/medlineplus/
+     related_topics: اړونده موضوع ګانې
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'جوړ شوی په وسیله د'
 
