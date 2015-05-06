@@ -27,7 +27,7 @@ it:
   custom_range: 'periodo personalizzato'
   from: 'da'
   to: 'a'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'prima'
   clear: 'cancella'
 
@@ -53,33 +53,33 @@ it:
   next_label: "prossimo"
 
   searches:
-  by: al
+    by: al
 # Prompt for searchers to skip to main content (most easily seen by tabbing through results page)
-  skip_to_main_content: salta al contenuto principale
+    skip_to_main_content: salta al contenuto principale
 # Labels for navigation bar "sections" (most easily seen on mobile dimension)
-  menu: menu
-  browse_site: naviga nel sito
-  related_sites: leggi argomento
-  search_results: risultati di ricerca
+    menu: menu
+    browse_site: naviga nel sito
+    related_sites: leggi argomento
+    search_results: risultati di ricerca
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
-  commercial_results:
-  see_more_web_results: "%{link} vedere più risultati"
-  see_more_image_results: "I risultati qui sopra sono dai nostri Social Media %{link} per vedere i risultati dal nostro sito web (puoi vedere risultati già visti)"
-  search_again: riprova la ricerca
+    commercial_results:
+      see_more_web_results: "%{link} vedere più risultati"
+      see_more_image_results: "I risultati qui sopra sono dai nostri Social Media %{link} per vedere i risultati dal nostro sito web (puoi vedere risultati già visti)"
+    search_again: riprova la ricerca
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
-  site_limits:
+    site_limits:
       including_results_for_query_from_matching_sites: includiamo i risultati per %{query} da %{matching_sites} solo.
       do_you_want_to_see_results_for: vuoi vedere i risultati per %{query_from_all_sites}?
       query_from_all_sites: '%{query} da tutti i siti'
 # Label for inline news module and prompt to see more news on news vertical
-  more_news_about_query: 'più %{news_label} circa %{query}'
-  news_about_query: '%{news_label} circa %{query}'
-  news_search_options:
-  date_format: 'm/d/yyyy'
+    more_news_about_query: 'più %{news_label} circa %{query}'
+    news_about_query: '%{news_label} circa %{query}'
+    news_search_options:
+      date_format: 'm/d/yyyy'
 # Labels for inline health topics module
-  med_topic:
-  homepage_url: http://www.nlm.nih.gov/medlineplus/
-  related_topics: argomenti correlati
+    med_topic:
+      homepage_url: http://www.nlm.nih.gov/medlineplus/
+      related_topics: argomenti correlati
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'offerto da'
