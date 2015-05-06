@@ -27,7 +27,7 @@ hu:
   custom_range: 'Megadott időtartam'
   from: '-tól/-től'
   to: '-ig'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'Előtt'
   clear: 'Töröl'
 
