@@ -28,7 +28,7 @@ sk:
   custom_range: 'Vlastný rozsah'
   from: 'Od'
   to: 'Do'
-  cdr_format: '%d/%m/%y'
+  cdr_format: '%d/%m/%Y'
   before: 'Pred'
   clear: 'vymazať'
 
@@ -88,7 +88,6 @@ sk:
 # Prompts for searchers to expand/collapse the number of best bets visible on the results page
   show_more_label: 'Zobraziť viac'
   show_less_label: 'Zobraziť menej'
-	
 # Date format used in custom date range picker and other places
   date:
     formats:
