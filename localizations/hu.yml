@@ -80,7 +80,7 @@ hu:
     med_topic:
       homepage_url: http://www.nlm.nih.gov/medlineplus/
       related_topics: Kapcsolódó témák
-
+      
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Kereső:'
 
