@@ -74,7 +74,7 @@ ps:
     more_news_about_query: 'نور %{news_label} په اړه %{query}'
     news_about_query: '%{news_label} په اړه %{query}'
     news_search_options:
-    date_format: 'mm/dd/yyyy'
+    date_format: 'm/d/yyyy'
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'جوړ شوی په وسیله د'
 
