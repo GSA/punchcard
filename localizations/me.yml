@@ -75,7 +75,7 @@ me:
     more_news_about_query: 'Više %{news_label} o %{query}'
     news_about_query: '%{news_label} o %{query}'
     news_search_options:
-      date_format: 'mjesec/dan/godina'
+      date_format: 'mm/dd/yyyy'
 # Labels for inline health topics module
     med_topic:
       homepage_url: http://www.nlm.nih.gov/medlineplus/
