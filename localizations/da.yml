@@ -27,7 +27,7 @@ da:
   custom_range: 'Særligt tidsinterval'
   from: 'Fra'
   to: 'Til'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'Før'
   clear: 'Ryd'
 
