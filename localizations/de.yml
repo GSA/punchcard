@@ -52,33 +52,33 @@ de:
   prev_label: "zurück"
   next_label: "weiter"
   searches:
-  by: auf 
+    by: auf 
 # Prompt for searchers to skip to main content (most easily seen by tabbing through results page)
-  skip_to_main_content: Zum Hauptteil
+    skip_to_main_content: Zum Hauptteil
 # Labels for navigation bar "sections" (most easily seen on mobile dimension)
-  menu: Menü
-  browse_site: Website durchsuchen
-  related_sites: mehr zum diesem Thema
-  search_results: Suchergebnisse
+    menu: Menü
+    browse_site: Website durchsuchen
+    related_sites: mehr zum diesem Thema
+    search_results: Suchergebnisse
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
-  commercial_results:
-  see_more_web_results: "%{link} um mehr Ergebnisse zu sehen"
-  see_more_image_results: "Die Suchergebnisse oben verweisen auf unsere sozialen Medien und Alben. %{link} Ergebnisse auf unserer Website (Es werden möglicherweise Ergebnisse angezeigt, die Sie bereits gesehen haben.)"
-  search_again: Versuchen Sie es erneut.
+    commercial_results:
+      see_more_web_results: "%{link} um mehr Ergebnisse zu sehen"
+      see_more_image_results: "Die Suchergebnisse oben verweisen auf unsere sozialen Medien und Alben. %{link} Ergebnisse auf unserer Website (Es werden möglicherweise Ergebnisse angezeigt, die Sie bereits gesehen haben.)"
+      search_again: Versuchen Sie es erneut.
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
-  site_limits:
+    site_limits:
       including_results_for_query_from_matching_sites: Angezeigt werden auch Suchergebnisse für %{query} auf %{matching_sites} nur.
       do_you_want_to_see_results_for: Möchten Sie die Ergebnisse für %{query_from_all_sites} sehen?
       query_from_all_sites: '%{query} auf allen Websites'
 # Label for inline news module and prompt to see more news on news vertical
-  more_news_about_query: 'mehr %{news_label} zum Thema %{query}'
-  news_about_query: '%{news_label} zum Thema %{query}'
-  news_search_options:
-      date_format: 'm/d/yyyy'
+      more_news_about_query: 'mehr %{news_label} zum Thema %{query}'
+      news_about_query: '%{news_label} zum Thema %{query}'
+      news_search_options:
+        date_format: 'm/d/yyyy'
 # Labels for inline health topics module
-  med_topic:
-  homepage_url: http://www.nlm.nih.gov/medlineplus/
-  related_topics: ähnliche Themen
+    med_topic:
+      homepage_url: http://www.nlm.nih.gov/medlineplus/
+      related_topics: ähnliche Themen
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'powered by'
