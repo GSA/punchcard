@@ -76,11 +76,6 @@ me:
     news_about_query: '%{news_label} o %{query}'
     news_search_options:
       date_format: 'mm/dd/yyyy'
-# Labels for inline health topics module
-    med_topic:
-      homepage_url: http://www.nlm.nih.gov/medlineplus/
-      related_topics: povezane teme
-
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Kreirano od strane'
 
