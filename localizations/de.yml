@@ -71,10 +71,10 @@ de:
       do_you_want_to_see_results_for: Möchten Sie die Ergebnisse für %{query_from_all_sites} sehen?
       query_from_all_sites: '%{query} auf allen Websites'
 # Label for inline news module and prompt to see more news on news vertical
-      more_news_about_query: 'mehr %{news_label} zum Thema %{query}'
-      news_about_query: '%{news_label} zum Thema %{query}'
-      news_search_options:
-        date_format: 'm/d/yyyy'
+    more_news_about_query: 'mehr %{news_label} zum Thema %{query}'
+    news_about_query: '%{news_label} zum Thema %{query}'
+    news_search_options:
+      date_format: 'm/d/yyyy'
 # Labels for inline health topics module
     med_topic:
       homepage_url: http://www.nlm.nih.gov/medlineplus/
