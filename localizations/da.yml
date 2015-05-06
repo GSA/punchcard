@@ -72,10 +72,15 @@ da:
       do_you_want_to_see_results_for: Vil du se resultater fra %{query_from_all_sites}?
       query_from_all_sites: '%{query} fra alle sider'
 # Label for inline news module and prompt to see more news on news vertical
-      more_news_about_query: 'Mere %{news_label} omkring %{query}'
-      news_about_query: '%{news_label} omkring %{query}'
-      news_search_options:
-        date_format: 'm/d/yyyy'
+    more_news_about_query: 'Mere %{news_label} omkring %{query}'
+     news_about_query: '%{news_label} omkring %{query}'
+     news_search_options:
+       date_format: 'm/d/yyyy'
+# Labels for inline health topics module
+    med_topic:
+      homepage_url: http://www.nlm.nih.gov/medlineplus/	      
+      related_topics: Lignende emner
+
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Drevet af'
 
