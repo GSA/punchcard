@@ -65,7 +65,7 @@ ko:
     commercial_results:
       see_more_web_results: "%{link} 더 많은 결과보기"
       see_more_image_results: "상단의  검색결과는 저희 소셜 미디어 계정과 갤러리로부터 나왔습니다 %{link} 저희 웹사이트에서 검색결과 보기 (이미 본 결과를 다시 보실 수도 있습니다.)"
-    search_again: 검색을 다시 시도해 보십시오
+      search_again: 검색을 다시 시도해 보십시오
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
     site_limits:
       including_results_for_query_from_matching_sites: ~에 대한 검색결과를 포함합니다 %{query} ~로부터 %{matching_sites} 오직.
