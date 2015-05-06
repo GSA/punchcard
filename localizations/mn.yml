@@ -75,7 +75,7 @@ mn:
     more_news_about_query: 'Илүү %{news_label} тухай %{query}'
     news_about_query: '%{news_label} тухай %{query}'
     news_search_options:
-      date_format: 'dd/mm/yyyy'
+      date_format: 'm/d/yyyy'
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Бүтээсэн:'
 
