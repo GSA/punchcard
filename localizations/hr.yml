@@ -78,8 +78,8 @@ hr:
       date_format: 'm/d/yyyy'
 # Labels for inline health topics module
     med_topic:
-    homepage_url: http://www.nlm.nih.gov/medlineplus/
-    related_topics: Vezane teme
+      homepage_url: http://www.nlm.nih.gov/medlineplus/
+      related_topics: Vezane teme
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Pokretan sa'
