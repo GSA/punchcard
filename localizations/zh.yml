@@ -75,7 +75,7 @@ zh:
     more_news_about_query: '更多 %{news_label} 关于 %{query}'
     news_about_query: '%{news_label} 关于 %{query}'
     news_search_options:
-      date_format: 'mm/dd/yyyy'
+      date_format: 'm/d/yyyy'
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: '采用以下系统：'
 
