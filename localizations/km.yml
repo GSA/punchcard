@@ -76,11 +76,6 @@ km:
     news_about_query: '%{news_label} អំពី %{query}'
     news_search_options:
       date_format: 'm/d/yyyy'
-# Labels for inline health topics module
-    med_topic:
-      homepage_url: http://khmer.cambodia.usembassy.gov
-      related_topics: ​ប្រធានបទទាក់ទង
-
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'ដំណើរការដោយ'
 
