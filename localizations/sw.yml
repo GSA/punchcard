@@ -27,7 +27,7 @@ sw:
   custom_range: 'Kiwango cha kawaida'
   from: 'Kutoka kwa'
   to: 'Kwenda kwa'
-  cdr_format: '%m/%d/%y'
+  cdr_format: '%m/%d/%Y'
   before: 'Kabla'
   clear: 'Futa'
 
@@ -78,6 +78,7 @@ sw:
       date_format: 'm/d/yyyy'
 # Labels for inline health topics module
     med_topic:
+      homepage_url: http://www.nlm.nih.gov/medlineplus/
       related_topics: Mada inayohusiana
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
