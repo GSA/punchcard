@@ -27,7 +27,7 @@ zh:
   custom_range: '限定范围'
   from: '从'
   to: '至'
-  cdr_format: '%m/%d/%y'
+  cdr_format: '%m/%d/%Y'
   before: '之前'
   clear: '清除'
 
