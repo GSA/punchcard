@@ -76,11 +76,6 @@ fa:
     news_about_query: '%{news_label} درباره %{query}'
     news_search_options:
       date_format: 'd/m/yyyy'
-# Labels for inline health topics module
-    med_topic:
-      homepage_url: http://www.nlm.nih.gov/medlineplus/
-      related_topics: مطالب مرتبط
-
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'مجهز به'
 
