@@ -96,36 +96,36 @@ sr:
   datetime:
     time_ago_in_words:
       half_a_minute: "pre pola minute"
-    less_than_x_seconds:
-      one:   "pre manje od 1 sekunde"
-      other: "pre manje od %{count} sekunde"
-    x_seconds:
-      one:   "pre 1 sekunde"
-      other: "%{count} pre manje od sekundi"
-    less_than_x_minutes:
-      one:   "pre manje od minuta"
-      other: "pre manje od %{count} minuta"
-    x_minutes:
-      one:   "pre 1 minuta"
-      other: "%{count} pre minuta"
-    about_x_hours:
-      one:   "pre oko 1 sata"
-      other: "%{count} sati ranije"
-    x_days:
-      one:   "pre 1 dana"
-      other: "%{count} dana ranije"
-    about_x_months:
-      one:   "pre oko 1 meseca"
-      other: "%{count} meseci ranije"
-    x_months:
-      one:   "1 mesec ranije"
-      other: "%{count} meseci ranije"
-    about_x_years:
-      one:   "pre oko 1 godine"
-      other: "%{count} godina ranije"
-    over_x_years:
-      one:   "pre više od 1 godine"
-      other: "%{count} godina ranije"
-    almost_x_years:
-      one:   "pre skoro 1 godine"
-      other: "%{count} godina ranije"
+      less_than_x_seconds:
+        one:   "pre manje od 1 sekunde"
+        other: "pre manje od %{count} sekunde"
+      x_seconds:
+        one:   "pre 1 sekunde"
+        other: "%{count} pre manje od sekundi"
+      less_than_x_minutes:
+        one:   "pre manje od minuta"
+        other: "pre manje od %{count} minuta"
+       x_minutes:
+        one:   "pre 1 minuta"
+        other: "%{count} pre minuta"
+      about_x_hours:
+        one:   "pre oko 1 sata"
+        other: "%{count} sati ranije"
+      x_days:
+        one:   "pre 1 dana"
+        other: "%{count} dana ranije"
+      about_x_months:
+        one:   "pre oko 1 meseca"
+        other: "%{count} meseci ranije"
+      x_months:
+        one:   "1 mesec ranije"
+        other: "%{count} meseci ranije"
+      about_x_years:
+        one:   "pre oko 1 godine"
+        other: "%{count} godina ranije"
+      over_x_years:
+        one:   "pre više od 1 godine"
+        other: "%{count} godina ranije"
+      almost_x_years:
+        one:   "pre skoro 1 godine"
+        other: "%{count} godina ranije"
