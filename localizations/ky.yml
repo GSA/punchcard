@@ -65,7 +65,7 @@ ky:
     commercial_results:
       see_more_web_results: "%{link} кошумча жыйынтыктарды көрүү үчүн"
       see_more_image_results: "Жогорудагы жыйынтыктар бизин социалдык тармактардан же галереяларыбыздан %{link} сайтыбыздан кошумча жыйынтыктарды көрүү үчүн (Сиз мурун көргөн жыйынтыктарды көрүшүңүз мүмкүн.)"
-    search_again: Издөөңүздү кайталап көрүңүз
+      search_again: Издөөңүздү кайталап көрүңүз
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
     site_limits:
       including_results_for_query_from_matching_sites: ... издөөнү кошуп атабыз %{query} ...дан %{matching_sites} …кана.
