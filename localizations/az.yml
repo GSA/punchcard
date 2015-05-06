@@ -76,10 +76,6 @@ az:
     news_about_query: '%{news_label} Haqqında %{query}'
     news_search_options:
       date_format: 'mm/dd/yyyy'
-# Labels for inline health topics module
-    med_topic:
-      homepage_url: http://www.nlm.nih.gov/medlineplus/
-      related_topics: Əlaqəli mövzular
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'tərəfindən İdarə olunur'
 
