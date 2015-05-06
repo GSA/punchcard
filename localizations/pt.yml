@@ -75,11 +75,7 @@ pt:
     more_news_about_query: 'Mais %{news_label} sobre %{query}'
     news_about_query: '%{news_label} sobre %{query}'
     news_search_options:
-      date_format: 'd/m/yyyy'
-# Labels for inline health topics module
-    med_topic:
-      homepage_url: http://www.nlm.nih.gov/medlineplus/
-      related_topics: Tópicos relacionados
+      date_format: 'dd/md/yyyy'
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Acionado por'
 
