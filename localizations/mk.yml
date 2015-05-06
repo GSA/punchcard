@@ -68,9 +68,9 @@ mk:
       search_again: повторете го вашето пребарување
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
     site_limits:
-    including_results_for_query_from_matching_sites: Вклучуваме резултати за %{query} од %{matching_sites} само.
-    do_you_want_to_see_results_for: Дали сакате да видите резултати за %{query_from_all_sites}?
-    query_from_all_sites: '%{query} од сите веб-страници'
+      including_results_for_query_from_matching_sites: Вклучуваме резултати за %{query} од %{matching_sites} само.
+      do_you_want_to_see_results_for: Дали сакате да видите резултати за %{query_from_all_sites}?
+      query_from_all_sites: '%{query} од сите веб-страници'
 # Label for inline news module and prompt to see more news on news vertical
     more_news_about_query: 'повеќе %{news_label} околу %{query}'
     news_about_query: '%{news_label} околу %{query}'
