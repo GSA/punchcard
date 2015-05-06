@@ -65,7 +65,7 @@ it:
     commercial_results:
       see_more_web_results: "%{link} vedere più risultati"
       see_more_image_results: "I risultati qui sopra sono dai nostri Social Media %{link} per vedere i risultati dal nostro sito web (puoi vedere risultati già visti)"
-    search_again: riprova la ricerca
+      search_again: riprova la ricerca
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
     site_limits:
       including_results_for_query_from_matching_sites: includiamo i risultati per %{query} da %{matching_sites} solo.
