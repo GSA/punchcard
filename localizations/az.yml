@@ -27,13 +27,13 @@ az:
   custom_range: 'Xüsusi çeşid'
   from: 'Tarixdən'
   to: 'Tarixinədək'
-  cdr_format: '%m/%d/%y'
+  cdr_format: '%m/%d/%Y'
   before: 'əvvəl'
   clear: 'Silmək'
 
 # Prompts for spelling, spelling overrides, and did you mean suggestions
   showing_results_for: Nəticələr %{corrected_query}
-  search_instead_for: %{original_query} əvəzinə axtarış
+  search_instead_for: əvəzinə axtarış %{original_query} 
   did_you_mean: "%{assumed_term} nəticələri daxil olmaqla. Siz yalnız %{term_as_typed} üçün nəticələri istəyirsiniz?"
 
 # Prompts for searchers to revise or refine search
@@ -75,7 +75,7 @@ az:
     more_news_about_query: 'Daha ətraflı %{news_label} Haqqında %{query}'
     news_about_query: '%{news_label} Haqqında %{query}'
     news_search_options:
-      date_format: 'TRANSLATION'
+      date_format: 'mm/dd/yyyy'
 # Labels for inline health topics module
     med_topic:
       homepage_url: http://www.nlm.nih.gov/medlineplus/
