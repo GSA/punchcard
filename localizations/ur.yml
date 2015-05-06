@@ -27,7 +27,7 @@ ur:
   custom_range: 'ضرورت کے مطابق حدود طے کریں'
   from: 'از'
   to: 'بنام'
-  cdr_format: '%m/%d/%y'
+  cdr_format: '%m/%d/%Y'
   before: 'پہلے'
   clear: 'مٹائیں'
 
@@ -78,6 +78,7 @@ ur:
       date_format: 'm/d/yyyy'
 # Labels for inline health topics module
     med_topic:
+      homepage_url: http://www.nlm.nih.gov/medlineplus/
       related_topics: متعلقہ موضوعات
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
