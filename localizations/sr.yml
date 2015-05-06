@@ -27,7 +27,7 @@ sr:
   custom_range: 'Prilagođen opseg'
   from: 'Od'
   to: 'Do'
-  cdr_format: '%m/%d/%y'
+  cdr_format: '%m/%d/%Y'
   before: 'Pre'
   clear: 'Obriši'
 
@@ -78,8 +78,8 @@ sr:
       date_format: 'm/d/yyyy'
 # Labels for inline health topics module
     med_topic:
+      homepage_url: http://www.nlm.nih.gov/medlineplus/
       related_topics: Srodne teme
-
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Podržano od'
 
@@ -90,7 +90,7 @@ sr:
 # Date format used in custom date range picker and other places
   date:
     formats:
-      slashes: "%-m/%-d/%Y"
+      slashes: "%-m/%-d/%y"
 
 # Labels for news-based results indicating how long ago they were published
   datetime:
