@@ -91,37 +91,37 @@ km:
 # Labels for news-based results indicating how long ago they were published
   datetime:
     time_ago_in_words:
-    half_a_minute: "កន្លះ​នាទីមុន"
-    less_than_x_seconds:
-      one:   "មិនដល់មួយវិនាទីមុន"
-      other: "តិចជាង %{count} ប៉ុន្មានវិនាទីមុន"
-    x_seconds:
-      one:   "មួយវិនាទីមុន"
-      other: "%{count} ប៉ុន្មានវិនាទីមុន"
-    less_than_x_minutes:
-      one:   "មិនដល់មួយនាទីមុន"
-      other: "តិចជាង %{count} ប៉ុន្មាននាទីមុន"
-    x_minutes:
-      one:   "មួយនាទីមុន"
-      other: "%{count} ប៉ុន្មាននាទីមុន"
-    about_x_hours:
-      one:   "ប្រហែលមួយម៉ោងមុន"
-      other: "អំពី %{count}  ប៉ុន្មាន​ម៉ោងមុន"
-    x_days:
-      one:   "មួយថ្ងៃមុន"
-      other: "%{count} ប៉ុន្មានថ្ងៃមុន"
-    about_x_months:
-      one:   "ប្រហែលមួយខែមុន"
-      other: "អំពី %{count} ប៉ុន្មានខែមុន"
-    x_months:
-      one:   "មួយខែមុន"
-      other: "%{count} ប៉ុន្មានខែមុន"
-    about_x_years:
-      one:   "ប្រហែលមួយឆ្នាំមុន"
-      other: "អំពី %{count} ប៉ុន្មានឆ្នាំមុន"
-    over_x_years:
-      one:   "ជាងមួយឆ្នាំមុន"
-      other: "ជាង %{count} ប៉ុន្មានឆ្នាំមុន"
-    almost_x_years:
-      one:   "ជិតមួយឆ្នាំមុន"
-      other: "ជិត %{count} ប៉ុន្មានឆ្នាំមុន"
+      half_a_minute: "កន្លះ​នាទីមុន"
+      less_than_x_seconds:
+        one:   "មិនដល់មួយវិនាទីមុន"
+        other: "តិចជាង %{count} ប៉ុន្មានវិនាទីមុន"
+      x_seconds:
+        one:   "មួយវិនាទីមុន"
+        other: "%{count} ប៉ុន្មានវិនាទីមុន"
+      less_than_x_minutes:
+        one:   "មិនដល់មួយនាទីមុន"
+        other: "តិចជាង %{count} ប៉ុន្មាននាទីមុន"
+      x_minutes:
+        one:   "មួយនាទីមុន"
+        other: "%{count} ប៉ុន្មាននាទីមុន"
+      about_x_hours:
+        one:   "ប្រហែលមួយម៉ោងមុន"
+        other: "អំពី %{count}  ប៉ុន្មាន​ម៉ោងមុន"
+      x_days:
+        one:   "មួយថ្ងៃមុន"
+        other: "%{count} ប៉ុន្មានថ្ងៃមុន"
+      about_x_months:
+        one:   "ប្រហែលមួយខែមុន"
+        other: "អំពី %{count} ប៉ុន្មានខែមុន"
+      x_months:
+        one:   "មួយខែមុន"
+        other: "%{count} ប៉ុន្មានខែមុន"
+      about_x_years:
+        one:   "ប្រហែលមួយឆ្នាំមុន"
+        other: "អំពី %{count} ប៉ុន្មានឆ្នាំមុន"
+      over_x_years:
+        one:   "ជាងមួយឆ្នាំមុន"
+        other: "ជាង %{count} ប៉ុន្មានឆ្នាំមុន"
+      almost_x_years:
+        one:   "ជិតមួយឆ្នាំមុន"
+        other: "ជិត %{count} ប៉ុន្មានឆ្នាំមុន"
