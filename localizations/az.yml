@@ -27,7 +27,7 @@ az:
   custom_range: 'Xüsusi çeşid'
   from: 'Tarixdən'
   to: 'Tarixinədək'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%y'
   before: 'əvvəl'
   clear: 'Silmək'
 
