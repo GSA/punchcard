@@ -65,7 +65,7 @@ ha:
     commercial_results:
       see_more_web_results: "%{link} a duba karin sakamako"
       see_more_image_results: "Wannan sakamakon ya fito ne daga shafin yanar-gizonmu mai bayanai da hotuna. %{link} don ganin sakamako daga shafin yanar-gizonmu (Ana iya ganin karin sakamakon da ka samu.)"
-    search_again: Kokarta bincikawa
+      search_again: Kokarta bincikawa
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
     site_limits:
       including_results_for_query_from_matching_sites: Za mu kara bayar da sakamako don %{query} daga %{matching_sites} kadai.
