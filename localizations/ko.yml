@@ -91,37 +91,37 @@ ko:
 # Labels for news-based results indicating how long ago they were published
   datetime:
     time_ago_in_words:
-    half_a_minute: "30초 전"
-    less_than_x_seconds:
-      one:   "약 1초 전"
-      other: "~전 %{count} ~몇 초 전"
-    x_seconds:
-      one:   "1초 전"
-      other: "%{count} ~몇 초 전"
-    less_than_x_minutes:
-      one:   "약 1분 전"
-      other: "~전 %{count} ~몇 분 전"
-    x_minutes:
-      one:   "1분 전"
-      other: "%{count} ~몇 분 전"
-    about_x_hours:
-      one:   "약 1시간 전"
-      other: "약 %{count}  몇 시간 전"
-    x_days:
-      one:   "1일 전"
-      other: "%{count} 몇일 전"
-    about_x_months:
-      one:   "약 1달 전"
-      other: "약 %{count} 몇 달 전"
-    x_months:
-      one:   "한 달 전"
-      other: "%{count} 몇 달 전"
-    about_x_years:
-      one:   "약 1년 전"
-      other: "약 %{count} 몇 년 전 "
-    over_x_years:
-      one:   "일년 이상 전"
-      other: "일년 %{count} 몇 년 전 "
-    almost_x_years:
-      one:   "약 1년 전"
-      other: "약 %{count} 몇 년 전 "
+      half_a_minute: "30초 전"
+      less_than_x_seconds:
+        one:   "약 1초 전"
+        other: "~전 %{count} ~몇 초 전"
+      x_seconds:
+        one:   "1초 전"
+        other: "%{count} ~몇 초 전"
+      less_than_x_minutes:
+        one:   "약 1분 전"
+        other: "~전 %{count} ~몇 분 전"
+      x_minutes:
+        one:   "1분 전"
+        other: "%{count} ~몇 분 전"
+      about_x_hours:
+        one:   "약 1시간 전"
+        other: "약 %{count}  몇 시간 전"
+      x_days:
+        one:   "1일 전"
+        other: "%{count} 몇일 전"
+      about_x_months:
+        one:   "약 1달 전"
+        other: "약 %{count} 몇 달 전"
+      x_months:
+        one:   "한 달 전"
+        other: "%{count} 몇 달 전"
+      about_x_years:
+        one:   "약 1년 전"
+        other: "약 %{count} 몇 년 전 "
+      over_x_years:
+        one:   "일년 이상 전"
+        other: "일년 %{count} 몇 년 전 "
+      almost_x_years:
+        one:   "약 1년 전"
+        other: "약 %{count} 몇 년 전 "
