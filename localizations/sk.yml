@@ -77,11 +77,7 @@ sk:
     more_news_about_query: 'Viac %{news_label} o %{query}'
     news_about_query: '%{news_label} o %{query}'
     news_search_options:
-      date_format: 'd/m/yyyy'
-# Labels for inline health topics module
-    med_topic:
-      related_topics: Súvisiace témy
-
+      date_format: 'dd/mm/yyyy'
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Poháňaný'
 
