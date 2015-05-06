@@ -27,7 +27,7 @@ de:
   custom_range: 'benutzerdefinierter Zeitraum'
   from: 'von'
   to: 'bis'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'vor'
   clear: 'Zurücksetzen'
 
