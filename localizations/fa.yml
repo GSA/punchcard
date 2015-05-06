@@ -75,7 +75,7 @@ fa:
     more_news_about_query: 'مطالب بیشتر %{news_label} درباره %{query}'
     news_about_query: '%{news_label} درباره %{query}'
     news_search_options:
-      date_format: 'TRANSLATION'
+      date_format: 'd/m/yyyy'
 # Labels for inline health topics module
     med_topic:
       homepage_url: http://www.nlm.nih.gov/medlineplus/
