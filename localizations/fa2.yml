@@ -65,7 +65,7 @@ fa:
     commercial_results:
       see_more_web_results: "%{link} برای دیدن نتایج بیشتر"
       see_more_image_results: "نتایج فوق از حساب های رسانه های اجتماعی و گالری های ما به دست آمده  %{link} برای دیدن نتایج از ویب سایت ما (ممکن شما بعضی نتایج را مشاهده کنید که قبلاً دیده بودید)"
-    search_again: جستجوی خود را بار دیگر امتحان کنید
+      search_again: جستجوی خود را بار دیگر امتحان کنید
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
     site_limits:
       including_results_for_query_from_matching_sites: ما نتایج را شامل می کنیم برای %{query} از %{matching_sites} فقط.
