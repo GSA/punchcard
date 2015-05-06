@@ -74,11 +74,7 @@ ps:
     more_news_about_query: 'نور %{news_label} په اړه %{query}'
     news_about_query: '%{news_label} په اړه %{query}'
     news_search_options:
-    date_format: 'مياشت/ورځ/کال'
-# Labels for inline health topics module
-   med_topic:
-     homepage_url: http://www.nlm.nih.gov/medlineplus/
-     related_topics: اړونده موضوع ګانې
+    date_format: 'mm/dd/yyyy'
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'جوړ شوی په وسیله د'
 
