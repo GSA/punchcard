@@ -10,7 +10,7 @@ ru:
 # Labels for the navigation bar
   everything: "Результаты сайта"
   images: "Изображения"
-  video: "видео"
+  videos: "видео"
   show_more: 'Больше'
 
 # Labels to change the sort order by date or relevance
