@@ -10,8 +10,7 @@ pt:
 # Labels for the navigation bar
   everything: "Resultados do site"
   images: "Imagens"
-
-  video: "Vídeo"
+  videos: "Vídeo"
   show_more: 'Mais'
 
 # Labels to change the sort order by date or relevance
@@ -28,7 +27,7 @@ pt:
   custom_range: 'Período personalizado'
   from: 'De'
   to: 'Até'
-  cdr_format: '%m/%d/%y'
+  cdr_format: '%m/%d/%Y'
   before: 'Antes'
   clear: 'Limpar'
 
@@ -79,8 +78,8 @@ pt:
       date_format: 'd/m/yyyy'
 # Labels for inline health topics module
     med_topic:
+      homepage_url: http://www.nlm.nih.gov/medlineplus/
       related_topics: Tópicos relacionados
-
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Acionado por'
 
