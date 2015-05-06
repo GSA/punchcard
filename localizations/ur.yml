@@ -27,7 +27,7 @@ ur:
   custom_range: 'ضرورت کے مطابق حدود طے کریں'
   from: 'از'
   to: 'بنام'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%y'
   before: 'پہلے'
   clear: 'مٹائیں'
 
@@ -90,7 +90,7 @@ ur:
 # Date format used in custom date range picker and other places
   date:
     formats:
-      slashes: "%-m/%-d/%Y"
+      slashes: "%-m/%-d/%y"
 
 # Labels for news-based results indicating how long ago they were published
   datetime:
