@@ -76,10 +76,6 @@ ha:
     news_about_query: '%{news_label} game da %{query}'
     news_search_options:
       date_format: 'm/d/yyyy'
-# Labels for inline health topics module
-    med_topic:
-      homepage_url: http://www.nlm.nih.gov/medlineplus/
-      related_topics: Manhajar dake da dangantaka
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Naurar da ta gabatar'
 
