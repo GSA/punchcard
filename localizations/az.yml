@@ -95,37 +95,37 @@ az:
 # Labels for news-based results indicating how long ago they were published
   datetime:
     time_ago_in_words:
-    half_a_minute: "yarım dəqiqə əvvəl"
-    less_than_x_seconds:
-      one:   "1 saniyədən əvvəl"
-      other: "%{count} az saniyə əvvəl"
-    x_seconds:
-      one:   "1 saniyə əvvəl"
-      other: "%{count} saniyə əvvəl"
-    less_than_x_minutes:
-      one:   "bir dəqiqədən əvvəl"
-      other: "%{count} az dəqiqə əvvəl"
-    x_minutes:
-      one:   "1 dəqiqə əvvəl"
-      other: "%{count} dəqiqə əvvəl"
-    about_x_hours:
-      one:   "təxminən 1 saat əvvəl"
-      other: "Haqqında %{count} saat əvvəl"
-    x_days:
-      one:   "1 gün əvvəl"
-      other: "%{count} gün əvvəl"
-    about_x_months:
-      one:   "təxminən 1 ay əvvəl"
-      other: "Haqqında %{count} ay əvvəl"
-    x_months:
-      one:   "1 ay əvvəl"
-      other: "%{count} ay əvvəl"
-    about_x_years:
-      one:   "təxminən 1 il əvvəl"
-      other: "Haqqında %{count} il bundan əvvəl"
-    over_x_years:
-      one:   "1 ildən il çox əvvəl"
-      other: "Haqqında %{count} il bundan əvvəl"
-    almost_x_years:
-      one:   "təxminən 1 il əvvəl 1 saat əvvəl"
-      other: "Haqqında %{count} il bundan əvvəl"
+      half_a_minute: "yarım dəqiqə əvvəl"
+      less_than_x_seconds:
+        one:   "1 saniyədən əvvəl"
+        other: "%{count} az saniyə əvvəl"
+      x_seconds:
+        one:   "1 saniyə əvvəl"
+        other: "%{count} saniyə əvvəl"
+      less_than_x_minutes:
+        one:   "bir dəqiqədən əvvəl"
+        other: "%{count} az dəqiqə əvvəl"
+      x_minutes:
+        one:   "1 dəqiqə əvvəl"
+        other: "%{count} dəqiqə əvvəl"
+      about_x_hours:
+        one:   "təxminən 1 saat əvvəl"
+        other: "Haqqında %{count} saat əvvəl"
+      x_days:
+        one:   "1 gün əvvəl"
+        other: "%{count} gün əvvəl"
+      about_x_months:
+        one:   "təxminən 1 ay əvvəl"
+        other: "Haqqında %{count} ay əvvəl"
+      x_months:
+        one:   "1 ay əvvəl"
+        other: "%{count} ay əvvəl"
+      about_x_years:
+        one:   "təxminən 1 il əvvəl"
+        other: "Haqqında %{count} il bundan əvvəl"
+      over_x_years:
+        one:   "1 ildən il çox əvvəl"
+        other: "Haqqında %{count} il bundan əvvəl"
+      almost_x_years:
+        one:   "təxminən 1 il əvvəl 1 saat əvvəl"
+        other: "Haqqında %{count} il bundan əvvəl"
