@@ -53,33 +53,33 @@ hu:
   next_label: "Következő"
 
   searches:
-  by: 
+    by: 
 # Prompt for searchers to skip to main content (most easily seen by tabbing through results page)
-  skip_to_main_content: Ugrás a fő tartalomra
+    skip_to_main_content: Ugrás a fő tartalomra
 # Labels for navigation bar "sections" (most easily seen on mobile dimension)
-  menu: Menü
-  browse_site: Böngészés az oldalon
-  related_sites: Téma megtekintése
-  search_results: Találatok
+    menu: Menü
+    browse_site: Böngészés az oldalon
+    related_sites: Téma megtekintése
+    search_results: Találatok
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
-  commercial_results:
-  see_more_web_results: "%{link} További találatok"
-  see_more_image_results: "Találatok közösségi oladalainkról és fotóalbumainkból. %{link} Találatok honlapunkról (Korábban már látott találatok is megjelenhetnek.)"
-  search_again: Keressen újra!
+    commercial_results:
+      see_more_web_results: "%{link} További találatok"
+      see_more_image_results: "Találatok közösségi oladalainkról és fotóalbumainkból. %{link} Találatok honlapunkról (Korábban már látott találatok is megjelenhetnek.)"
+      search_again: Keressen újra!
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
-  site_limits:
+    site_limits:
       including_results_for_query_from_matching_sites: Találatok %{query} -ra/-re is -tól/-től %{matching_sites} kizárólag.
       do_you_want_to_see_results_for: Megtekinti a találatokat %{query_from_all_sites} -ra/-re?
       query_from_all_sites: '%{query} az összes oldalról'
 # Label for inline news module and prompt to see more news on news vertical
-  more_news_about_query: 'Továbbiak %{news_label} -ról/-ről %{query}'
-  news_about_query: '%{news_label} -ról/-ről %{query}'
-  news_search_options:
+    more_news_about_query: 'Továbbiak %{news_label} -ról/-ről %{query}'
+    news_about_query: '%{news_label} -ról/-ről %{query}'
+    news_search_options:
       date_format: 'm/d/yyyy'
 # Labels for inline health topics module
-  med_topic:
-  homepage_url: http://www.nlm.nih.gov/medlineplus/
-  related_topics: Kapcsolódó témák
+    med_topic:
+      homepage_url: http://www.nlm.nih.gov/medlineplus/
+      related_topics: Kapcsolódó témák
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Kereső:'
