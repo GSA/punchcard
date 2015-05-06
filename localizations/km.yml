@@ -65,7 +65,7 @@ km:
     commercial_results:
       see_more_web_results: "%{link} ដើម្បីមើលលទ្ធផល​បន្ថែមទៀត"
       see_more_image_results: "លទ្ធផលខាង​លើបាន​ពីគណនេយ្យ និង​​វិចិត្រ​​សាល​​​​នៃប្រព័ន្ធផ្សព្វ​ផ្សាយ​សង្គម​របស់​យើង។ %{link} ដើម្បីមើលលទ្ធផល​ពីគេហទំព័ររបស់យើង (អ្នកអាច​ឃើញលទ្ធផលខ្លះ​​ដែលអ្នកបាន​ឃើញហើយ។)"
-    search_again: សូមសាកល្បងស្វែងរកម្តងទៀត
+      search_again: សូមសាកល្បងស្វែងរកម្តងទៀត
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
     site_limits:
       including_results_for_query_from_matching_sites: យើងបញ្ចូល​លទ្ធផល​សំរាប់ %{query} មកពី %{matching_sites} សំរាប់តែ.
