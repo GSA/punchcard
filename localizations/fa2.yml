@@ -1,4 +1,4 @@
-fa:
+fa2:
 
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} نتایج جستجو'
