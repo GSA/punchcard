@@ -28,7 +28,7 @@ sk:
   custom_range: 'Vlastný rozsah'
   from: 'Od'
   to: 'Do'
-  cdr_format: '%d/%m/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'Pred'
   clear: 'vymazať'
 
