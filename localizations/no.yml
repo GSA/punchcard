@@ -32,8 +32,8 @@ no:
   clear: 'Fjern'
 
 # Prompts for spelling, spelling overrides, and did you mean suggestions
-  showing_results_for: Vis treff for %{corrected_query}
-  search_instead_for: Søk i stedet for %{original_query}
+  showing_results_for: "Vis treff for %{corrected_query}"
+  search_instead_for: "Søk i stedet for %{original_query}"
   did_you_mean: "Vi inkluderer treff for %{assumed_term}. Ønsker du treff kun for %{term_as_typed}?"
 
 # Prompts for searchers to revise or refine search
