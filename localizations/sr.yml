@@ -101,7 +101,7 @@ sr:
       less_than_x_minutes:
         one:   "pre manje od minuta"
         other: "pre manje od %{count} minuta"
-       x_minutes:
+      x_minutes:
         one:   "pre 1 minuta"
         other: "%{count} pre minuta"
       about_x_hours:
