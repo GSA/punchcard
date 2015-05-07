@@ -27,7 +27,7 @@ no:
   custom_range: 'Definert tid'
   from: 'Fra'
   to: 'Til'
-  cdr_format: '%d/%m/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'Før'
   clear: 'Fjern'
 
