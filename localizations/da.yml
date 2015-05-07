@@ -87,7 +87,7 @@ da:
   date:
     formats:
       slashes: "%-m/%-d/%Y"
-
+      
 # Labels for news-based results indicating how long ago they were published
   datetime:
     time_ago_in_words:
