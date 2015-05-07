@@ -51,7 +51,7 @@ da:
   page: 'Side'
   prev_label: "Forrige"
   next_label: "Næste"
-  
+
   searches:
     by: på
 # Prompt for searchers to skip to main content (most easily seen by tabbing through results page)
