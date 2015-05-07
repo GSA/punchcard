@@ -46,7 +46,7 @@ git config --global user.name "Your Name"
 git config --global user.email "contributor@example.com"
 ```
 
-Writing good commit logs is important. A commit log should describe what changed and wnon_es_en_template.
+Writing good commit logs is important. A commit log should describe what changed and why.
 
 ```
 git add ...
@@ -61,11 +61,11 @@ git push origin my-feature-branch
 
 #### Make a Pull Request
 
-Go to https://github.com/contributor/punchcard and select your feature branch. Click the 'Pull Request' button and fill out the form. Pull requests are usually reviewed within a few days.
+Go to https://github.com/contributor/punchcard and select your feature branch. Click the 'Pull Request' button and fill out the form. A series of automated tests will run on [Travis](https://travis-ci.org/GSA/punchcard). If tests pass, your pull request will usually get reviewed and accepted within a few days.
 
 #### Be Patient
 
-It's likely that your change will not be merged and that the nitpicky maintainers will ask you to do more, or fix seemingly benign problems. Hang on there!
+It's likely that your change will not be merged and that the nitpicky maintainers (or Travis) will ask you to do more, or fix seemingly benign problems. Hang on there!
 
 #### Thank You
 
