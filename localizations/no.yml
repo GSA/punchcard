@@ -75,7 +75,7 @@ no:
     more_news_about_query: ' %{news_label}  %{query}'
     news_about_query: '%{news_label} Mer %{query}'
     news_search_options:
-      date_format: 'd/m/yyyy'
+      date_format: 'm/d/yyyy'
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Drevet av'
 
