@@ -78,16 +78,13 @@ no:
       date_format: 'm/d/yyyy'
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: 'Drevet av'
-
 # Prompts for searchers to expand/collapse the number of best bets visible on the results page
   show_more_label: 'Vis mer'
   show_less_label: 'Vis mindre'
-
 # Date format used in custom date range picker and other places
   date:
     formats:
       slashes: "%-m/%-d/%Y"
-
 # Labels for news-based results indicating how long ago they were published
   datetime:
     time_ago_in_words:
