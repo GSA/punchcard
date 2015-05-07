@@ -72,7 +72,7 @@ no:
       do_you_want_to_see_results_for: Ønsker du å se treff for %{query_from_all_sites}?
       query_from_all_sites: '%{query} fra alle sider'
 # Label for inline news module and prompt to see more news on news vertical
-    more_news_about_query: 'TRANSLATION %{news_label} TRANSLATION %{query}'
+    more_news_about_query: ' %{news_label}  %{query}'
     news_about_query: '%{news_label} Mer %{query}'
     news_search_options:
       date_format: 'm/d/yyyy'
@@ -115,7 +115,7 @@ no:
         other: "måneder siden %{count} måneder siden"
       x_months:
         one:   "1 måned siden"
-        other: "%{count} TRANSLATION"
+        other: "%{count} "
       about_x_years:
         one:   "omtrent 1 år siden"
         other: "år siden %{count} år siden"
