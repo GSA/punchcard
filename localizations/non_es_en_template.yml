@@ -61,6 +61,7 @@
     menu: Մենյու
     browse_site: Որոնել էջում
     related_sites: Դիտել թեմանc
+    results_count: '%{count} RESULTS'
     search_results: Որոնման արդյունքներ
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
