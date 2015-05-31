@@ -27,7 +27,7 @@ ka:
   custom_range: 'თარიღის დაზუსტება'
   from: 'დან'
   to: 'კენ'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'მდე'
   clear: 'წაშლა'
 
@@ -60,12 +60,12 @@ ka:
     menu: მენიუ
     browse_site: გვერდის ნახვა/დათვალიერება
     related_sites: თემის ნახვა
+    results_count: '%{count}'
     search_results: ძიების შედეგები
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
       see_more_web_results: "%{link} მეტი შედეგის ნახვა"
-      see_more_image_results: "ზემოთ მოყვანილი შედეგები მოყვანილია
-ჩვენი სიციალური მედია გვერდებიდან და გალერეებიდან. %{link} ჩვენი ვებ-გვერდიდან შედეგების სანახავად (შეგიძლიათ, ნახოთ უკვე ნანახი შედეგები)"
+      see_more_image_results: "ზემოთ მოყვანილი შედეგები მოყვანილია ჩვენი სიციალური მედია გვერდებიდან და გალერეებიდან. %{link} ჩვენი ვებ-გვერდიდან შედეგების სანახავად (შეგიძლიათ, ნახოთ უკვე ნანახი შედეგები)"
       search_again: ცადეთ თავიდან
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
     site_limits:
