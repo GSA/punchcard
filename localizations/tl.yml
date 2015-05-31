@@ -10,7 +10,7 @@ tl:
 # Labels for the navigation bar
   everything: "Site ng mga Resulta"
   images: "Mga Image"
-  Videos: "Video"
+  videos: "Video"
   show_more: 'Higit pa'
 
 # Labels to change the sort order by date or relevance
@@ -27,7 +27,7 @@ tl:
   custom_range: 'Pasadya'
   from: 'Mula sa'
   to: 'Sa'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'Bago'
   clear: 'Clear'
 
@@ -60,6 +60,7 @@ tl:
     menu: Menu
     browse_site: Browse site
     related_sites: Tingnan ang paksa
+    results_count: '%{count}'
     search_results: Mga resulta sa Paghahanap
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
