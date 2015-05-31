@@ -27,7 +27,7 @@ ca:
   custom_range: 'Categoria personalitzada'
   from: 'Des de'
   to: 'A'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'Abans'
   clear: 'Treure'
 
@@ -60,6 +60,7 @@ ca:
     menu: Menu
     browse_site: Navegar el lloc web
     related_sites: Vegeu tema
+    results_count: '%{count}'
     search_results: Resultats de la cerca
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
