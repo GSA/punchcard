@@ -1,4 +1,4 @@
-  am:
+am:
 
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} የፍለጋ ውጤቶች'
@@ -27,7 +27,7 @@
   custom_range: 'የተስተካከለ ገደብ'
   from: 'ከ'
   to: 'ወደ '
-  cdr_format: '%m/%d/%y'
+  cdr_format: '%m/%d/%Y'
   before: 'በፊት'
   clear: 'ግልጽ'
 
@@ -60,6 +60,7 @@
     menu: ማውጫ
     browse_site: የፍለጋ ቦታ 
     related_sites: ርዕስ ይዩ
+    results_count: '%{count}'
     search_results: የፍለጋ ውጤቶች 
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
