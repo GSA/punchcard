@@ -27,7 +27,7 @@ uk:
   custom_range: 'За період'
   from: 'З'
   to: 'По '
-  cdr_format: '%D/%M/%Y'
+  cdr_format: '%d/%m/%y'
   before: 'До'
   clear: 'Очистити'
 
