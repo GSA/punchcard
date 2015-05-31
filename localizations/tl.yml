@@ -38,8 +38,7 @@ tl:
 
 # Prompts for searchers to revise or refine search
   no_results_for_and_try: "Pasensiya na, walang nahanap na mga resulta para '%{query}'. Subukang itala ang mas konti o mas malawak na mga termino sa paghahanap"
-  too_long: "Masyadong mahaba ang terminong hinahanap mo. Subukang muli 
-na ginagamit ang mas maikling salita o phrase."
+  too_long: "Masyadong mahaba ang terminong hinahanap mo. Subukang muli na ginagamit ang mas maikling salita o phrase."
   empty_query: "Pakitala sa kwadrado sa itaas ang terminong hinahanap."
 
 # Labels for inline best bets, news, and related searches modules
