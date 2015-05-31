@@ -27,7 +27,7 @@ he:
   custom_range: 'טווח מותאם אישית'
   from: 'מאת'
   to: 'אל'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'לפני'
   clear: 'נקה'
 
@@ -60,6 +60,7 @@ he:
     menu: תפריט
     browse_site: חפש באתר
     related_sites: ראה כותרת
+    results_count: '%{count}'
     search_results: תוצאות החיפוש
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
