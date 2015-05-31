@@ -10,7 +10,7 @@ sd:
 # Labels for the navigation bar
   everything: "سائيٽ جا نتيجا"
   images: "تصويرون"
-  Videos: "Videos"
+  videos: "Videos"
   show_more: 'ٻيو ڪجهه'
 
 # Labels to change the sort order by date or relevance
@@ -27,7 +27,7 @@ sd:
   custom_range: 'حد مقرر ڪيو'
   from: 'کان'
   to: 'تائين'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'اڳ وارو'
   clear: 'مٽايو'
 
@@ -60,6 +60,7 @@ sd:
     menu: مينو
     browse_site: سائيٽ کوليو
     related_sites: عنوان ڏسو
+    results_count: '%{count}'
     search_results: تلاش ڪيل نتيجا
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
