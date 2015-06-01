@@ -60,6 +60,7 @@ sw:
     menu: Menyu
     browse_site: Rambaza mtandao
     related_sites: Angalia mada
+    results_count: '%{count}'
     search_results: Matokeo ya utafutaji
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
