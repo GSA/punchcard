@@ -60,6 +60,7 @@ fr:
     menu: Menu
     browse_site: Explorer le site
     related_sites: Voir le sujet
+    results_count: '%{count}'
     search_results: Résultats de la recherche
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
