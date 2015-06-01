@@ -61,6 +61,7 @@ th:
     menu: เมนู
     browse_site: ดูเว็บไซต์
     related_sites: อ่านหัวข้อ
+    results_count: '%{count}'
     search_results: ผลการค้นหา
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
