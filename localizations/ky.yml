@@ -60,6 +60,7 @@ ky:
     menu: Меню 
     browse_site: Сайттан издөө
     related_sites: Теманы караңыз
+    results_count: '%{count}'
     search_results: Издөө жыйынтыктары
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
