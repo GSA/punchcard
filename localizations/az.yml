@@ -60,6 +60,7 @@ az:
     menu: Menyu
     browse_site: Sayta baxmaq
     related_sites: Mövzunu oxumaq
+    results_count: '%{count}'
     search_results: Axtarış nəticələri
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
