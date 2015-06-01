@@ -60,6 +60,7 @@ mk:
     menu: Мени
     browse_site: пребарувај ја веб-страницата
     related_sites: погледнете ја темата
+    results_count: '%{count}'
     search_results: барај резултати
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
