@@ -60,6 +60,7 @@ lt:
     menu: Meniu
     browse_site: Naršyti svetainę
     related_sites: Peržiūrėti temą
+    results_count: '%{count}'
     search_results: Užklausos rezultatai
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
