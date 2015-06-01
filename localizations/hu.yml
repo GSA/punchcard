@@ -60,6 +60,7 @@ hu:
     menu: Menü
     browse_site: Böngészés az oldalon
     related_sites: Téma megtekintése
+    results_count: '%{count}'
     search_results: Találatok
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
