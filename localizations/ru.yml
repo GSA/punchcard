@@ -60,6 +60,7 @@ ru:
     menu: Меню
     browse_site: Просмотр сайта
     related_sites: Просмотр темы
+    results_count: '%{count}'
     search_results: Результаты поиска
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
