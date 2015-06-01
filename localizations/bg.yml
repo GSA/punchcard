@@ -61,6 +61,7 @@ bg:
     menu: Меню
     browse_site: Прегледайте сайта
     related_sites: Вижте темата
+    results_count: '%{count}'
     search_results: Резултати от търсенето
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
