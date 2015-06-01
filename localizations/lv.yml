@@ -61,6 +61,7 @@ lv:
     menu: lzvēlne
     browse_site: Pārlūkot vietni
     related_sites: Aplūkot tēmu
+    results_count: '%{count}'
     search_results: Meklēšanas rezultāti
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
