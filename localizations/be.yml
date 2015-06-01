@@ -27,7 +27,7 @@ be:
   custom_range: 'Параметры пошуку'
   from: 'Ад'
   to: 'Да'
-  cdr_format: '%M/%D/%Y'
+  cdr_format: '%m/%d/%Y'
   before: 'Перад'
   clear: 'Ачысціць'
 
