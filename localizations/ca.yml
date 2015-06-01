@@ -1,4 +1,4 @@
-be:
+ca:
 
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Вынікі пошуку'
