@@ -61,6 +61,7 @@ sq:
     menu: Menuja
     browse_site: Kontrolloni faqen
     related_sites: Shikoni temën
+    results_count: '%{count}'
     search_results: Rezulatatet e Kërkimit
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
