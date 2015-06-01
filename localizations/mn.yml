@@ -60,6 +60,7 @@ mn:
     menu: Цэс
     browse_site: Сайтаас хайх
     related_sites: Сэдэв харах
+    results_count: '%{count}'
     search_results: Хайлтын илрэлүүд
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:

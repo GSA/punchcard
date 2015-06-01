@@ -61,6 +61,7 @@ bs:
     menu: Meni
     browse_site: Pretražite web stranicu
     related_sites: Pregledajte temu
+    results_count: '%{count}'
     search_results: Rezultati pretraživanja
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:

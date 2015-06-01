@@ -60,6 +60,7 @@ da:
     menu: Menu
     browse_site: gennemse website
     related_sites: Vis emne
+    results_count: '%{count}'
     search_results: Søgeresultater
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:

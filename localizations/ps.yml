@@ -59,6 +59,7 @@ ps:
     menu: غورنۍ
     browse_site: د سایت لټول
     related_sites: د سرليک لیدل
+    results_count: '%{count}'
     search_results: د پلټنې پايلې
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:

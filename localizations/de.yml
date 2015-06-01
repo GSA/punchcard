@@ -59,6 +59,7 @@ de:
     menu: Menü
     browse_site: Website durchsuchen
     related_sites: mehr zum diesem Thema
+    results_count: '%{count}'
     search_results: Suchergebnisse
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
