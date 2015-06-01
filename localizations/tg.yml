@@ -61,6 +61,7 @@ tg:
     menu: Меню
     browse_site: Аз назаргузаронии сомона
     related_sites: Аз назаргузаронии мавзӯъ
+    results_count: '%{count}'
     search_results: Натоиҷи ҷустуҷӯ
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
