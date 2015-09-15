@@ -1,5 +1,7 @@
 ps:
 
+# DigitalGov Search localizations for: Pashto (ps)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} د پلټنې پايلې'
 
@@ -63,6 +65,7 @@ ps:
     search_results: د پلټنې پايلې
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} د نورو پايلو کتل"
       see_more_image_results: "پورتنۍ پايلې د ټولنيزو رسنيو او زمونږ د انځورغالي څخه دي  %{link} زمونږ د وېبپاڼې څخه د پايلو د کتنې لپاره. (زمونږ د وېبپاڼې څخه د پايلو د کتنې لپاره)"
       search_again: خپله پلټنه يو ځل بيا وازمويی
