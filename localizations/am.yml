@@ -1,5 +1,7 @@
 am:
 
+# DigitalGov Search localizations for: Amharic (am)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} የፍለጋ ውጤቶች'
 
