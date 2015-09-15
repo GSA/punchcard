@@ -1,5 +1,7 @@
 be:
 
+# DigitalGov Search localizations for: Belarusian (be)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Вынікі пошуку'
 
@@ -64,6 +66,7 @@ be:
     search_results: Вынікі пошуку
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} Глядзець вынікі з нашага сайта"
       see_more_image_results: "Паказваюцца вынікі з нашых старонак у сацыяльных сетках і галерэй %{link} Глядзець больш вынікаў (Выможаце бачыць некаторыя раней прагледжаныя вынікі)"
       search_again: Паўтарыце запыт
