@@ -1,5 +1,7 @@
 kl:
 
+# DigitalGov Search localizations for: Kalaallisut (kl)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Ujarlernerup inerneri'
 
@@ -65,6 +67,7 @@ kl:
     search_results: Ujakkat inerneri
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} Amerlanerit takuniarlugit"
       see_more_image_results: "Qulaani nanisat inuit attaveqaqatigiiffiannit pisuupput %{link} Uagut quppernitsinnit nanisat takujumallugit (Inernerit takoriikkatit takkuteqqissinnaapput)"
       search_again: Ujarlernerit misileqqiuk
