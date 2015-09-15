@@ -1,5 +1,7 @@
 ru: 
 
+# DigitalGov Search localizations for: Russian (ru)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Результаты поиска'
 
@@ -64,6 +66,7 @@ ru:
     search_results: Результаты поиска
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} чтобы увидеть больше результатов"
       see_more_image_results: "Приведенные выше результаты – из наших аккаунтов в социальных медиа и галерей. чтобы увидеть результаты с нашего веб-сайта (Вы можете увидеть некоторые результаты, которые вы уже видели.)"
       search_again: Попробуйте поискать снова
