@@ -1,5 +1,7 @@
 mn:
 
+# DigitalGov Search localizations for: Mongolian (mn)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Хайлтын илрэлүүд'
 
@@ -64,6 +66,7 @@ mn:
     search_results: Хайлтын илрэлүүд
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} нэмэлт илрэлүүдийг харах"
       see_more_image_results: "Сошиал медиа сайтууд болон зургийн альбомуудаас олдсон илрэлүүд. %{link} вэбсайт дээрх илрэлүүдийг харахыг хүсвэл. (вэбсайт дээрх илрэлүүдийг харахыг хүсвэл)"
       search_again: Дахин хайлт хийх
