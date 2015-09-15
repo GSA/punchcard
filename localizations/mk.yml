@@ -1,5 +1,7 @@
 mk:
 
+# DigitalGov Search localizations for: Macedonian (mk)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} резултати од пребарувањето '
 
@@ -64,6 +66,7 @@ mk:
     search_results: барај резултати
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} за да видите повеќе резултати"
       see_more_image_results: "Горенаведените резултати се од нашите профили и галерии на социјалните мрежи.   %{link} Може да добиете неколку резултати што веќе сте ги виделе.  (Може да добиете неколку резултати што веќе сте ги виделе.)"
       search_again: повторете го вашето пребарување
