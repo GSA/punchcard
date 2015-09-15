@@ -1,5 +1,7 @@
 pa:
 
+# DigitalGov Search localizations for: Punjabi (pa)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} ਖੋਜ ਦੇ ਨਤੀਜੇ'
 
@@ -64,6 +66,7 @@ pa:
     search_results: ਖੋਜ ਦੇ ਨਤੀਜੇ
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} ਹੋਰ ਨਤੀਜੇ ਵੇਖਣ ਲਈ"
       see_more_image_results: "ਉੱਤੇ ਦਿੱਤੇ ਨਤੀਜੇ ਸਾਡੇ ਸੋਸ਼ਲ ਮੀਡਿਆ ਖਾਤਿਆਂ ਅਤੇ ਗੈਲਰੀਆਂ ਤੋਂ ਆਏ ਹਨ %{link} ਸਾਡੀ ਵੈਬਸਾਈਟ ਤੋਂ ਨਤੀਜੇ ਵੇਖਣ ਲਈ. (ਤੁਸੀਂ ਅਜਿਹੇ ਕੁਝ ਨਤੀਜੇ ਵੇਖ ਸਕਦੇ ਹੋ ਜੋ ਤੁਸੀਂ ਪਹਿਲਾਂ ਵੀ ਦੇਖ ਚੁਕੇ ਹੋਵੋ।)"
       search_again: Կրկնել որոնումը
