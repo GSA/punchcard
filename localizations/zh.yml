@@ -1,5 +1,7 @@
 zh:
 
+# DigitalGov Search localizations for: Chinese (zh)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} 搜索结果'
 
@@ -64,6 +66,7 @@ zh:
     search_results: 搜索结果
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} 查看更多的搜索结果"
       see_more_image_results: "以上结果来自我们的社会媒体账户及图片库。  %{link} 查看我们网站上的搜索结果 (您看到的一些搜索结果可能已经出现过。)"
       search_again: 请再次搜索
