@@ -1,5 +1,7 @@
 th:
 
+# DigitalGov Search localizations for: Thai (th)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} ผลการค้นหา'
 
@@ -65,6 +67,7 @@ th:
     search_results: ผลการค้นหา
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} ดูผลการค้นหาเพิ่มเติม. (ดูผลการค้นหาจากเว็บไซต์ของเรา)"
       see_more_image_results: "ผลการค้นหาข้างต้นมาจากโซเซียลมีเดียและแกลเลอรีของเรา. ดูผลการค้นหาจากเว็บไซต์ของเรา (คุณอาจเห็นผลการค้นหาที่เคยปรากฏแล้ว)"
       search_again: ลองค้นหาอีกครั้ง
