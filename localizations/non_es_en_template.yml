@@ -65,6 +65,7 @@
     search_results: Որոնման արդյունքներ
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} Ավելին. (Հնարավոր է ընդգրկվեն նախկինում հանդիպած որոնման արդյունքներ.)"
       see_more_image_results: "Որոնման արդյունքները վերցված են մեր սոցիալական ցանցերից և պատկերասրահներից. %{link} Որոնման արդյունքներ մեր էջից. (Հնարավոր է ընդգրկվեն նախկինում հանդիպած որոնման արդյունքներ.)"
       search_again: Կրկնել որոնումը
