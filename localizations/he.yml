@@ -1,5 +1,7 @@
 he:
 
+# DigitalGov Search localizations for: Hebrew (he)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} תוצאות החיפוש'
 
@@ -64,6 +66,7 @@ he:
     search_results: תוצאות החיפוש
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} לעוד תוצאות"
       see_more_image_results: "התוצאות מעל הן מהרשתות החרבתיות והגלריות שלנו. %{link} לתוצאות מהאתר שלנו (יתכן ותראה תוצאות שכבר ראית לפני)"
       search_again: נסה לחפש שוב
