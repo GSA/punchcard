@@ -1,5 +1,7 @@
 cs:
 
+# DigitalGov Search localizations for: Czech (cs)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Výsledky hledání'
 
@@ -65,6 +67,7 @@ cs:
     search_results: Výsledky hledání
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} Pro další výsledky"
       see_more_image_results: "Nahoře uvedené výsledky jsou z našich sociální médií a galerií. %{link} Zobrazit výsledky z našich stránek (Zobrazit se mohou výsledky, které jsme již viděli.)"
       search_again: Pokušajte ponovo pretražiti
