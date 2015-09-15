@@ -1,5 +1,7 @@
 fa2:
 
+# DigitalGov Search localizations for: Persian (fa)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} نتایج جستجو'
 
@@ -64,6 +66,7 @@ fa2:
     search_results: نتایج جستجو
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} برای دیدن نتایج بیشتر"
       see_more_image_results: "نتایج فوق از حساب های رسانه های اجتماعی و گالری های ما به دست آمده  %{link} برای دیدن نتایج از ویب سایت ما (ممکن شما بعضی نتایج را مشاهده کنید که قبلاً دیده بودید)"
       search_again: جستجوی خود را بار دیگر امتحان کنید
