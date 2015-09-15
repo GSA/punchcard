@@ -1,5 +1,7 @@
 bg:
 
+# DigitalGov Search localizations for: Bulgarian (bg)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Резултати от търсенето'
 
@@ -65,6 +67,7 @@ bg:
     search_results: Резултати от търсенето
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} За да видите още резултатаи"
       see_more_image_results: "Горните резултати са от социалните ни мрежи и галерии %{link} За да видите резултати от нашия уеб сайт (Може би виждате резултати, които вече сте видяли)"
       search_again: Опитайте с търсенето отново
