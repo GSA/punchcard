@@ -1,4 +1,7 @@
 !!str no:
+
+# DigitalGov Search localizations for: Norwegian (no)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Søketreff'
 
@@ -63,6 +66,7 @@
     search_results: "Søketreff"
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} for å se flere treff"
       see_more_image_results: "Resultatene over er fra våre sosiale medier-kontoer og gallerier. %{link} for å se treff fra vår nettside. (for å se treff fra vår nettside)"
       search_again: "Prøv ditt søk på nytt"
