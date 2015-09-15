@@ -1,5 +1,7 @@
 so:
 
+# DigitalGov Search localizations for: Somalian (so)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Raadi Natiijooyinka'
 
@@ -64,6 +66,7 @@ so:
     search_results: Raadi Natiijooyinka
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} Inaad aragtid natiijooyin badan"
       see_more_image_results: "Natiijooyinka kore waxay ka yimideen baraha isgaarsiinteena %{link} Inaad aragtid natiijooyin rugteena. (Inaad aragtid natiijooyin rugteena)"
       search_again: Isku day raadinta mar kale
