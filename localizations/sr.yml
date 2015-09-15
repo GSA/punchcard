@@ -1,5 +1,7 @@
 sr:
 
+# DigitalGov Search localizations for: Serbian (sr)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Rezultati pretrage'
 
@@ -64,6 +66,7 @@ sr:
     search_results: Rezultati pretragea
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} da biste videli više rezultata (Moguće ponavljanje rezultata koje sve već videli.)"
       see_more_image_results: "Gore prikazani rezultati su sa naloga naših društvenih mreža i galerija. %{link} kako biste videli rezultate sa našeg sajta (Moguće ponavljanje rezultata koje sve već videli.)"
       search_again: Pokušajte ponovo pretragu
