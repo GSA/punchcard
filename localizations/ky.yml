@@ -1,5 +1,7 @@
 ky:
 
+# DigitalGov Search localizations for: Kyrgyz (ky)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Издөө жыйынтыктары'
 
@@ -64,6 +66,7 @@ ky:
     search_results: Издөө жыйынтыктары
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} кошумча жыйынтыктарды көрүү үчүн"
       see_more_image_results: "Жогорудагы жыйынтыктар бизин социалдык тармактардан же галереяларыбыздан %{link} сайтыбыздан кошумча жыйынтыктарды көрүү үчүн (Сиз мурун көргөн жыйынтыктарды көрүшүңүз мүмкүн.)"
       search_again: Издөөңүздү кайталап көрүңүз
