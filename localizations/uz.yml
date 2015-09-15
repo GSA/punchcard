@@ -1,5 +1,7 @@
 uz:
 
+# DigitalGov Search localizations for: Uzbek (uz)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Қидирув натижалари'
 
@@ -65,6 +67,7 @@ uz:
     search_results: Қидирув натижалари
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} Кўпроқ натижаларни кўриш"
       see_more_image_results: "Аввал кўрган айрим натижаларни кўришингиз мумкин %{link} Юқоридаги натижалар бизнинг ижтимоий тармоқ ва галереяларимиздан. (Веб саҳифамиздан топилган натижаларни кўриш)"
       search_again: Бошқатдан қидириб кўринг
