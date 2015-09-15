@@ -1,5 +1,7 @@
 hi:
 
+# DigitalGov Search localizations for: Hindi (hi)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} खोज परिणाम'
 
@@ -65,6 +67,7 @@ hi:
     search_results: खोज परिणाम
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} और परिणाम देखने के लिए"
       see_more_image_results: "उपरोक्त परिणाम हमारे सोशल मीडिया अकाउंट्स और गैलरीज से हैं।. %{link} हमारी वेबसाइट के परिणाम देखने के लिए (आपको पहले देखे हुए कुछ परिणाम दिखाई दे सकते हैं।.)"
       search_again: पुनः खोजने का प्रयास करें
