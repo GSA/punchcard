@@ -1,5 +1,7 @@
 vi: 
 
+# DigitalGov Search localizations for: Vietnamese (vi)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Kết quả tìm kiếm'
 
@@ -65,6 +67,7 @@ vi:
     search_results: Kết quả tìm kiếm
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} xem thêm kết quả"
       see_more_image_results: "Bạn có thể thấy một số kết quả mà bạn đã thấy. %{link}"
       search_again: Hãy thử tìm kiếm một lần nữa
