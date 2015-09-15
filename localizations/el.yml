@@ -1,5 +1,7 @@
 el:
 
+# DigitalGov Search localizations for: Greek (el)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Αποτελέσματα Αναζήτησης'
 
@@ -65,6 +67,7 @@ el:
     search_results: Αποτελέσματα αναζήτησης
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} για περισσότερα αποτελέσματα"
       see_more_image_results: "Τα παραπάνω είναι αποτελέσματα από δικούς μας λογαριασμούς κοινωνικής δικτύωσης και φωτογραφικά άλμπουμ. %{link} Για να δείτε αποτελέσματα από τον ιστότοπό μας (Πιθανόν να ευρέθησαν αποτελέσματα που έχετε ξαναδεί.)"
       search_again: Δοκιμάστε ξανά
