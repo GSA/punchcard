@@ -1,5 +1,7 @@
 nl:
 
+# DigitalGov Search localizations for: Dutch (nl)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Zoekresultaten'
 
@@ -65,6 +67,7 @@ nl:
     search_results: Zoekresultaten
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} om meer resultaten te zien"
       see_more_image_results: "De bovenstaande resultaten zijn van onze social media accounts en galerijen. %{link} om de resultaten van onze website te zien (Het is mogelijk dat u resultaten krijgt die u al gezien heeft.)"
       search_again: Probeer uw zoekopdracht opnieuw
