@@ -1,5 +1,7 @@
 uk:
 
+# DigitalGov Search localizations for: Ukrainian (uk)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Результати пошуку'
 
@@ -64,6 +66,7 @@ uk:
     search_results: Пошук результатів
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} щоб подивитися більше результатів"
       see_more_image_results: "Вищезазначені результати отримані з наших соціальний медіа та галерей %{link} щоб подивитися результати з нашого вебсайту (Ви можете побачити результати, які вже бачили раніше)"
       search_again: Спробуйте пошук знову
