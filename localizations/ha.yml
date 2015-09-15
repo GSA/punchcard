@@ -1,5 +1,7 @@
 ha:
 
+# DigitalGov Search localizations for: Hausa (ha)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Binciken Sakamako'
 
@@ -64,6 +66,7 @@ ha:
     search_results: A bincika sakamako
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} a duba karin sakamako"
       see_more_image_results: "Wannan sakamakon ya fito ne daga shafin yanar-gizonmu mai bayanai da hotuna. %{link} don ganin sakamako daga shafin yanar-gizonmu (Ana iya ganin karin sakamakon da ka samu.)"
       search_again: Kokarta bincikawa
