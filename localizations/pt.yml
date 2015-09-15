@@ -1,5 +1,7 @@
 pt: 
 
+# DigitalGov Search localizations for: Portuguese (pt)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Resultados da pesquisa'
 
@@ -64,6 +66,7 @@ pt:
     search_results: Realizar pesquisa de resultados
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} para ver mais resultados"
       see_more_image_results: "Os resultados acima são de nossas contas e galerias de mídias sociais. para ver os resultados de nosso site (Você pode encontrar alguns resultados que já viu antes)"
       search_again: Tente fazer uma pesquisa novamente
