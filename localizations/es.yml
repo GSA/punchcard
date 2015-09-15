@@ -1,5 +1,7 @@
 es:
 
+# DigitalGov Search localizations for: Spanish (es)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} resultados de la búsqueda'
 
@@ -69,6 +71,7 @@ es:
     search_results: Buscar resultados
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} para ver más resultados (es posible que encuentre resultados que ya ha visto)."
       see_more_image_results: "Estos resultados son de nuestras cuentas en las redes sociales y galerías de imágenes. %{link} para ver resultados de nuestro sitio web (es posible que encuentre resultados que ya ha visto)."
       search_again: Intente su búsqueda otra vez
