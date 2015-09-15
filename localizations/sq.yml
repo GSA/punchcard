@@ -1,5 +1,7 @@
 sq:
 
+# DigitalGov Search localizations for: Albanian (sq)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Rezultatet e Kërkimit'
 
@@ -65,6 +67,7 @@ sq:
     search_results: Rezulatatet e Kërkimit
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} Për të parë më shumë rezultate"
       see_more_image_results: "Rezultatet më sipër janë nga faqet tona në mediat sociale  %{link} për të parë rezultate nga faqja jonë (Ju mund të shikoni disa rezultate që ju i keni parë edhe më parë)"
       search_again: Provojeni kërkimin tuaj përsëri
