@@ -1,5 +1,7 @@
 ms:
 
+# DigitalGov Search localizations for: Malay (ms)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Keputusan Carian'
 
@@ -65,6 +67,7 @@ ms:
     search_results: Cari keputusan
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} untuk melihat lebih banyak keputusan"
       see_more_image_results: "Keputusan di atas adalah dari akaun dan galeri media sosial kami. %{link} untuk melihat keputusan dari laman web kami (Anda mungkin melihat sesetengah keputusan yang anda sudah lihat.)"
       search_again: Cuba carian anda sekali lagi
