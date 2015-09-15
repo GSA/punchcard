@@ -1,5 +1,7 @@
 ko:
 
+# DigitalGov Search localizations for: Korean (ko)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} 검색결과'
 
@@ -64,6 +66,7 @@ ko:
     search_results: 검색결과
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} 더 많은 결과보기"
       see_more_image_results: "상단의  검색결과는 저희 소셜 미디어 계정과 갤러리로부터 나왔습니다 %{link} 저희 웹사이트에서 검색결과 보기 (이미 본 결과를 다시 보실 수도 있습니다.)"
       search_again: 검색을 다시 시도해 보십시오
