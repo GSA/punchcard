@@ -1,5 +1,7 @@
 fr:
 
+# DigitalGov Search localizations for: French (fr)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Résultats de la recherche'
 
@@ -64,6 +66,7 @@ fr:
     search_results: Résultats de la recherche
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} Voir plus de résultats"
       see_more_image_results: "Les résultats ci-dessus proviennent de nos comptes et galeries sur les réseaux sociaux  %{link} Pour voir des résultats de notre site (Vous allez peut-être voir des résultats déjà obtenus)"
       search_again: Recommencer la recherche
