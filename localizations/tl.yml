@@ -1,5 +1,7 @@
 tl:
 
+# DigitalGov Search localizations for: Tagalog (tl)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Mga Resulta sa Paghahanap'
 
@@ -64,6 +66,7 @@ tl:
     search_results: Mga resulta sa Paghahanap
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} para tingnan ang mga iba pang resulta. (Maaaring makakita ka ng mga ilang resulta na nakita mo na.)"
       see_more_image_results: "Ang mga resulta sa itaas ay mula sa aming social media accounts at mga gallery. %{link} para makita ang mga resulta mula sa aming website. (Maaaring makakita ka ng mga ilang resulta na nakita mo na.)"
       search_again: Subukang muli ang paghahanap
