@@ -1,5 +1,7 @@
 tg:
 
+# DigitalGov Search localizations for: Tajik (tg)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Натиҷаи ҷустуҷӯ'
 
@@ -65,6 +67,7 @@ tg:
     search_results: Натоиҷи ҷустуҷӯ
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} Барои дидани натиҷаи бештар (Мумкин натиҷаи қаблиро бинед)"
       see_more_image_results: "Натоиҷи зикршуда аз ҳисоби медиаи иҷтимоӣ ё галлереяи мо ҳаст. Барои дидани натиҷа аз сомонаи мо (Мумкин натиҷаи қаблиро бинед)"
       search_again: Дархости ҷустуҷӯро такрор намоед
