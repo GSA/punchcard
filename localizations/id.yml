@@ -1,5 +1,7 @@
 id:
 
+# DigitalGov Search localizations for: Indonesian (id)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Hasil Pencarian'
 
@@ -65,6 +67,7 @@ id:
     search_results: Hasil pencarian
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} untuk melihat lebih banyak hasil"
       see_more_image_results: "Hasil di atas adalah dari akun media sosial dan galeri kami. %{link} untuk melihat hasil dari situs kami (Dapat melihat beberapa hasil yang sudah dilihat sebelumnya.)"
       search_again: Ulangi pencarian
