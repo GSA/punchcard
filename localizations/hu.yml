@@ -1,5 +1,7 @@
 hu:
 
+# DigitalGov Search localizations for: Hungarian (hu)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Találatok'
 
@@ -64,6 +66,7 @@ hu:
     search_results: Találatok
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} További találatok"
       see_more_image_results: "Találatok közösségi oladalainkról és fotóalbumainkból. %{link} Találatok honlapunkról (Korábban már látott találatok is megjelenhetnek.)"
       search_again: Keressen újra!
