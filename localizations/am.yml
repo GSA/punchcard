@@ -64,6 +64,7 @@ am:
     search_results: የፍለጋ ውጤቶች 
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} ተጨማሪውጤቶችን ለማየት"
       see_more_image_results: "የላይኛዎቹ ውጤቶች ከማህበራዊ ሚዲያ መዛግብት የወጡ ናቸው%{link} ከድረ ገጻችን ውጤቶችን ለማሳየት. "
       search_again: ፍለጋዎን እንደገና ይሞክሩ 
