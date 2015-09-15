@@ -1,5 +1,7 @@
 sd:
 
+# DigitalGov Search localizations for: Sindhi (sd)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} تلاش جو /جا نتيجا'
 
@@ -64,6 +66,7 @@ sd:
     search_results: تلاش ڪيل نتيجا
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} وڌيڪ نتيجن لاءِ ڏسو"
       see_more_image_results: "مٿيان نتيجا اسانجي سماجي ميڊيا جي اڪائونٽن ۽ گئلري مان ورتل آهن %{link} اسان جي سائيٽ تان نتيجا ڏسڻ لاءِ. (توهان ڪجهه نتيجا پنهنجي اڳ ۾ ڏٺلن مان ڏسي سگهو ٿا )"
       search_again: وري پنهنجي تلاش ڪريو
