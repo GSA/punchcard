@@ -64,6 +64,7 @@ ar:
     search_results: نتائج البحث
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} للحصول على مزيد من النتائج"
       see_more_image_results: "النتائج المذكورة أعلاه هي من حساباتنا ومعارضنا على وسائل الإعلام الاجتماعية. %{link} لمشاهدة نتائج من موقعنا (قد تشاهد بعض النتائج التي كنت قد شاهدتها بالفعل.)"
       search_again: حاول إجراء بحثك مرة أخرى
