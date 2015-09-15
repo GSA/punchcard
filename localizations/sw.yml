@@ -1,5 +1,7 @@
 sw:
 
+# DigitalGov Search localizations for: Swahili (sw)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Matokeo'
 
@@ -64,6 +66,7 @@ sw:
     search_results: Matokeo ya utafutaji
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} kwa kuona matokeo zaidi (Utaona baadhi ya matokeo ulioyaona hapo awali)"
       see_more_image_results: "Matokeo hayo juu yanatoka katika mitandao ya kijamii %{link} kwa kuona matokeo kutoka katika tovuti yetu (Utaona baadhi ya matokeo ulioyaona hapo awali)"
       search_again: Jaribu kutafuta tena
