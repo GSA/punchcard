@@ -1,5 +1,7 @@
 bs:
 
+# DigitalGov Search localizations for: Bosnian (bs)
+
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Rezultati pretraživanja'
 
@@ -65,6 +67,7 @@ bs:
     search_results: Rezultati pretraživanja
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} da vidite još rezultata"
       see_more_image_results: "Gore navedni rezultati su sa računa društvenih mreža i galerija %{link} da vidite rezultate sa naše web stranice (Možda ćete vidjeti neke rezultate koje ste već ranije vidjeli)"
       search_again: Pokušajte ponovo pretražiti
