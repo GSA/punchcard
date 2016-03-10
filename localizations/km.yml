@@ -20,6 +20,7 @@ km:
   by_relevance: 'ត្រូវគ្នាបំផុត'
 
 # Labels to narrow results by a preset timeframe or a custom date range, or clear filters ('Before' is the label for custom date range with only a 'To' date set.)
+  refine_your_search:
   all_time: "すគ្រប់ពេល"
   last_hour: "ម៉ោងមុននេះ"
   last_day: "ថ្ងៃមុន​នេះ"

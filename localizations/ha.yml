@@ -20,6 +20,7 @@ ha:
   by_relevance: 'Mafi kama'
 
 # Labels to narrow results by a preset timeframe or a custom date range, or clear filters ('Before' is the label for custom date range with only a 'To' date set.)
+  refine_your_search:
   all_time: "Kowane lokaci"
   last_hour: "Awar da ta wuce"
   last_day: "Ranar karshe"

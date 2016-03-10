@@ -20,6 +20,7 @@ es:
   by_relevance: 'Más relevantes'
 
 # Labels to narrow results by a preset timeframe or a custom date range, or clear filters ('Before' is the label for custom date range with only a 'To' date set.)
+  refine_your_search:
   all_time: "Cualquier fecha"
   last_hour: "Última hora"
   last_day: "Último día"

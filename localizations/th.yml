@@ -20,6 +20,7 @@ th:
   by_relevance: 'ผลการค้นหาที่ดีที่สุด'
 
 # Labels to narrow results by a preset timeframe or a custom date range, or clear filters ('Before' is the label for custom date range with only a 'To' date set.)
+  refine_your_search:
   all_time: "เวลาใดก็ได้"
   last_hour: "ชั่วโมงที่ผ่านมา"
   last_day: "วันที่ผ่านมา"

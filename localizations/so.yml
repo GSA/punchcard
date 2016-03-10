@@ -20,6 +20,7 @@ so:
   by_relevance: 'Tan ugu dhaw'
 
 # Labels to narrow results by a preset timeframe or a custom date range, or clear filters ('Before' is the label for custom date range with only a 'To' date set.)
+  refine_your_search:
   all_time: "Mar Walba"
   last_hour: "Saacadii hore"
   last_day: "Maalintii hore"

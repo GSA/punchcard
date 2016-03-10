@@ -20,6 +20,7 @@ ko:
   by_relevance: '정확도 높은 검색결과'
 
 # Labels to narrow results by a preset timeframe or a custom date range, or clear filters ('Before' is the label for custom date range with only a 'To' date set.)
+  refine_your_search:
   all_time: "모든 시간"
   last_hour: "한 시간 이내"
   last_day: "하루 이내"

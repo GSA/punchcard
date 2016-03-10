@@ -20,6 +20,7 @@ lt:
   by_relevance: 'Tiksliausias atitikmuo'
 
 # Labels to narrow results by a preset timeframe or a custom date range, or clear filters ('Before' is the label for custom date range with only a 'To' date set.)
+  refine_your_search:
   all_time: "Bet kada"
   last_hour: "Per pastarąją valandą"
   last_day: "Per pastarąją dieną"
