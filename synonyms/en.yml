@@ -607,6 +607,10 @@ co, colo, colorado:
   :notes: 
   :status: Candidate
   :analyzed: colorado, colo, co
+code, coding:
+  :notes: Approved (stemming) DPM 03/15/16. 
+  :status: Approved
+  :analyzed: code, coding
 comm, communication:
   :notes: Approved (clipped words). Opted not to include com as its used for .com
     TLDs. AFF 10/9/14
