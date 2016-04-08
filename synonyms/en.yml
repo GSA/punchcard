@@ -595,10 +595,18 @@ chlamydia, chlamydial, chlamidia, clamidia, clamydia:
   :notes: Approved (stemming) AFF 10/30/14. Added and approved (misspellings) and (language variants). AFF 3/4/15
   :status: Approved
   :analyzed: chlamydia, chlamydial, chlamidia, clamidia, clamydia 
-chronolgy, chronology:
-  :notes: Approved (misspellings). AFF 3/5/15
+chronic, chronically:
+  :notes: Approved (stemming). DPM 3/23/16.
   :status: Approved
-  :analyzed: chronolgy, chronology
+  :analyzed: chronic, chronically
+chronolgy, chronology, chron, chronological, chronologically:
+  :notes: Approved (misspellings and stemming). AFF 3/5/15. updated DPM 3/23/16.
+  :status: Approved
+  :analyzed: chronolgy, chronology, chron, chronological, chronologically
+crohn, chrone, chrons:
+  :notes: Approved (misspellings). DPM 3/23/16. chrons is protected from stemming.
+  :status: Approved
+  :analyzed: chrons
 clothes, clothing:
   :notes: Approved (gerunds). AFF 2/10/14
   :status: Approved

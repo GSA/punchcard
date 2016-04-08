@@ -34,13 +34,13 @@ glasses:
   :status: Candidate
 goods:
   :notes: good (healthy, well, right) vs. goods (merchandise)
-  :status: Candidate
+  :status: Approved
 guts:
   :notes: gut (intestine) vs. guts (courage)
   :status: Candidate
 humanities:
   :notes: humanity (mankind) vs. humanities (liberal arts education)
-  :status: Candidate
+  :status: Approved
 ihs:
   :notes: Protecting IHS (federal agency) from being stemmed to ih in minimal_english
   :status: Approved
