@@ -38,7 +38,13 @@ her:
 hers:
   :notes: 
   :status: Approved
+herself:
+  :notes: 
+  :status: Approved
 him:
+  :notes: 
+  :status: Approved
+himself:
   :notes: 
   :status: Approved
 his:
@@ -65,13 +71,16 @@ it:
 its:
   :notes: 
   :status: Approved
+itself:
+  :notes: 
+  :status: Approved
 me:
   :notes: 
   :status: Approved
-mine:
-  :notes: 
-  :status: Approved
 my:
+  :notes: 
+  :status: Approved 
+myself:
   :notes: 
   :status: Approved 
 'no':
@@ -93,6 +102,9 @@ our:
   :notes: 
   :status: Approved
 ours:
+  :notes: 
+  :status: Approved
+ourselves:
   :notes: 
   :status: Approved
 s:
@@ -122,6 +134,9 @@ theirs:
 them:
   :notes: 
   :status: Approved
+themselves:
+  :notes: 
+  :status: Approved
 then:
   :notes: 
   :status: Approved
@@ -140,9 +155,6 @@ this:
 to:
   :notes: 
   :status: Approved
-us:
-  :notes: 
-  :status: Approved
 was:
   :notes: 
   :status: Approved
@@ -159,5 +171,8 @@ your:
   :notes: 
   :status: Approved
 yours:
+  :notes: 
+  :status: Approved
+yourselves:
   :notes: 
   :status: Approved
