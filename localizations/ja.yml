@@ -55,11 +55,6 @@ ja:
   prev_label: "前"
   next_label: "次"
 
-# Labels for inline jobs module
-  job_openings: "求人"
-  at_agency: "このページ %{agency}"
-  federal_job_openings: "連邦求人"
-
   searches:
     by: これによる
 # Prompt for searchers to skip to main content (most easily seen by tabbing through results page)
@@ -81,19 +76,11 @@ ja:
       including_results_for_query_from_matching_sites: この検索の結果を含む %{query} ここから %{matching_sites} これのみ.
       do_you_want_to_see_results_for: この検索からの結果を見る %{query_from_all_sites}?
       query_from_all_sites: '%{query} すべてのサイトから'
-# Prompts for searchers to see more jobs from the inline jobs module
-    more_agency_job_openings: より多くの結果 %{agency} 求人
-    more_federal_job_openings: 詳細連邦政府の求人 USAJobs.gov
-    on_usajobs: 'に USAJobs.gov'
 # Label for inline news module and prompt to see more news on news vertical
     more_news_about_query: 'より多くの結果 %{news_label} 検索語について %{query}'
     news_about_query: '%{news_label} 検索語について %{query}'
     news_search_options:
       date_format: 'm/d/yyyy'
-# Labels for inline health topics module
-    med_topic:
-      homepage_url: http://www.nlm.nih.gov/medlineplus/
-      related_topics: 関連トピック
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
   powered_by: '検索システム'
