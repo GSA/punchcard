@@ -10,7 +10,7 @@
 # Labels for the navigation bar
   everything: "ຜົນການຄົ້ນຫາເວັບໄຊ"
   images: "ຮູບພາບ"
-  videos: "FIXME"
+  videos: ""
   show_more: 'ເພີ້ມຕື່ມ'
 
 # Labels to change the sort order by date or relevance
@@ -46,7 +46,7 @@
 # Labels for inline best bets, news, and related searches modules
   recommended: "ແນະນຳ"
   by: "ໂດຍ"
-  default_rss_govbox_label: "FIXME"
+  default_rss_govbox_label: ""
   related_searches: "ການຄົ້ນຫາທີ່ກ່ຽວຂ້ອງ"
 
 # Labels for paging through results
