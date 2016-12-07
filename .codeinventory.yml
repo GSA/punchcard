@@ -1,6 +1,6 @@
 name: Punchcard
 description: 'Language support for DigitalGov Search - localizations, synonyms, stopwords, etc.'
-license: null
+license: 'https://creativecommons.org/publicdomain/zero/1.0'
 openSourceProject: 1
 governmentWideReuseProject: 0
 tags:
