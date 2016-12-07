@@ -1,0 +1,11 @@
+name: Punchcard
+description: 'Language support for DigitalGov Search - localizations, synonyms, stopwords, etc.'
+license: 'https://creativecommons.org/publicdomain/zero/1.0'
+openSourceProject: 1
+governmentWideReuseProject: 0
+tags:
+    - GSA
+    - DigitalGovSearch
+    - language
+contact:
+    email: dawn.mccleskey@gsa.gov
