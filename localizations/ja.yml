@@ -40,7 +40,7 @@ ja:
   did_you_mean: "この検索語を含む %{assumed_term}. この検索語のみを希望 %{term_as_typed}?"
 
 # Prompts for searchers to revise or refine search
-  no_results_for_and_try: "この検索語の結果はなし '%{query}'. より少ない、あるいはより幅広い検索語を記入."
+  no_results_for_and_try: "この検索語の結果はなし. より少ない、あるいはより幅広い検索語を記入."
   too_long: "検索語句をより短くして記入."
   empty_query: "上記の空欄に検索語を記入."
 
@@ -77,7 +77,7 @@ ja:
       do_you_want_to_see_results_for: この検索からの結果を見る %{query_from_all_sites}?
       query_from_all_sites: '%{query} すべてのサイトから'
 # Label for inline news module and prompt to see more news on news vertical
-    more_news_about_query: 'より多くの結果 %{news_label} 検索語について %{query}'
+    more_news_about_query: 'より多くの結果 検索語について'
     news_about_query: '%{news_label} 検索語について %{query}'
     news_search_options:
       date_format: 'm/d/yyyy'
