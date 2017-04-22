@@ -1,134 +1,134 @@
 ﻿non_es_en_template:
 
 # Default page title of search results page
-  default_serp_title: '%{query} - %{site_name} Որոնման արդյունքներ'
+  default_serp_title: '%{query} - %{site_name} Нәтижелерді көрсету'
 
 # Labels for the search box
-  search: "Որոնել"
-  search_label: 'Որոնման բանալի բառ'
+  search: "Іздеу"
+  search_label: 'Сайттан іздеу'
 
 # Labels for the navigation bar
-  everything: "Արդյունքներ ըստ կայքի"
-  images: "Նկարներ"
-  videos: "Տեսանյութեր"
-  show_more: 'Ըստ աշխարհագրական դիրքի'
+  everything: "Нәтижелерді көрсету"
+  images: "Суреттер"
+  videos: "бейнелер"
+  show_more: 'Көбірек білу'
 
 # Labels to change the sort order by date or relevance
-  by_date: 'Վերջին արդյունքներ'
-  by_relevance: 'Լավագույն համապատասխանություն'
+  by_date: 'күні бойынша'
+  by_relevance: 'Үздік нәтижелер'
 
 # Labels to narrow results by a preset timeframe or a custom date range, or clear filters ('Before' is the label for custom date range with only a 'To' date set.)
   refine_your_search:
-  all_time: "Ամբողջ ընթացքում"
-  last_hour: "Վերջին ժամում"
-  last_day: "Վերջին օրը"
-  last_week: "Վերջին շաբաթում"
-  last_month: "Վերջին ամսում"
-  last_year: "Վերջին տարում"
-  custom_range: 'Կամայական ժամանակահատված'
-  from: 'Ումից'
-  to: 'Ում'
+  all_time: "Барлық уақытта"
+  last_hour: "Соңғы 1 сағатта"
+  last_day: "Соңғы күн ішінде"
+  last_week: "Соңғы 7 күнде"
+  last_month: "Соңғы 30 күнде"
+  last_year: "Соңғы 1 жылда"
+  custom_range: 'таңдау ауқымы'
+  from: 'бастап'
+  to: 'қарай'
 # It's safe to modify the order of these (e.g., '%m/%d/%Y'), but do not localize the Latin letters 'd', 'm', or 'Y'. Do not change the case of the letters.
   cdr_format: '%d/%m/%Y'
-  before: 'Մինչև'
-  clear: 'Մաքրել'
+  before: 'дейін'
+  clear: 'тазарту'
 
 # Prompts for spelling, spelling overrides, and did you mean suggestions
-  showing_results_for: Ցուցադրվում է որոնման արդյունքներ %{corrected_query}
-  search_instead_for: Փոխարենը որոնել %{original_query}
-  did_you_mean: "Ներառված են որոնման արդյունքներ %{assumed_term}. Ցուցադրել միայն հետևյալ որոնման արդյունքները %{term_as_typed}?"
+  showing_results_for: … үшін нәтижелерді көрсету %{corrected_query}
+  search_instead_for: орнына іздеу %{original_query}
+  did_you_mean: "айтқыңыз келді ме %{assumed_term}. ғана … үшін нәтижелерді қалайсыз б %{term_as_typed}?"
 
 # Prompts for searchers to revise or refine search
-  no_results_for_and_try: "Ցավոք, որոնման արդյունքներ չկան '%{query}'. Փորձեք ավելացնել կամ պակասեցնել բանալի բառերը."
-  too_long: "Որոնվող արտահայտությունը շատ երկար է: Փորձեք կրկին օգտագործելով ավելի կարճ արտահայտություն:."
-  empty_query: "Մուտքագրեք որոնվող արտահայտությունը վերևի դաշտում."
+  no_results_for_and_try: "Сұранымыңыз бойынша ешнәрсе табылған жоқ '%{query}'. көбірек  немесе."
+  too_long: "Ең соңғы: көбірек немесе."
+  empty_query: "Іздейтін сөзді жоғарғы боксқа жазыңыз."
 
 # Labels for inline best bets, news, and related searches modules
-  recommended: "Խորհուրդ է տրվում"
-  by: "Ում միջոցով"
-  default_rss_govbox_label: 'Նորություններ'
-  related_searches: "Առնչվող որոնումներ"
+  recommended: "Ұсынған"
+  by: "(біреу)-мен"
+  default_rss_govbox_label: 'жаңалықтар'
+  related_searches: "қатысты іздеулер"
 
 # Labels for paging through results
-  page: 'Էջ'
-  prev_label: "Նախորդ"
-  next_label: "Հաջորդ"
+  page: 'бет'
+  prev_label: "алдағы өткен"
+  next_label: "келесі"
   
   searches:
     by: by
 # Prompt for searchers to skip to main content (most easily seen by tabbing through results page)
-    skip_to_main_content: Անցնել հիմնական բովանդակությանը
+    skip_to_main_content: Негізгі контентті көру
 # Labels for navigation bar "sections" (most easily seen on mobile dimension)
-    menu: Մենյու
-    browse_site: Որոնել էջում
-    related_sites: Դիտել թեմանc
-    results_count: '%{count} արդյունքներ'
-    search_results: Որոնման արդյունքներ
+    menu: мәзір
+    browse_site: Сайттан іздеу
+    related_sites: тақырыпты көру
+    results_count: '%{count} нәтижелері'
+    search_results: Іздеу нәтижелері
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
       find_what_looking_for:
-      see_more_web_results: "%{link} Ավելին. (Հնարավոր է ընդգրկվեն նախկինում հանդիպած որոնման արդյունքներ.)"
-      see_more_image_results: "Որոնման արդյունքները վերցված են մեր սոցիալական ցանցերից և պատկերասրահներից. %{link} Որոնման արդյունքներ մեր էջից. (Հնարավոր է ընդգրկվեն նախկինում հանդիպած որոնման արդյունքներ.)"
-      search_again: Կրկնել որոնումը
+      see_more_web_results: "%{link} (Бұрынғы көрген нәтижелерді көретінің мүмкіндігі бар.)"
+      see_more_image_results: "Жоғарыдағы нәтижелер біздің әлеуметтік желілерінен және галлереяларынан келеді %{link} (Бұрынғы көрген нәтижелерді көретінің мүмкіндігі бар.)"
+      search_again: Іздеуді жаңадан бастау
 # Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
     site_limits:
-      including_results_for_query_from_matching_sites: Ներառված են որոնման արդյունքներ %{query} Ումից %{matching_sites} Միայն.
-      do_you_want_to_see_results_for: Տեսնել որոնման արդյունքներ %{query_from_all_sites}?
-      query_from_all_sites: '%{query} Բոլոր կայքէջերից'
+      including_results_for_query_from_matching_sites: …нәтижелерді қосамыз %{query} бүкіл сайттардан %{matching_sites} .
+      do_you_want_to_see_results_for: …нәтижелерді көргіңіз келе ме %{query_from_all_sites}?
+      query_from_all_sites: '%{query} бүкіл сайттардан'
 # Label for inline news module and prompt to see more news on news vertical
-    more_news_about_query: 'Ավելին %{news_label} Մասին %{query}'
-    news_about_query: '%{news_label} Մասին %{query}'
+    more_news_about_query: 'туралы %{news_label} туралы %{query}'
+    news_about_query: '%{news_label} жаңалықтар %{query}'
     news_search_options:
 # It's safe to modify the order of these (e.g., 'm/d/yyyy'), but do not localize 'd', 'm', or 'yyyy'. Do not change the case of the letters.
       date_format: 'd/m/yyyy'
 
 # Label for attributing results to Bing, DigitalGov Search, or Google
-  powered_by: 'Գործարկվել է շնորհիվ'
+  powered_by: 'қолдауымен'
 
 # Prompts for searchers to expand/collapse the number of best bets visible on the results page
-  show_more_label: 'Ցույց տալ ավելին'
-  show_less_label: 'Ցույց տալ պակաս'
+  show_more_label: 'көбірек көрсету'
+  show_less_label: 'кемірек көрсету'
 
 # Date format used in custom date range picker and other places
   date:
     formats:
 # It's safe to modify the order of these (e.g., '%-d/%-m/%Y'), but do not localize 'd', 'm', or 'Y' or remove the dashes. Do not change the case of the letters.
-      slashes: "%-m/%-d/%Y"
+      slashes: "%-d/%-m/%Y"
 
 # Labels for news-based results indicating how long ago they were published
   datetime:
     time_ago_in_words:
-      half_a_minute: "Կես րոպե առաջ"
+      half_a_minute: "жарты минут бұрын"
       less_than_x_seconds:
-        one:   "Մեկ վայրկյանից քիչ ժամանակ առաջ"
-        other: "Ավելի քիչ քան %{count} Վայրկյաններ առաջ"
+        one:   "1 секундтан кем бұрын"
+        other: " %{count} секунда бұрын"
       x_seconds:
-        one:   "1 վայրկյան առաջ"
-        other: "%{count} Վայրկյաններ առաջ"
+        one:   "1 секунда бұрын"
+        other: "%{count} секунда бұрын"
       less_than_x_minutes:
-        one:   "Մեկ րոպեից քիչ ժամանակ առաջ"
-        other: "Ավելի քիչ քան %{count} Րոպեներ առաջ"
+        one:   "1 минуттан кем бұрын"
+        other: " %{count} минут бұрын"
       x_minutes:
-        one:   "1 րոպե առաջ"
-        other: "%{count} Րոպեներ առաջ"
+        one:   "1 минут бұрын"
+        other: "%{count} минут бұрын"
       about_x_hours:
-        one:   "Մոտ 1 ժամ առաջ"
-        other: "Մասին %{count} Ժամեր առաջ"
+        one:   "1 сағатқа жуық бұрын"
+        other: " %{count} сағат бұрын"
       x_days:
-        one:   "1 օր առաջ"
-        other: "%{count} Օրեր առաջ"
+        one:   "1 күн бұры"
+        other: "%{count} күн бұрын"
       about_x_months:
-        one:   "Մոտ մեկ ամիս առաջ"
-        other: "Մասին %{count} Ամիսներ առաջ"
+        one:   "1 айға жуық бұрын"
+        other: " %{count} ай бұрын"
       x_months:
-        one:   "1 ամիս առաջ"
-        other: "%{count} Ամիսներ առաջ"
+        one:   "1 ай бұрын"
+        other: "%{count} ай бұрын"
       about_x_years:
-        one:   "Մոտ մեկ տարի առաջ"
-        other: "Մասին %{count} Տարիներ առաջ"
+        one:   "1 жылға жуық бұрын"
+        other: " %{count} жыл бұрын"
       over_x_years:
-        one:   "Մեկ տարուց ավելի առաջ"
-        other: "Մեկ %{count} Տարիներ առաջ"
+        one:   "1 жылдан астам уақыт бұрын"
+        other: " %{count} жыл бұрын"
       almost_x_years:
-        one:   "Մոտավորապես 1 տարի առաջ"
-        other: "Մոտավորապես %{count} Տարիներ առաջ"
+        one:   "1 жыл бұрын"
+        other: " %{count} жыл бұрын"
