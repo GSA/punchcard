@@ -44,6 +44,9 @@ en:
   too_long: "Your search term is too long. Try again using a shorter word or phrase."
   empty_query: "Please enter a search term in the box above."
 
+# Prompt for CAPTCHA requirement
+  please_solve_captcha: We've detected an unusually high number of searches coming from your location. Are you a real person, or a robot?
+
 # Labels for inline best bets, news, and related searches modules
   recommended: "Recommended"
   by: "by"
@@ -54,7 +57,7 @@ en:
   page: 'Page'
   prev_label: "Previous"
   next_label: "Next"
-  
+
 # Labels for inline jobs module
   job_openings: "Job Openings"
   at_agency: "at %{agency}"
@@ -157,7 +160,7 @@ en:
   approximate: 'About '
   result: 'result'
   results_summary: 'Page %{page} of %{approximate}%{total}'
-  
+
 # Labels for inline best bets and GovBoxes (legacy results page only)
   by_site: "by"
   recent_tweet_for: "Recent tweet for '%{query}'"
@@ -174,7 +177,7 @@ en:
   results_by_bing: 'Results by Bing'
   results_by_usasearch: 'Results by USASearch'
   results_by_google: 'Results by Google'
-  
+
 # Labels for displaying and narrowing by Dublin Core facets (legacy results page only)
   show_less: 'Less'
   show_options: 'Show Options'
@@ -183,11 +186,11 @@ en:
     all_contributors: 'All contributors'
     all_subjects: 'All subjects'
     all_publishers: 'All publishers'
-    
+
 # Labels for toggling footer display (legacy results page only)
   show_footer: 'Show footer'
   hide_footer: 'Hide footer'
-  
+
 # Labels for advanced search (legacy results page only)
   advanced_search: "Advanced Search"
   advanced_search_instruction: "Use the options on this page to create a very specific search."
@@ -207,7 +210,7 @@ en:
   advanced_search_operator_url_on_bing: 'http://onlinehelp.microsoft.com/en-us/bing/ff808421.aspx'
   advanced_search_operator_url_on_google: 'https://support.google.com/websearch/answer/136861?hl=en'
   advanced_search_operator: 'You can also use %{link} to help limit and focus your searches.'
-  
+
 # Prompts for searchers to revise or refine search on news vertical (legacy results page only)
   no_results_for_query: "Sorry, no results found for '%{query}'"
   or_try_broader: "or try entering fewer or broader query terms."
