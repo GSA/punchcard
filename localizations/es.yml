@@ -160,6 +160,9 @@ es:
 # Label for USA.gov (used on USA.gov only)
   usa_gov: GobiernoUSA.gov
 
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human: "Hemos detectado un aumento inusual en el número de búsquedas hechas desde donde usted está ubicado. ¿Es usted una persona o un robot?"
+
 # ALL LOCALIZATIONS BELOW ARE USED ON OUR LEGACY RESULTS PAGE ONLY (PRE-MAY 2014).
 
 # Label for text best bet when it appears in type-ahead suggestions (legacy results page only)
