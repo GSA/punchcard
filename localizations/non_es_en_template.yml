@@ -132,6 +132,3 @@
       almost_x_years:
         one:   "Մոտավորապես 1 տարի առաջ"
         other: "Մոտավորապես %{count} Տարիներ առաջ"
-
-# Text for page captcha challenge, which is shown if bot-like search patterns are detected
-  are_you_human: "We've detected an unusually high number of searches coming from your location. Are you a real person, or a robot?"
