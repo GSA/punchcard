@@ -44,9 +44,6 @@ en:
   too_long: "Your search term is too long. Try again using a shorter word or phrase."
   empty_query: "Please enter a search term in the box above."
 
-# Prompt for CAPTCHA requirement
-  please_solve_captcha: We've detected an unusually high number of searches coming from your location. Are you a real person, or a robot?
-
 # Labels for inline best bets, news, and related searches modules
   recommended: "Recommended"
   by: "by"
@@ -150,6 +147,9 @@ en:
 
 # Label for USA.gov (used on USA.gov only)
   usa_gov: USA.gov
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human: "We've detected an unusually high number of searches coming from your location. Are you a real person, or a robot?"
 
 # ALL LOCALIZATIONS BELOW ARE USED ON OUR LEGACY RESULTS PAGE ONLY (PRE-MAY 2014).
 
