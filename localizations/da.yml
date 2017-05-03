@@ -130,3 +130,6 @@ da:
       almost_x_years:
         one:   "næsten 1 år siden"
         other: "næsten %{count} år siden"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

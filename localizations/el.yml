@@ -134,3 +134,6 @@ el:
       almost_x_years:
         one:   "περίπου ένα χρόνο πριν"
         other: "περίπου %{count} χρόνια πριν"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

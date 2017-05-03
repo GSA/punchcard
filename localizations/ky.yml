@@ -130,3 +130,6 @@ ky:
       almost_x_years:
         one:   "Дээрлик бир жыл мурда "
         other: "Дээрлик бир жыл %{count} ... жыл мудра "
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

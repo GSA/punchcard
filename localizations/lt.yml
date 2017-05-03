@@ -130,3 +130,6 @@ lt:
       almost_x_years:
         one:   "beveik prieš 1 metus"
         other: "beveik prieš %{count} metams praėjus"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

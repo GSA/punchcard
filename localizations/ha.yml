@@ -130,3 +130,6 @@ ha:
       almost_x_years:
         one:   "kusan shekara daya da ta wuce"
         other: "kusan %{count} shekarun da suka wuce"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

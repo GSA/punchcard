@@ -130,3 +130,6 @@ tl:
       almost_x_years:
         one:   "halos 1 taon nakakalipas"
         other: "Almost %{count} mga taon nakakalipas"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

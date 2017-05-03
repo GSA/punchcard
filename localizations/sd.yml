@@ -131,3 +131,6 @@ sd:
       almost_x_years:
         one:   "گهڻوڪري 1 سال پهريان"
         other: " %{count} سالاسال پهريان"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

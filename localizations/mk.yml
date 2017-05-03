@@ -130,3 +130,6 @@ mk:
       almost_x_years:
         one:   "пред речиси една година 1 пред речиси една година"
         other: "пред години  %{count} пред години "
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

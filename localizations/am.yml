@@ -130,3 +130,6 @@ am:
       almost_x_years:
         one: "ከአንድ ዓመት ገደማ በፊት 1 "
         other: "ስለ %{count} ከዓመታትበፊት"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

@@ -130,3 +130,6 @@ be:
       almost_x_years:
         one:   "амаль 1 год таму"
         other: "амаль %{count} некалькі год таму"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

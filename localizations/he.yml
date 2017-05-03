@@ -130,3 +130,6 @@ he:
       almost_x_years:
         one:   "לפני כמעט שנה"
         other: "שנה %{count} לפני שנים"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

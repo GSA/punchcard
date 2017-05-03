@@ -130,3 +130,6 @@ sr:
       almost_x_years:
         one:   "pre skoro 1 godine"
         other: "%{count} godina ranije"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

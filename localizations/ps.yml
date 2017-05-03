@@ -130,3 +130,6 @@ ps:
       almost_x_years:
         one: "نږدې يو کال مخکې 1 نږدې يو کال مخکې"
         other: "څو کاله مخکې %{count} څو کاله مخکې"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

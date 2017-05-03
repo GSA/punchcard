@@ -130,3 +130,6 @@ az:
       almost_x_years:
         one:   "təxminən 1 il əvvəl 1 saat əvvəl"
         other: "Haqqında %{count} il bundan əvvəl"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

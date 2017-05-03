@@ -130,3 +130,6 @@ pt:
       almost_x_years:
         one:   "quase um ano atrás"
         other: "%{count} anos atrás"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

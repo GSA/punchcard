@@ -130,3 +130,6 @@ ka:
       almost_x_years:
         one:   "თითქმის ერთი წლის წინ"
         other: "თითქმის %{count} წლების წინ"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

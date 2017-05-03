@@ -134,3 +134,6 @@ et:
       almost_x_years:
         one:   "peaaegu 1 aasta tagasi"
         other: "peaaegu %{count} aasta tagasi"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

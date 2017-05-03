@@ -130,3 +130,6 @@ sw:
       almost_x_years:
         one:   "karibu mwaka mmoja uliopita"
         other: "%{count} Miaka kadhaa iliyopita"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

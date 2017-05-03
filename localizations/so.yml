@@ -130,3 +130,6 @@ so:
       almost_x_years:
         one:   "Ku dhaw 1 sanad ka hor 1 Ku dhaw 1 sanad ka hor"
         other: "Sanada ka hor %{count} Sanada ka hor"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

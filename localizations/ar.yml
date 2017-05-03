@@ -130,3 +130,6 @@ ar:
       almost_x_years:
         one:   "منذ سنة واحدة تقريبًا"
         other: "تقريبا %{count} منذ سنوات"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

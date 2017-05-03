@@ -133,3 +133,6 @@ kl:
       almost_x_years:
         one:   "Ukiup ataasingajaap matuma siorna"
         other: "Ukiup ataasingajaap %{count} Ukiut arlallit matuma siorna"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:
