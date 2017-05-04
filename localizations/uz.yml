@@ -134,3 +134,6 @@ uz:
       almost_x_years:
         one:   "Tдеярли 1 йил олдин"
         other: "бир неча йил аввал %{count} бир неча йил аввал"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

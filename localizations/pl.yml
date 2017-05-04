@@ -130,3 +130,6 @@ pl:
       almost_x_years:
         one:   "prawie rok temu 1 prawie rok temu"
         other: "lata temu %{count} lata temu"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

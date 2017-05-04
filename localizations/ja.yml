@@ -131,3 +131,6 @@ ja:
       almost_x_years:
         one:   "１年近く前"
         other: "%{count} 年近く前"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

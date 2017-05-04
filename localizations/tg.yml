@@ -134,3 +134,6 @@ tg:
       almost_x_years:
         one:   "Тақрибан як сол пеш"
         other: "Солҳо пештар %{count}"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

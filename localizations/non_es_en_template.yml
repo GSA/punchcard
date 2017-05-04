@@ -132,3 +132,6 @@
       almost_x_years:
         one:   "Մոտավորապես 1 տարի առաջ"
         other: "Մոտավորապես %{count} Տարիներ առաջ"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

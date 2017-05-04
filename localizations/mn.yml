@@ -130,3 +130,6 @@ mn:
       almost_x_years:
         one:   "Жил орчмын өмнөх 1 Жил орчмын өмнөх"
         other: "хэдэн жилийн өмнөх %{count} хэдэн жилийн өмнөх"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

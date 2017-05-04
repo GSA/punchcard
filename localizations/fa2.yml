@@ -130,3 +130,6 @@ fa2:
       almost_x_years:
         one:   "تقریباً یک سال قبل"
         other: "تقریباً %{count} چند سال قبل"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

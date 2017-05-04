@@ -130,3 +130,6 @@ hu:
       almost_x_years:
         one:   "közel 1 éve"
         other: "közel %{count} évekkel ezelőtt"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

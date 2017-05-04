@@ -132,3 +132,6 @@ kk:
       almost_x_years:
         one:   "1 жыл бұрын"
         other: " %{count} жыл бұрын"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

@@ -131,3 +131,6 @@ bal:
       almost_x_years:
         one:   "1 پھولگ"
         other: "%{count} تقریبا یک سال پیشا"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

@@ -130,3 +130,6 @@ fa:
       almost_x_years:
         one:   "تقریبا ۱ سال پیش 1 تقریبا ۱ سال پیش"
         other: "چند سال پیش %{count} چند سال پیش"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

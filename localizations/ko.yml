@@ -130,3 +130,6 @@ ko:
       almost_x_years:
         one:   "약 1년 전"
         other: "약 %{count} 몇 년 전 "
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

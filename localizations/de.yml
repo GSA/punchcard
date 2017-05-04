@@ -128,3 +128,6 @@ de:
       almost_x_years:
         one:   "vor fast einem Jahr"
         other: "vor fast %{count} einem Jahr"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

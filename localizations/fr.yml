@@ -130,3 +130,6 @@ fr:
       almost_x_years:
         one:   "il y a près d'un an"
         other: "près %{count} il y a environ x ans"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

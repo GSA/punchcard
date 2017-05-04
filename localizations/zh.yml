@@ -130,3 +130,6 @@ zh:
       almost_x_years:
         one:   "近一年以前"
         other: "几乎 %{count} 几年之前"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:

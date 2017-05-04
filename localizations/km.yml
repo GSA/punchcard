@@ -130,3 +130,6 @@ km:
       almost_x_years:
         one:   "ជិតមួយឆ្នាំមុន"
         other: "ជិត %{count} ប៉ុន្មានឆ្នាំមុន"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:
