@@ -1,0 +1,138 @@
+me: 
+
+# DigitalGov Search localizations for: Montenegrin (me)
+
+# Default page title of search results page
+  default_serp_title: '%{query} - %{site_name} Rezultati pretrage'
+
+# Labels for the search box
+  search: "Pretraga"
+  search_label: 'Unesite termin(e) za pretragu'
+
+# Labels for the navigation bar
+  everything: "Rezultati na stranici"
+  images: "Slike"
+  videos: "videos"
+  show_more: 'Više'
+
+# Labels to change the sort order by date or relevance
+  by_date: 'Posljednje objave'
+  by_relevance: 'Najbolji rezultat'
+
+# Labels to narrow results by a preset timeframe or a custom date range, or clear filters ('Before' is the label for custom date range with only a 'To' date set.)
+  refine_your_search:
+  all_time: "Neograničeno"
+  last_hour: "Posljednih sat"
+  last_day: "Posljednjih 24 sata"
+  last_week: "Posljednje nedjelje"
+  last_month: "Posljednjeg mjeseca"
+  last_year: "Posljednje godine"
+  custom_range: 'Vremenski period'
+  from: 'Od'
+  to: 'Do'
+# It's safe to modify the order of these (e.g., '%m/%d/%Y'), but do not localize the Latin letters 'd', 'm', or 'Y'. Do not change the case of the letters.
+  cdr_format: '%d/%m/%Y'
+  before: 'Prije'
+  clear: 'Očisti'
+
+# Prompts for spelling, spelling overrides, and did you mean suggestions
+  showing_results_for: Rezultati za %{corrected_query}
+  search_instead_for: Tražiti umjesto %{original_query}
+  did_you_mean: "Uključujemo rezultate za %{assumed_term}. želite li samo rezultate za %{term_as_typed}?"
+
+# Prompts for searchers to revise or refine search
+  no_results_for_and_try: "žao nam je, ništa nije pronađeno '%{query}'. Pokušajte da unesete manje termina ili šire pojmove za pretragu."
+  too_long: "Vaš termin za pretragu je predug:  Pokušajte da koristite kraću riječ ili frazu."
+  empty_query: "Unesite pojam za pretragu u polje iznad."
+
+# Labels for inline best bets, news, and related searches modules
+  recommended: "Preporučeno"
+  by: "od"
+  default_rss_govbox_label: 'Vijesti'
+  related_searches: "Povezana pretraga"
+
+# Labels for paging through results
+  page: 'Strana'
+  prev_label: "Prethodno"
+  next_label: "Sljedeće"
+  
+  searches:
+    by: od
+# Prompt for searchers to skip to main content (most easily seen by tabbing through results page)
+    skip_to_main_content: Pređi na glavni sadržaj
+# Labels for navigation bar "sections" (most easily seen on mobile dimension)
+    menu: Meni
+    browse_site: Pregledajte internet stranicu
+    related_sites: Pogledajte teme
+    search_results: Rezultati pretrage
+# Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
+    commercial_results:
+      find_what_looking_for:
+      see_more_web_results: "%{link} Da vidite više rezultata. (Možda ćete vidjeti rezultate koje ste već vidjeli.)"
+      see_more_image_results: "Rezultati iznad su sa naših naloga na društvenim mrežama i iz naših galerija. %{link} Da pogledate rezultate sa naše stranice. (Možda ćete vidjeti rezultate koje ste već vidjeli.)"
+      search_again: Pokušajte pretragu ponovo
+# Prompts for searchers to view more results from the broader website after initially seeing site-scoped results
+    site_limits:
+      including_results_for_query_from_matching_sites: Rezultate za %{query} od %{matching_sites} Uključujemo.
+      do_you_want_to_see_results_for: želite li da vidite rezultate o %{query_from_all_sites}?
+      query_from_all_sites: '%{query} sa svih stranica'
+# Label for inline news module and prompt to see more news on news vertical
+    more_news_about_query: 'Više %{news_label} o %{query}'
+    news_about_query: '%{news_label} Povezane teme %{query}'
+    news_search_options:
+# It's safe to modify the order of these (e.g., 'm/d/yyyy'), but do not localize 'd', 'm', or 'yyyy'. Do not change the case of the letters.
+      date_format: 'd/m/yyyy'
+
+# Label for attributing results to Bing, DigitalGov Search, or Google
+  powered_by: 'Powered by'
+
+# Prompts for searchers to expand/collapse the number of best bets visible on the results page
+  show_more_label: 'Prikaži više'
+  show_less_label: 'Prikaži manje'
+
+# Date format used in custom date range picker and other places
+  date:
+    formats:
+# It's safe to modify the order of these (e.g., '%-d/%-m/%Y'), but do not localize 'd', 'm', or 'Y' or remove the dashes. Do not change the case of the letters.
+      slashes: "%-m/%-d/%Y"
+
+# Labels for news-based results indicating how long ago they were published
+  datetime:
+    time_ago_in_words:
+      half_a_minute: "prije pola minuta"
+      less_than_x_seconds:
+        one:   "Prije manje od 1 sekund"
+        other: "Manje od %{count} sekundama unaza"
+      x_seconds:
+        one:   "Prije 1 sekundu"
+        other: "%{count} sekundama unaza"
+      less_than_x_minutes:
+        one:   "Prije manje od minut"
+        other: "%{count} minutima unazad"
+      x_minutes:
+        one:   "prije 1 minut"
+        other: "%{count} Minutima unazad"
+      about_x_hours:
+        one:   "Prije oko 1 sat"
+        other: "%{count} Satima unazad"
+      x_days:
+        one:   "Prije 1 dan"
+        other: "%{count} Danima unazad"
+      about_x_months:
+        one:   "Prije oko 1 mjesec"
+        other: "%{count} Mjesecima unazad"
+      x_months:
+        one:   "Prije 1 mjesec"
+        other: "%{count} Mjesecima unazad"
+      about_x_years:
+        one:   "Prije oko 1 godine"
+        other: "%{count} Godinama unazad"
+      over_x_years:
+        one:   "Prije preko 1 godinu"
+        other: " %{count} Godinama unazad"
+      almost_x_years:
+        one:   "Prije skoro 1 godinu"
+        other: "%{count} Godinama unazad"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:
