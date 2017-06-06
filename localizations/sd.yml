@@ -134,3 +134,4 @@ sd:
 
 # Text for page captcha challenge, which is shown if bot-like search patterns are detected
   are_you_human:
+  captcha_requires_javascript:

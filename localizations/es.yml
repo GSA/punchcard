@@ -162,6 +162,7 @@ es:
 
 # Text for page captcha challenge, which is shown if bot-like search patterns are detected
   are_you_human: "Hemos detectado un aumento inusual en el número de búsquedas hechas desde donde usted está ubicado. ¿Es usted una persona o un robot?"
+  captcha_requires_javascript: "¡Oops! Parece que no tiene Javascript activado así que no podrá confirmar que no es un robot. Por favor active Javascript y recargue esta página."
 
 # ALL LOCALIZATIONS BELOW ARE USED ON OUR LEGACY RESULTS PAGE ONLY (PRE-MAY 2014).
 

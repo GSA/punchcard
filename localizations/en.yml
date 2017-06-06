@@ -150,6 +150,7 @@ en:
 
 # Text for page captcha challenge, which is shown if bot-like search patterns are detected
   are_you_human: "We've detected an unusually high number of searches coming from your location. Are you a real person, or a robot?"
+  captcha_requires_javascript: "Oops! Looks like you don't have Javascript enabled, so you won't be able to complete the challenge. Please enable Javascript and reload this page."
 
 # ALL LOCALIZATIONS BELOW ARE USED ON OUR LEGACY RESULTS PAGE ONLY (PRE-MAY 2014).
 
