@@ -1,6 +1,6 @@
 pl:
 
-# DigitalGov Search localizations for: Polish (pl)
+# Search.gov localizations for: Polish (pl)
 
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} wyniki wyszukiwania'
@@ -65,7 +65,7 @@ pl:
     related_sites: zobacz temat
     results_count: '%{count}'
     search_results: wyniki wyszukiwania
-# Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
+# Prompts for searchers to view more results from Bing/Google after reaching page n of Search.gov results
     commercial_results:
       find_what_looking_for:
       see_more_web_results: "%{link} aby zobaczyć więcej wyników"
@@ -81,7 +81,7 @@ pl:
     news_about_query: '%{news_label} o%{query}'
     news_search_options:
       date_format: 'm/d/yyyy'
-# Label for attributing results to Bing, DigitalGov Search, or Google
+# Label for attributing results to Bing, Search.gov, or Google
   powered_by: 'umożliwiony przez'
 
 # Prompts for searchers to expand/collapse the number of best bets visible on the results page

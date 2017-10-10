@@ -1,6 +1,6 @@
 en:
 
-# DigitalGov Search localizations for: English (en)
+# Search.gov localizations for: English (en)
 
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Search Results'
@@ -70,7 +70,7 @@ en:
     related_sites: View topic
     results_count: '%{count} results'
     search_results: Search results
-# Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
+# Prompts for searchers to view more results from Bing/Google after reaching page n of Search.gov results
     commercial_results:
       find_what_looking_for: "Did you find what you were looking for?"
       see_more_web_results: "%{link} to see more results. (You may see some results that you've already seen.)"
@@ -95,7 +95,7 @@ en:
       homepage_url: http://www.nlm.nih.gov/medlineplus/
       related_topics: Related topics
 
-# Label for attributing results to Bing, DigitalGov Search, or Google
+# Label for attributing results to Bing, Search.gov, or Google
   powered_by: 'Powered by'
 
 # Prompts for searchers to expand/collapse the number of best bets visible on the results page

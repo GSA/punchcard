@@ -1,6 +1,6 @@
 ha:
 
-# DigitalGov Search localizations for: Hausa (ha)
+# Search.gov localizations for: Hausa (ha)
 
 # Default page title of search results page
   default_serp_title: '%{query} - %{site_name} Binciken Sakamako'
@@ -65,7 +65,7 @@ ha:
     related_sites: A duba manhaja
     results_count: '%{count}'
     search_results: A bincika sakamako
-# Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
+# Prompts for searchers to view more results from Bing/Google after reaching page n of Search.gov results
     commercial_results:
       find_what_looking_for:
       see_more_web_results: "%{link} a duba karin sakamako"
@@ -81,7 +81,7 @@ ha:
     news_about_query: '%{news_label} game da %{query}'
     news_search_options:
       date_format: 'm/d/yyyy'
-# Label for attributing results to Bing, DigitalGov Search, or Google
+# Label for attributing results to Bing, Search.gov, or Google
   powered_by: 'Naurar da ta gabatar'
 
 # Prompts for searchers to expand/collapse the number of best bets visible on the results page

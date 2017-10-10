@@ -304,7 +304,7 @@ The Elasticsearch index mapping used to transform entries into analyzed fields i
 
 # Localizations (l10n)
 
-The DigitalGov Search application uses these YAML files to provide localized translations of text strings 
+The Search.gov application uses these YAML files to provide localized translations of text strings 
 based on the locale set for the user.
 
 ## Contributing
