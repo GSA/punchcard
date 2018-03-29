@@ -372,6 +372,9 @@ appendices, appendix, appendixes:
   :notes: Approved (irregular plurals). AFF 10/6/14
   :status: Approved
   :analyzed: appendix, appendice, appendixe
+application, apply
+  :notes: Approved (noun/verb pair). DPM 3/29/2018
+  :status: Approved
 apointment, appoinment, appoitment, appointment:
   :notes: Approved (misspellings). AFF 3/3/15
   :status: Approved
@@ -1207,10 +1210,10 @@ ia, iowa:
   :notes: 
   :status: Candidate
   :analyzed: iowa, ia
-id, idaho:
-  :notes: 
-  :status: Candidate
-  :analyzed: idaho, id
+id, identification, identity, identify:
+  :notes: Approved (abbreviations, noun-verb pairs). DPM 3/29/2018
+  :status: Approved
+  :analyzed: identific, id, identit, identif
 il, ill, illinois:
   :notes: 
   :status: Candidate
