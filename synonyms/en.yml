@@ -1211,9 +1211,9 @@ ia, iowa:
   :status: Candidate
   :analyzed: iowa, ia
 id, identification, identity, identify:
-  :notes: Approved (abbreviations, noun-verb pairs). DPM 3/29/2018
+  :notes: Approved (abbreviations, noun-verb pairs). Prefering ID in this sense, and not the state abbreviation. DPM 3/29/2018.
   :status: Approved
-  :analyzed: identific, id, identit, identif
+  :analyzed: id, identif, ident
 il, ill, illinois:
   :notes: 
   :status: Candidate
