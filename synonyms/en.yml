@@ -1213,7 +1213,7 @@ ia, iowa:
 id, identification, identity, identify:
   :notes: Approved (abbreviations, noun-verb pairs). Prefering ID in this sense, and not the state abbreviation. DPM 3/29/2018.
   :status: Approved
-  :analyzed: id, identif, ident
+  :analyzed: id, identif, ident, identifi
 il, ill, illinois:
   :notes: 
   :status: Candidate
