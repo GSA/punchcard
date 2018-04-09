@@ -45,7 +45,7 @@ ihs:
   :notes: Protecting IHS (federal agency) from being stemmed to ih in minimal_english
   :status: Approved
 important:
-  :notes: "important" gets stemmed to "import" and leads to many false drops.
+  :notes: important gets stemmed to import and leads to many false drops.
   :status: Approved
 irs:
   :notes: Protecting IRS (federal agency) from being stemmed to ir in minimal_english
