@@ -1,0 +1,36 @@
+version: 2
+jobs:
+  build:
+    docker:
+       - image: circleci/ruby:2.4.1-node-browsers
+
+    working_directory: ~/punchcard
+
+    steps:
+      - checkout
+
+      - restore_cache:
+          key: punchcard-{{ checksum "Gemfile.lock" }}
+
+      - run:
+          name: install dependencies
+          command: |
+            bundle install --jobs=4 --retry=3 --path vendor/bundle
+
+      - save_cache:
+          key: punchcard-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+
+      - run:
+          name: Run tests
+          command: |
+            mkdir /tmp/test-results
+            bundle exec rspec
+
+      - store_test_results:
+          path: /tmp/test-results
+
+      - store_artifacts:
+          path: /tmp/test-results
+          destination: test-results

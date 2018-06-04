@@ -61,11 +61,11 @@ git push origin my-feature-branch
 
 #### Make a Pull Request
 
-Go to https://github.com/contributor/punchcard and select your feature branch. Click the 'Pull Request' button and fill out the form. A series of automated tests will run on [Travis](https://travis-ci.org/GSA/punchcard). If tests pass, your pull request will usually get reviewed and accepted within a few days.
+Go to https://github.com/contributor/punchcard and select your feature branch. Click the 'Pull Request' button and fill out the form. A series of automated tests will run on [CirclCI](https://circleci.com/gh/GSA/punchcard). If tests pass, your pull request will usually get reviewed and accepted within a few days.
 
 #### Be Patient
 
-It's likely that your change will not be merged and that the nitpicky maintainers (or Travis) will ask you to do more, or fix seemingly benign problems. Hang on there!
+It's likely that your change will not be merged and that the nitpicky maintainers (or CircleCI) will ask you to do more, or fix seemingly benign problems. Hang on there!
 
 #### Thank You
 

@@ -1,7 +1,7 @@
 punchcard
 =========
 
-[![Build Status](https://travis-ci.org/GSA/punchcard.svg?branch=master)](https://travis-ci.org/GSA/punchcard)
+[![CircleCI](https://circleci.com/gh/GSA/punchcard.svg?style=svg)](https://circleci.com/gh/GSA/punchcard)
 
 Repository of synonyms, protected words, stop words, localizations, and other vocabularies to improve the precision, recall, and usability of search results.
 
