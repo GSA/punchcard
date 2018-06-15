@@ -11,6 +11,9 @@ clothes:
 communications:
   :notes: 
   :status: Candidate
+constitution:
+  :notes: "Constitution" should not be stemmed.
+  :status: Approved
 corrections:
   :notes: correction (a fix) vs. corrections (criminal justice)
   :status: Approved
