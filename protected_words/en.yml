@@ -3,19 +3,22 @@ arms:
   :notes: arm (limb) vs. arms (weapons, ammunition)
   :status: Candidate
 brains:
-  :notes: 
+  :notes:
   :status: Candidate
 clothes:
   :notes: cloth (fabric) vs. clothes (clothing)
   :status: Candidate
 communications:
-  :notes: 
+  :notes:
   :status: Candidate
+constitution:
+  :notes: constitution should not be stemmed
+  :status: Approved
 corrections:
   :notes: correction (a fix) vs. corrections (criminal justice)
   :status: Approved
 credentials:
-  :notes: 
+  :notes:
   :status: Candidate
 customs:
   :notes: custom (tradition) vs. customs (govt agency that collects duties)
@@ -24,13 +27,13 @@ decs:
   :notes: dec (dept of environmental conservation, december) vs. decs (decorations)
   :status: Approved
 funds:
-  :notes: 
+  :notes:
   :status: Candidate
 gas:
   :notes: Protecting from being stemmed to ga in minimal_english
   :status: Approved
 glasses:
-  :notes: 
+  :notes:
   :status: Candidate
 goods:
   :notes: good (healthy, well, right) vs. goods (merchandise)
@@ -72,7 +75,7 @@ quarters:
   :notes: quarter (coin, one-fourth) vs. quarters (lodging)
   :status: Candidate
 records:
-  :notes: 
+  :notes:
   :status: Candidate
 securities:
   :notes: security (safety, free from danger) vs. securities (investments)
@@ -81,7 +84,7 @@ shingles:
   :notes: shingle (roofing material) vs. shingles (viral infection)
   :status: Approved
 troops:
-  :notes: 
+  :notes:
   :status: Candidate
 turkeys:
   :notes: Turkey (country) vs. turkeys (animals)
