@@ -7,6 +7,10 @@ chlamydia, chlamydial, chlamidia, clamidia, clamydia:
   :notes: Approved (stemming) AFF 10/30/14. Added and approved (misspellings) and (language variants). AFF 3/4/15
   :status: Approved
   :analyzed: chlamydi, chlamydial, chlamidi, clamidi, clamydi
+cita, citas:
+  :notes: Approved (plurals) Short term solution until we can get a more robust Spanish stemmer in place. DPM 7/9/18.
+  :status: Approved
+  :analyzed: cita, cit
 divorce, divorcio:
   :notes: Approved (language variants). AFF 2/10/14
   :status: Approved
