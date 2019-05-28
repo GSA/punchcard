@@ -386,7 +386,7 @@ apr, april:
   :status: Rejected
   :analyzed: apr, april
 ar, ark, arkansas:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: arkansa, ark, ar
 arch, arches:
@@ -486,7 +486,7 @@ bomb, bombed, bomber, bombing:
   :status: Approved
   :analyzed: bomb, bombed, bomber, bombing
 bot, robot, robotic:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: robot, robotic, bot
 boxer, boxing:
@@ -512,7 +512,7 @@ burma, burmese, myanmar:
   :status: Approved
   :analyzed: burma, burmese, myanmar
 burro, donkey:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: donkey, burro
 business, businesses:
@@ -536,7 +536,7 @@ calendar, calender:
   :status: Approved
   :analyzed: calendar, calender
 calculate, calculating, calculation, calculator:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: calculate, calculating, calculation, calculator
 camp, camped, camping:
@@ -545,7 +545,7 @@ camp, camped, camping:
   :status: Approved
   :analyzed: camp, camping, camped
 cancellation, cancelled:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: cancellation, cancelled
 canine, dog, doggy:
@@ -574,7 +574,7 @@ center, centre:
   :status: Approved
   :analyzed: center, centre
 certificate, certification:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: certificate, certification
 cervical, cervix:
@@ -582,7 +582,7 @@ cervical, cervix:
   :status: Approved
   :analyzed: cervical, cervix
 charge, charged, charging:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: charge, charged, charging
 chart, charted, charting:
@@ -619,7 +619,7 @@ clothes, clothing:
   :status: Approved
   :analyzed: clothe, clothing
 co, colo, colorado:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: colorado, colo, co
 code, coding:
@@ -640,15 +640,15 @@ confidential, confidentiality, confidentially:
   :status: Approved
   :analyzed: confidential, confidentiality, confidentially
 conn, connecticut, ct:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: connecticut, conn, ct
 connect, connected, connecting, connection:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: connect, connected, connecting, connection
 connect, connected, connecting, connection, connectivity:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: connect, connected, connecting, connection, connectivity
 consolidate, consolidated, consolidating, consolidation, consolidator:
@@ -662,7 +662,7 @@ constitution, constitutional:
   :status: Approved
   :analyzed: constitution, constitutional
 contact, contacting:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: contact, contacting
 contract, contracted, contracting:
@@ -683,7 +683,7 @@ correctional, corrections:
   :status: Approved
   :analyzed: correctional, corrections
 cosmetologist, cosmetology:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: cosmetologist, cosmetology
 coxsackie, coxsackievirus:
@@ -715,7 +715,7 @@ dad, daddy, father:
   :status: Approved
   :analyzed: dad, daddy, father
 de, del, delaware:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: delaware, del, de
 dec, december:
@@ -732,11 +732,11 @@ defered, deferred, defferd, defferred:
   :status: Approved
   :analyzed: defered, deferred, defferd, defferred
 delay, delayed:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: delay, delayed
 department, dept:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: department, dept
 deport, deportable, deportation, deported, deporting:
@@ -790,7 +790,7 @@ ecstacy, ecstasy, mdma:
   :status: Approved
   :analyzed: ecstacy, ecstasy, mdma
 education, educational, educator:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: education, educational, educator
 ehrlichia, ehrlichial, ehrlichiosis:
@@ -798,7 +798,7 @@ ehrlichia, ehrlichial, ehrlichiosis:
   :status: Approved
   :analyzed: ehrlichia, ehrlichial, ehrlichiosi
 electric, electrical, electricity:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: electric, electrical, electricity
 eligibility, eligible, eligibly:
@@ -806,7 +806,7 @@ eligibility, eligible, eligibly:
   :status: Approved
   :analyzed: eligibility, eligible, eligibly
 emerge, emerging:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: emerge, emerging
 employee, employees:
@@ -850,7 +850,7 @@ expedite, expedited, expediting:
   :status: Approved
   :analyzed: expedite, expedited, expediting
 export, exported, exporter, exporting:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: export, exported, exporter, exporting
 facsimile, fax, faxed, faxing:
@@ -870,7 +870,7 @@ feb, february:
   :status: Approved
   :analyzed: feb, february
 fed, federal:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: fed, federal
 fee, fees:
@@ -912,7 +912,7 @@ flu, influenza, influenzae:
   :status: Approved
   :analyzed: flu, influenza, influenzae
 fm, micronesia:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: micronesia, fm
 forcast, forecast, forecastable, forecasted, forecasting:
@@ -934,7 +934,7 @@ fridge, refrig, refrigerator:
   :status: Approved
   :analyzed: refrig, refrigerator, fridge
 fuel, fueling:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: fuel, fueling
 fy00, fy2000:
@@ -1067,7 +1067,7 @@ ga, georgia:
   :status: Candidate
   :analyzed: georgia, ga
 garden, gardener, gardening:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: garden, gardener, gardening
 garnish, garnished, garnishing, garnishment:
@@ -1117,11 +1117,11 @@ grantee, grantees:
   :status: Approved
   :analyzed: grantee, grantees
 greetings, greets:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: greeting, greet
 gu, guam:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: guam, gu
 gym, gymnasium:
@@ -1141,7 +1141,7 @@ harassment, harrassment:
   :status: Approved
   :analyzed: harassment, harrassment
 hawaii, hi:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: hawaii, hi
 haz, hazard, hazardous:
@@ -1149,7 +1149,7 @@ haz, hazard, hazardous:
   :status: Approved
   :analyzed: haz, hazardous, hazard
 heat, heated:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: heat, heated
 hep, hepatitus, hepatitis:
@@ -1165,7 +1165,7 @@ herpes, herpies:
   :status: Approved
   :analyzed: herpe, herpy
 hike, hiking:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: hike, hiking
 hipaa, hippa:
@@ -1177,7 +1177,7 @@ hippo, hippopotamus:
   :status: Approved
   :analyzed: hippo, hippopotamus
 hire, hired, hiring:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: hire, hired, hiring
 hispanic, latina, latino:
@@ -1207,23 +1207,27 @@ housed, housing:
   :status: Approved
   :analyzed: housed, housing
 hunt, hunted, hunter, hunting:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: hunt, hunted, hunter, hunting
 ia, iowa:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: iowa, ia
 id, identification, identity, identify:
   :notes: Approved (abbreviations, noun-verb pairs). Prefering ID in this sense, and not the state abbreviation. DPM 3/29/2018.
   :status: Approved
   :analyzed: id, identif, ident, identifi
+ig, oig:
+  :notes: Approved (acronyms). Inspector General = Office of the Inspector General. DPM 7/6/18
+  :status: Approved
+  :analyzed: ig, oig
 il, ill, illinois:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: illinoi, ill, il
 image, imaging:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: image, imaging
 imigration, immigration, immagration:
@@ -1256,11 +1260,11 @@ innovative, innovation, innovating, innovated:
   :status: Approved
   :analyzed: innovative, innovation, innovating, innovated
 integrate, integrated, integration, integrative:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: integrate, integrated, integration, integrative
 intersecting, intersection:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: intersecting, intersection
 isil, isis:
@@ -1297,11 +1301,11 @@ jupitar, jupiter, jupitor, jupter:
   :status: Approved
   :analyzed: jupitar, jupiter, jupitor, jupter
 kans, kansas, ks:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: kansa, kan, ks
 kentucky, ky:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: kentucky, ky
 keplar, kepler, keppler:
@@ -1309,7 +1313,7 @@ keplar, kepler, keppler:
   :status: Approved
   :analyzed: keplar, kepler, keppler
 la, louisiana:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: louisiana, la
 lab, labratory:
@@ -1350,11 +1354,11 @@ limo, limousine:
   :status: Approved
   :analyzed: limo, limousine
 list, listing:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: list, listing
 load, loaded:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: load, loaded
 locate, located, location, locator:
@@ -1363,7 +1367,7 @@ locate, located, location, locator:
   :status: Approved
   :analyzed: location, locator, locate, located
 located, locating, location:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: located, locating, location
 lockjaw, tetanus, tetnus:
@@ -1371,11 +1375,11 @@ lockjaw, tetanus, tetnus:
   :status: Approved
   :analyzed: lockjaw, tetanus, tetnus
 lodge, lodging:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: lodge, lodging
 logic, logical:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: logic, logical
 lottery, lotto:
@@ -1383,7 +1387,7 @@ lottery, lotto:
   :status: Approved
   :analyzed: lotto, lottery
 lube, lubricant, lubricator:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: lube, lubricant, lubricator
 lunch, luncheon:
@@ -1391,11 +1395,11 @@ lunch, luncheon:
   :status: Approved
   :analyzed: lunch, luncheon
 ma, mass, massachusetts:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: massachusett, mass, ma
 maam, madam:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: maam, madam
 maine, me:
@@ -1413,7 +1417,7 @@ man, men:
   :status: Approved
   :analyzed: man, men
 management, mgmt:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: mgmt, management
 map, mapping:
@@ -1432,7 +1436,7 @@ marijuana, marijuanna:
   :status: Approved
   :analyzed: marijuana, marijuanna
 maryland, md:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: maryland, md
 math, mathematical, mathematics:
@@ -1452,7 +1456,7 @@ mecury, mercury, murcury:
   :status: Approved
   :analyzed: mecury, mercury, murcury
 media, medium:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: media, medium
 medicade, medicaid:
@@ -1501,15 +1505,15 @@ midwife, midwives:
   :status: Approved
   :analyzed: midwife, midwive
 minn, minnesota, mn:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: minnesota, minn, mn
 miss, mississippi, ms:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: mississippi, miss, ms
 missouri, mo:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: missouri, mo
 mom, mommy, mother:
@@ -1530,11 +1534,11 @@ mucormycosis, mucoromycotina, zygomycota, zygomycosis:
   :status: Approved
   :analyzed: mucormycosi, mucoromycotina, zygomycota, zygomycosi
 naturalization, naturalize:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: naturalization, naturalize
 naval, navy:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: navy, naval
 ne, nebr, nebraska:
@@ -1546,7 +1550,7 @@ netflix, nflx:
   :status: Approved
   :analyzed: netflix, nflx
 nev, nevada, nv:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: nevada, nev, nv
 nike, nke:
@@ -1580,11 +1584,11 @@ offset, offsetting:
   :status: Approved
   :analyzed: offset, offsetting
 oh, ohio:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: ohio, oh
 ok, okla, oklahoma:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: oklahoma, okla, ok
 op, operation:
@@ -1613,7 +1617,7 @@ ova, ovum:
   :status: Approved
   :analyzed: ova, ovum
 ovarian, ovary:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: 
 ox, oxen:
@@ -1625,7 +1629,7 @@ pa, penna, pennsylvania:
   :status: Approved
   :analyzed: pennsylvania, penna, pa
 palau, pw:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: palau, pw
 parachute, parachuted, parachuting:
@@ -1689,11 +1693,11 @@ pic, picture:
   :status: Rejected
   :analyzed: pic, picture
 pike, turnpike:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: pike, turnpike
 plan, planning:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: plan, planning
 planet, planit:
@@ -1709,7 +1713,7 @@ porn, pornography:
   :status: Approved
   :analyzed: porn, pornography
 position, positioning:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: position, positioning
 possess, possessed, possesses, possessing, possession:
@@ -1793,15 +1797,15 @@ rehab, rehabilitation:
   :status: Approved
   :analyzed: rehab, rehabilitation
 reinforced, reinforcement, reinforcing:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: reinforced, reinforcement, reinforcing
 render, rendered:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: render, rendered
 renovation, renovator:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: renovation, renovator
 replace, replaced, replacement, replacment:
@@ -1823,11 +1827,11 @@ research, researcher:
   :status: Rejected
   :analyzed: research, researcher
 residence, residency, resident:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: residence, residency, resident
 restricted, restrictions:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: restricted, restriction
 retire, retired, retiring:
@@ -1885,7 +1889,7 @@ schedule, sched, sch:
   :status: Approved
   :analyzed: schedule, sched, sch
 screen, screening:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: screen, screening
 senate => senator:
@@ -1961,7 +1965,7 @@ st, street:
   :status: Approved
   :analyzed: st, street
 standard, standardization:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: standardization, standard
 stat, statistical, statistics:
@@ -1983,7 +1987,7 @@ suicidal, suicidality, suicide:
   :status: Approved
   :analyzed: suicidal, suicidality, suicide
 supplier, supplies:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: supplier, supply
 survivor, survior, suvivor:
@@ -2025,7 +2029,7 @@ tb, tuberculosis:
   :status: Approved
   :analyzed: tb, tuberculosi
 tech, technical, technician, technology:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: tech, technology, technician, technical
 teeth, tooth:
@@ -2037,7 +2041,7 @@ television, tv:
   :status: Approved
   :analyzed: tv, television
 tenn, tennessee, tn:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: tennessee, tenn, tn
 tesla, tsla:
@@ -2045,7 +2049,7 @@ tesla, tsla:
   :status: Approved
   :analyzed: tesla, tsla
 tex, texas, tx:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: texa, tex, tx
 theses, thesis:
@@ -2053,7 +2057,7 @@ theses, thesis:
   :status: Approved
   :analyzed: thesi, these
 ticket, tix:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: tix, ticket
 tornado, tornadoes:
@@ -2070,7 +2074,7 @@ training, traning:
   :status: Approved
   :analyzed: training, traning
 translate, translated, translating, translator:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: translate, translated, translating, translator
 travel, traveling:
@@ -2098,7 +2102,7 @@ ut, utah:
   :status: Approved
   :analyzed: utah, ut
 va, virginia:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: virginia, va
 vermont, vt:
@@ -2140,7 +2144,7 @@ vulnerabilies, vulnerabilities:
   :status: Approved
   :analyzed: vulnerabily, vulnerability
 wa, wash, washington:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: washington, wash, wa
 waive, waived, waiver, waiving:
@@ -2182,7 +2186,7 @@ woman, women:
   :status: Approved
   :analyzed: woman, women
 work, workers, working:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: work, worker, working
 write, writing, written, wrote:
@@ -2191,7 +2195,7 @@ write, writing, written, wrote:
   :status: Rejected
   :analyzed: write, writing, written, wrote
 wy, wyo, wyoming:
-  :notes: 
+  :notes:
   :status: Candidate
   :analyzed: wyoming, wyo, wy
 yahoo, yhoo:
