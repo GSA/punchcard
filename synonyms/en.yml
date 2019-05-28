@@ -1221,7 +1221,7 @@ id, identification, identity, identify:
 ig, oig:
   :notes: Approved (acronyms). Inspector General = Office of the Inspector General. DPM 7/6/18
   :status: Approved
-  :analyzed:
+  :analyzed: ig, oig
 il, ill, illinois:
   :notes:
   :status: Candidate
