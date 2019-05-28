@@ -20,6 +20,7 @@ ca:
   by_relevance: 'Millor opció'
 
 # Labels to narrow results by a preset timeframe or a custom date range, or clear filters ('Before' is the label for custom date range with only a 'To' date set.)
+  refine_your_search:
   all_time: "Tot el temps"
   last_hour: "Darrera hora"
   last_day: "Darrer dia"
@@ -66,6 +67,7 @@ ca:
     search_results: Resultats de la cerca
 # Prompts for searchers to view more results from Bing/Google after reaching page n of DigitalGov Search results
     commercial_results:
+      find_what_looking_for:
       see_more_web_results: "%{link} Per veure més resultats"
       see_more_image_results: "Els resultats anteriors són de les nostres xarxes socials i galeries %{link} per veure els resultats des de la nostra web (Potser veurà alguns resultats que ja ha vist prèviament)"
       search_again: Proveu de fer la vostra cerca un altre vegaga
@@ -129,3 +131,7 @@ ca:
       almost_x_years:
         one:   "Fa gairebé 1 any"
         other: "gairebé %{count} Fa uns anys"
+
+# Text for page captcha challenge, which is shown if bot-like search patterns are detected
+  are_you_human:
+  captcha_requires_javascript:
