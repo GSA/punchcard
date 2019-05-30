@@ -59,6 +59,7 @@ en:
   job_openings: "Job Openings"
   at_agency: "at %{agency}"
   federal_job_openings: "Federal Job Openings"
+  no_job_results: "No job openings in your region match your query"
 
   searches:
     by: by
@@ -80,7 +81,7 @@ en:
     site_limits:
       including_results_for_query_from_matching_sites: We're including results for %{query} from %{matching_sites} only.
       do_you_want_to_see_results_for: Do you want to see results for %{query_from_all_sites}?
-      query_from_all_sites: '%{query} from all sites'
+      query_from_all_sites: '%{query} from all locations'
 # Prompts for searchers to see more jobs from the inline jobs module
     more_agency_job_openings: More %{agency} job openings
     more_federal_job_openings: More federal job openings on USAJobs.gov
