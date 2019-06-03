@@ -1,5 +1,5 @@
+# "no" is a reserved word in YAML, so we have to force it to be evaluated as a string:
 !!str no:
-# Per Loren 5/6/2015 - "no" is a reserved word in YAML (news to me), so you have to escape the first line in no.yml like this: `!!str no:`
 
 # Search.gov localizations for: Norwegian (no)
 
