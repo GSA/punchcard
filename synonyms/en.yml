@@ -2053,9 +2053,9 @@ tex, texas, tx:
   :status: Candidate
   :analyzed: texa, tex, tx
 theses, thesis:
-  :notes: Approved (irregular plurals). AFF 10/6/14
+  :notes: Approved (irregular plurals). AFF 10/6/14. Removed 'these', was causing conflicts with the stopwords. DPM 2/25/2020
   :status: Approved
-  :analyzed: thesi, these
+  :analyzed: thesi
 ticket, tix:
   :notes:
   :status: Candidate
