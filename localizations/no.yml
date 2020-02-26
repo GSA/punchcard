@@ -1,3 +1,4 @@
+# "no" is a reserved word in YAML, so we have to force it to be evaluated as a string:
 !!str no:
 
 # Search.gov localizations for: Norwegian (no)
