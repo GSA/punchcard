@@ -40,7 +40,7 @@ en:
   did_you_mean: "We're including results for %{assumed_term}. Do you want results only for %{term_as_typed}?"
 
 # Prompts for searchers to revise or refine search
-  no_results_for_and_try: "Sorry, no results found for '%{query}'. Try entering fewer or broader query terms."
+  no_results_for_and_try: "Sorry, no results found for '%{query}'. Try entering fewer or broader search terms."
   too_long: "Your search term is too long. Try again using a shorter word or phrase."
   empty_query: "Please enter a search term in the box above."
 
@@ -59,7 +59,7 @@ en:
   job_openings: "Job Openings"
   at_agency: "at %{agency}"
   federal_job_openings: "Federal Job Openings"
-  no_job_results: "No job openings in your region match your query"
+  no_job_results: "No job openings in your region match your search"
 
   searches:
     by: by
