@@ -1,31 +1,15 @@
 Contributing to Punchcard
 =========================
 
-Punchard is work of [multiple contributors](https://github.com/GSA/punchcard/graphs/contributors). You're encouraged to submit [pull requests](https://github.com/GSA/punchcard/pulls), [propose features and discuss issues](https://github.com/GSA/punchcard/issues).
+Punchcard is work of [multiple contributors](https://github.com/GSA/punchcard/graphs/contributors). You're encouraged to submit [pull requests](https://github.com/GSA/punchcard/pulls), [propose features and discuss issues](https://github.com/GSA/punchcard/issues).
 
-
-#### Contributing to localization files
-
-These files are in the YAML format.
-
-You can edit existing files or create new files directly via the [Github web interface](https://github.com/GSA/punchcard/tree/master/localizations). Or, you can use Git from the command line (see below). Either way, follow these steps to create a new localization file:
-
-1. Start with `non_es_en_template.yml` and copy it into your new locale file. The reason you are using `non_es_en_template.yml` and not `en.yml` or `es.yml` is because the English and Spanish locale files contain many translations that are not used in other locales.
-1. Change the two letter locale in line 1 of your new file from `non_es_en_template` to match the locale of the filename.
-1. Be sure to follow the instructions for date-related fields like `cdr_format`, `date_format`, and `slashes`. Case is important!
-1. Be careful with preserving any opening/closing quotes around strings.
-1. Once you have the file ready, copy/paste it into a [YAML validator](http://www.yamllint.com) to ensure what you have is valid YAML.
-1. Commit the change in Github
+Note: As of November 2021, translations management has moved from the [GSA/Punchcard](https://github.com/GSA/punchcard/) repository to the [GSA/search-gov](https://github.com/GSA/search-gov) repository. Learn how to contribute to Search.gov translations [here](https://github.com/GSA/search-gov/blob/master/CONTRIBUTING.md).
 
 #### Fork the Project
 
-If you don't want to use the [Github web interface](https://github.com/GSA/punchcard/tree/master/localizations), you can use the command line tools to fork the [project on Github](https://github.com/GSA/punchcard) and check out your copy.
+If you don't want to use the [Github web interface](https://github.com/GSA/punchcard/tree/master/), you can use the command line tools to fork the [project on Github](https://github.com/GSA/punchcard) and check out your copy.
 
-```
-git clone https://github.com/contributor/punchcard.git
-cd punchcard
-git remote add upstream https://github.com/GSA/punchcard.git
-```
+Instructions on how to fork a project can be found [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
 #### Create a Topic Branch
 
@@ -43,7 +27,7 @@ Make sure git knows your name and email address:
 
 ```
 git config --global user.name "Your Name"
-git config --global user.email "contributor@example.com"
+git config --global user.email "youremail@example.com"
 ```
 
 Writing good commit logs is important. A commit log should describe what changed and why.
@@ -61,7 +45,7 @@ git push origin my-feature-branch
 
 #### Make a Pull Request
 
-Go to https://github.com/contributor/punchcard and select your feature branch. Click the 'Pull Request' button and fill out the form. A series of automated tests will run on [CirclCI](https://circleci.com/gh/GSA/punchcard). If tests pass, your pull request will usually get reviewed and accepted within a few days.
+[Create a PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) to propose your changes. A series of automated tests will run on [CircleCI](https://circleci.com/gh/GSA/punchcard). If tests pass, your pull request will usually get reviewed and accepted within a few days.
 
 #### Be Patient
 

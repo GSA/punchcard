@@ -304,10 +304,9 @@ The Elasticsearch index mapping used to transform entries into analyzed fields i
 
 # Localizations (l10n)
 
-The Search.gov application uses these YAML files to provide localized translations of text strings 
-based on the locale set for the user.
+As of November 2021, translations management has moved to the [GSA/search-gov](https://github.com/GSA/search-gov) repository. Learn how to contribute to Search.gov translations [here](https://github.com/GSA/search-gov/blob/master/CONTRIBUTING.md).
 
-## Contributing
+# Contributing
 
 You're encouraged to submit changes via pull requests, propose features and discuss issues.
 
