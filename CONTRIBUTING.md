@@ -1,7 +1,7 @@
 Contributing to Punchcard
 =========================
 
-Punchcard is work of [multiple contributors](https://github.com/GSA/punchcard/graphs/contributors). You're encouraged to submit [pull requests](https://github.com/GSA/punchcard/pulls), [propose features and discuss issues](https://github.com/GSA/punchcard/issues).
+Punchcard is the work of [multiple contributors](https://github.com/GSA/punchcard/graphs/contributors). You're encouraged to submit [pull requests](https://github.com/GSA/punchcard/pulls), [propose features and discuss issues](https://github.com/GSA/punchcard/issues).
 
 Note: As of November 2021, translations management has moved from the [GSA/Punchcard](https://github.com/GSA/punchcard/) repository to the [GSA/search-gov](https://github.com/GSA/search-gov) repository. Learn how to contribute to Search.gov translations [here](https://github.com/GSA/search-gov/blob/master/CONTRIBUTING.md).
 
@@ -46,10 +46,6 @@ git push origin my-feature-branch
 #### Make a Pull Request
 
 [Create a PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) to propose your changes. A series of automated tests will run on [CircleCI](https://circleci.com/gh/GSA/punchcard). If tests pass, your pull request will usually get reviewed and accepted within a few days.
-
-#### Be Patient
-
-It's likely that your change will not be merged and that the nitpicky maintainers (or CircleCI) will ask you to do more, or fix seemingly benign problems. Hang on there!
 
 #### Thank You
 
