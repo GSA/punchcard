@@ -1,9 +1,12 @@
-# testing
-version: 2
+version: 2.1
+
+orbs:
+  ruby: circleci/ruby@1.2.0
+
 jobs:
   build:
     docker:
-       - image: circleci/ruby:2.4.1-node-browsers
+       - image: cimg/ruby:2.6.7
 
     working_directory: ~/punchcard
 
