@@ -13,18 +13,8 @@ jobs:
     steps:
       - checkout
 
-      - restore_cache:
-          key: punchcard-{{ checksum "Gemfile.lock" }}
-
-      - run:
-          name: install dependencies
-          command: |
-            bundle install --jobs=4 --retry=3 --path vendor/bundle
-
-      - save_cache:
-          key: punchcard-{{ checksum "Gemfile.lock" }}
-          paths:
-            - vendor/bundle
+      # Install gems with Bundler
+      - ruby/install-deps
 
       - run:
           name: Run tests
